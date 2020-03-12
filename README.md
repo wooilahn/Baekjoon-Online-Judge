@@ -13,3 +13,4 @@ boj_1008: [A/B](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Ba
 boj_1009: [분산처리(Distributed processing)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1009/1009.cpp) [Simple implementation(Modular Operator)]  
 boj_1010: [다리 놓기(Building Bridge)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1010/1010.cpp) [Dymamic programming & Combination]  
 boj_1011: [Fly me to the Alpha Centauri](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1011/1011.cpp) [Find rules]
+boj_14888: [연산자 끼워넣기(Insert Operator)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_14888/14888.cpp)[Backtracking]  
