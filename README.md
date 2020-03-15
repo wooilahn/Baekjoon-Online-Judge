@@ -15,7 +15,8 @@ boj_1010: [다리 놓기(Building Bridge)](https://github.com/wooilahn/Baekjoon_
 boj_1011: [Fly me to the Alpha Centauri](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1011/1011.cpp) [Find rules]  
 boj_1012: [유기농 배추(Organic cabbage)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1012/1012.cpp)[DFS & BFS]  
 boj_2557: [Hello World](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2557/2557.cpp) [Simple implementation]  
-boj_10171: [고양이(Cat)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2557/2557.cpp) [Simple implementation]  
+boj_10171: [고양이(Cat)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10171/10171.cpp) [Simple implementation]  
+boj_10172: [개(Dog)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10172/10172.cpp) [Simple implementation]  
 boj_10718: [We love kriii](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10718/10718.cpp) [Simple implementation]  
 boj_14888: [연산자 끼워넣기(Insert operator)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_14888/14888.cpp)[Backtracking]  
 
