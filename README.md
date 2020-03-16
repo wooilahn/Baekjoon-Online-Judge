@@ -26,4 +26,3 @@ boj_10869: [사칙연산(Four arithmetic operations)](https://github.com/wooilah
 boj_10996: [별 찍기 - 21](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10996/10996.cpp) [Simple implementation]  
 boj_10998: [AxB](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10998/10998.cpp) [Simple implementation]  
 boj_14888: [연산자 끼워넣기(Insert operator)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_14888/14888.cpp)[Backtracking]  
-
