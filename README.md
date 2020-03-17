@@ -18,6 +18,7 @@ boj_1330: [두 수 비교하기(Comparing two numbers)](https://github.com/wooil
 boj_2446: [별 찍기 - 9](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2446/2446.cpp) [Simple implementation]  
 boj_2523: [별 찍기 - 13](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2523/2523.cpp) [Simple implementation]  
 boj_2557: [Hello World](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2557/2557.cpp) [Simple implementation]  
+boj_2580: [스도쿠(Sudoku)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2557/2557.cpp) [Simple implementation]  
 boj_2588: [곱셈(Multiplication)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2588/2588.cpp) [Simple implementation]  
 boj_2753: [윤년(leap year)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2753/2753.cpp) [Simple implementation]  
 boj_2884: [알람 시계(Alarm clock)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2884/2884.cpp) [Simple implementation]
@@ -31,3 +32,4 @@ boj_10996: [별 찍기 - 21](https://github.com/wooilahn/Baekjoon_Online_Judge/b
 boj_10998: [AxB](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10998/10998.cpp) [Simple implementation]  
 boj_14681: [사분면 고르기(Selecting quadrant)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_14681/14681.cpp) [Simple implementation]  
 boj_14888: [연산자 끼워넣기(Insert operator)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_14888/14888.cpp)[Backtracking]  
+boj_14889: [스타트와 링크(Start & Link)]((https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_14889/14889.cpp)[Backtracking]  
