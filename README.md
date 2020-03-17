@@ -21,7 +21,7 @@ boj_2557: [Hello World](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/m
 boj_2580: [스도쿠(Sudoku)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2557/2557.cpp) [Simple implementation]  
 boj_2588: [곱셈(Multiplication)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2588/2588.cpp) [Simple implementation]  
 boj_2753: [윤년(leap year)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2753/2753.cpp) [Simple implementation]  
-boj_2884: [알람 시계(Alarm clock)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2884/2884.cpp) [Simple implementation]
+boj_2884: [알람 시계(Alarm clock)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2884/2884.cpp) [Simple implementation]  
 boj_9498: [시험 성적(Exam Score)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_9498/9498.cpp) [Simple implementation]
 boj_10171: [고양이(Cat)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10171/10171.cpp) [Simple implementation]  
 boj_10172: [개(Dog)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10172/10172.cpp) [Simple implementation]  
