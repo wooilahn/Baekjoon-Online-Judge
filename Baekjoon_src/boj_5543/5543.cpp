@@ -1,13 +1,10 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <algorithm>
-#include <vector>
 
 using namespace std;
-vector<int> v;
 
 int main() {
-
 	int sd_burger, jd_burger, hd_burger;
 	int coke, soda;
 	int burger, beverage;
