@@ -27,6 +27,7 @@ boj_2562: [최댓값(Max value)](https://github.com/wooilahn/Baekjoon_Online_Jud
 boj_2577: [숫자의 갯수(The number of numbers)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2577/2577.cpp) [Simple implementation]  
 boj_2580: [스도쿠(Sudoku)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2580/2580.cpp) [Simple implementation]  
 boj_2588: [곱셈(Multiplication)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2588/2588.cpp) [Simple implementation]  
+boj_2675: [문자열 반복(Repeating String)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2675/2675.cpp) [String handling]    
 boj_2739: [구구단(Multiplication table)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2739/2739.cpp) [Simple implementation]  
 boj_2741: [N 찍기(Print N)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2741/2741.cpp) [Simple implementation]  
 boj_2742: [기찍 N(Reverse Print N)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2742/2742.cpp) [Simple implementation]  
