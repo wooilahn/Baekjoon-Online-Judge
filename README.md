@@ -37,7 +37,7 @@ boj_2753: [윤년(leap year)](https://github.com/wooilahn/Baekjoon_Online_Judge/
 boj_2884: [알람 시계(Alarm clock)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2884/2884.cpp) [Simple implementation]  
 boj_2908: [상수(Constant number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2908/2908.cpp) [String handling]  
 boj_3052: [나머지(Remainder)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3052/3052.cpp) [Simple implementation]  
-boj_4344: [평균은 넘겠지](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_4344/4344.cpp) [Simple implementation] 
+boj_4344: [평균은 넘겠지](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_4344/4344.cpp) [Simple implementation]  
 boj_4673: [셀프 넘버(Self Number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_4673/4673.cpp) [Simple implementation]  
 boj_5543: [상근날드(Sangeun-nald](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5543/5543.cpp) [Simple implementation]  
 boj_8393: [합(Sum)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_8393/8393.cpp) [Simple implementation]  
