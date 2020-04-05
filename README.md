@@ -16,6 +16,7 @@ boj_1011: [Fly me to the Alpha Centauri](https://github.com/wooilahn/Baekjoon_On
 boj_1012: [유기농 배추(Organic cabbage)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1012/1012.cpp)[DFS & BFS]  
 boj_1051: [숫자 정사각형(Number Square)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1051/1051.cpp)[Brute-force]   
 boj_1065: [한수(Hansu)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1065/1065.cpp)[Simple implementation]  
+boj_1100: [하얀 칸(White Square)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1100/1100.cpp)[Simple implementation]    
 boj_1110: [더하기 사이클(Plus Cycle)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1110/1110.cpp)[Simple implementation]  
 boj_1152: [단어의 개수(The number of words)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1152/1152.cpp)[String handling]    
 boj_1157: [단어 공부(Word study)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1157/1157.cpp)[String handling]  
