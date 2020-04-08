@@ -25,7 +25,7 @@ boj_1316: [그룹 단어 체커(Group Word Checker)](https://github.com/wooilahn
 boj_1330: [두 수 비교하기(Comparing two numbers)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1330/1330.cpp) [Simple implementation]  
 boj_1546: [평균(Average)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1546/1546.cpp) [Simple implementation]  
 boj_1712: [손익분기점(Breakeven point)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1712/1712.cpp) [Mathematics]  
-boj_1931: [회의실배정(Meeting-room Assignment)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1931/1931.cpp) [Mathematics]  
+boj_1931: [회의실배정(Meeting-room Assignment)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1931/1931.cpp) [Greedy Algorithm]    
 boj_2292: [벌집(Honeycomb)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2292/2292.cpp) [Mathematics]    
 boj_2438: [별 찍기 - 1](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2438/2438.cpp) [Simple implementation]  
 boj_2439: [별 찍기 - 2](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2439/2439.cpp) [Simple implementation]  
