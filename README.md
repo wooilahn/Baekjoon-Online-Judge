@@ -40,6 +40,7 @@ boj_2675: [문자열 반복(Repeating String)](https://github.com/wooilahn/Baekj
 boj_2739: [구구단(Multiplication table)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2739/2739.cpp) [Simple implementation]  
 boj_2741: [N 찍기(Print N)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2741/2741.cpp) [Simple implementation]  
 boj_2742: [기찍 N(Reverse Print N)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2742/2742.cpp) [Simple implementation]  
+boj_2750: [수 정렬하기(Sorting number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2750/2750.cpp) [Sorting]  
 boj_2753: [윤년(leap year)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2753/2753.cpp) [Simple implementation]  
 boj_2839: [설탕 배달(Sugar Delivery)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2753/2753.cpp) [Mathematics]  
 boj_2869: [달팽이는 올라가고 싶다](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2869/2869.cpp) [Mathematics]  
