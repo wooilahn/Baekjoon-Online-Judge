@@ -53,6 +53,7 @@ boj_2941: [크로아티아 알파벳(Croatia Alphabet)](https://github.com/wooil
 boj_3052: [나머지(Remainder)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3052/3052.cpp) [Simple implementation]  
 boj_4344: [평균은 넘겠지](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_4344/4344.cpp) [Simple implementation]  
 boj_4673: [셀프 넘버(Self Number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_4673/4673.cpp) [Simple implementation]  
+boj_4949: [균형잡힌 세상(A balanced world)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_4949/4949.cpp) [Stack, String handling]  
 boj_5543: [상근날드(Sangeun-nald](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5543/5543.cpp) [Simple implementation]  
 boj_5622: [다이얼(Dial)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5622/5622.cpp) [String handling]    
 boj_8393: [합(Sum)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_8393/8393.cpp) [Simple implementation]  
