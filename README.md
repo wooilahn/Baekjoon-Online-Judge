@@ -24,6 +24,7 @@ boj_1157: [단어 공부(Word study)](https://github.com/wooilahn/Baekjoon_Onlin
 boj_1193: [분수찾기(Finding Fraction)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1193/1193.cpp)[Mathematics]  
 boj_1316: [그룹 단어 체커(Group Word Checker)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1316/1316.cpp)[String handling]  
 boj_1330: [두 수 비교하기(Comparing two numbers)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1330/1330.cpp) [Simple implementation]  
+boj_1541: [잃어버린 괄호(Lost parenthesis)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1541/1541.cpp) [Greedy Algorithm, String handling]  
 boj_1546: [평균(Average)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1546/1546.cpp) [Simple implementation]  
 boj_1712: [손익분기점(Breakeven point)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1712/1712.cpp) [Mathematics]  
 boj_1931: [회의실배정(Meeting-room Assignment)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1931/1931.cpp) [Greedy Algorithm]    
