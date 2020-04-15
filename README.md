@@ -85,4 +85,6 @@ boj_14888: [연산자 끼워넣기(Insert operator)](https://github.com/wooilahn
 boj_14889: [스타트와 링크(Start & Link)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_14889/14889.cpp)[Backtracking]  
 boj_15552: [빠른 A+B(Fast A+B)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_15552/15552.cpp)[Simple implementation]  
 boj_15596: [정수 N개의 합(Sum of N integer)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_15596/15596.cpp)[Simple implementation, just Function]  
+boj_18258: [큐 2(Queue 2)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_15596/15596.cpp)[Queue]  
+
 
