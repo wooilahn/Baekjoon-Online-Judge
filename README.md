@@ -28,7 +28,8 @@ boj_1541: [잃어버린 괄호(Lost parenthesis)](https://github.com/wooilahn/Ba
 boj_1546: [평균(Average)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1546/1546.cpp) [Simple implementation]  
 boj_1712: [손익분기점(Breakeven point)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1712/1712.cpp) [Mathematics]  
 boj_1931: [회의실배정(Meeting-room Assignment)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1931/1931.cpp) [Greedy Algorithm]  
-boj_2004: [조합 0의 개수(The number of combinations 0)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1931/1931.cpp) [Mathematics, Combination]    
+boj_2004: [조합 0의 개수(The number of combinations 0)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2004/2004.cpp) [Mathematics, Combination]    
+boj_2164: [카드2(Card 2)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2164/2164.cpp) [Deque]  
 boj_2292: [벌집(Honeycomb)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2292/2292.cpp) [Mathematics]    
 boj_2438: [별 찍기 - 1](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2438/2438.cpp) [Simple implementation]  
 boj_2439: [별 찍기 - 2](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2439/2439.cpp) [Simple implementation]  
@@ -46,7 +47,7 @@ boj_2742: [기찍 N(Reverse Print N)](https://github.com/wooilahn/Baekjoon_Onlin
 boj_2750: [수 정렬하기(Sorting number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2750/2750.cpp) [Sorting]  
 boj_2751: [수 정렬하기 2(Sorting number 2)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2751/2751.cpp) [Sorting]  
 boj_2753: [윤년(leap year)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2753/2753.cpp) [Simple implementation]  
-boj_2839: [설탕 배달(Sugar Delivery)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2753/2753.cpp) [Mathematics]  
+boj_2839: [설탕 배달(Sugar Delivery)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2839/2839.cpp) [Mathematics]  
 boj_2869: [달팽이는 올라가고 싶다](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2869/2869.cpp) [Mathematics]  
 boj_2884: [알람 시계(Alarm clock)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2884/2884.cpp) [Simple implementation]  
 boj_2908: [상수(Constant number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2908/2908.cpp) [String handling]  
@@ -85,6 +86,6 @@ boj_14888: [연산자 끼워넣기(Insert operator)](https://github.com/wooilahn
 boj_14889: [스타트와 링크(Start & Link)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_14889/14889.cpp)[Backtracking]  
 boj_15552: [빠른 A+B(Fast A+B)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_15552/15552.cpp)[Simple implementation]  
 boj_15596: [정수 N개의 합(Sum of N integer)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_15596/15596.cpp)[Simple implementation, just Function]  
-boj_18258: [큐 2(Queue 2)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_15596/15596.cpp)[Queue]  
+boj_18258: [큐 2(Queue 2)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_18528/18528.cpp)[Queue]  
 
 
