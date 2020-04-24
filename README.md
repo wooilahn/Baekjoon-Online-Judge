@@ -28,6 +28,7 @@ boj_1541: [잃어버린 괄호(Lost parenthesis)](https://github.com/wooilahn/Ba
 boj_1546: [평균(Average)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1546/1546.cpp) [Simple implementation]  
 boj_1697: [숨바꼭질(hide and seek)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1697/1697.cpp) [BFS(Breadth-first Search)]    
 boj_1712: [손익분기점(Breakeven point)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1712/1712.cpp) [Mathematics]  
+boj_1789: [수들의 합(Sum of numbers)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1789/1789.cpp) [Mathematics, Simulation]  
 boj_1931: [회의실배정(Meeting-room Assignment)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1931/1931.cpp) [Greedy Algorithm]    
 boj_1978: [소수찾기(Finding Prime Number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1978/1978.cpp) [Mathematics, Sieve of Eratosthenes]  
 boj_2004: [조합 0의 개수(The number of combinations 0)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2004/2004.cpp) [Mathematics, Combination]    
