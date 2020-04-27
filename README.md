@@ -37,6 +37,7 @@ boj_2164: [카드2(Card 2)](https://github.com/wooilahn/Baekjoon_Online_Judge/bl
 boj_2292: [벌집(Honeycomb)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2292/2292.cpp) [Mathematics]    
 boj_2438: [별 찍기 - 1](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2438/2438.cpp) [Simple implementation]  
 boj_2439: [별 찍기 - 2](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2439/2439.cpp) [Simple implementation]  
+boj_2442: [별 찍기 - 5](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2439/2442.cpp) [Simple implementation]  
 boj_2446: [별 찍기 - 9](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2446/2446.cpp) [Simple implementation]  
 boj_2523: [별 찍기 - 13](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2523/2523.cpp) [Simple implementation]  
 boj_2557: [Hello World](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2557/2557.cpp) [Simple implementation]  
