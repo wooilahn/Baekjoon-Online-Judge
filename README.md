@@ -1,7 +1,7 @@
 # Baekjoon_online_judge
 Baekjoon Online Judge Code
 
-## Code List of Problem
+## Code List of Problem (List is sorted in ascending order.) 
 boj_1000: [A+B](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1000/1000.cpp) [Simple implementation]   
 boj_1001: [A-B](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1001/1001.cpp) [Simple implementation]  
 boj_1002: [터렛(Turret)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1002/1002.cpp) [Inscription and Circumscription]  
@@ -103,5 +103,4 @@ boj_14889: [스타트와 링크(Start & Link)](https://github.com/wooilahn/Baekj
 boj_15552: [빠른 A+B(Fast A+B)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_15552/15552.cpp)[Simple implementation]  
 boj_15596: [정수 N개의 합(Sum of N integer)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_15596/15596.cpp)[Simple implementation, just Function]  
 boj_18258: [큐 2(Queue 2)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_18528/18528.cpp)[Queue]  
-
 
