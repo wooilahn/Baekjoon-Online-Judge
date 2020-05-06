@@ -32,5 +32,6 @@ int main() {
 			p_q.push(make_pair(abs(x), x));
 	}
 
+
 	return 0;
 }
