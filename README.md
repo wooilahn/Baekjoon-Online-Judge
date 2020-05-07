@@ -33,6 +33,7 @@ boj_1629: [곱셈(Multiplication)](https://github.com/wooilahn/Baekjoon_Online_J
 boj_1697: [숨바꼭질(hide and seek)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1697/1697.cpp) [BFS(Breadth-first Search)]    
 boj_1712: [손익분기점(Breakeven point)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1712/1712.cpp) [Mathematics]  
 boj_1789: [수들의 합(Sum of numbers)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1789/1789.cpp) [Mathematics, Simulation]  
+boj_1927: [최소 힙(Min Heap)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1927/1927.cpp) [Priority Queue]  
 boj_1929: [소수 구하기(Finding Prime Number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1929/1929.cpp) [Mathematics, Prime Number]    
 boj_1931: [회의실배정(Meeting-room Assignment)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1931/1931.cpp) [Greedy Algorithm]    
 boj_1978: [소수찾기(Finding Prime Number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1978/1978.cpp) [Mathematics, Sieve of Eratosthenes]  

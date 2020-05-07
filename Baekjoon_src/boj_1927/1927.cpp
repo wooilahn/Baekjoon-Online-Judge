@@ -1,10 +1,12 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <queue>
+#include <algorithm>
+#include <vector>
 
 using namespace std;
 
-priority_queue<int> pq;
+priority_queue<int, vector<int>, greater<int>> pq;
 
 int main() {
 
