@@ -30,6 +30,7 @@ boj_1476: [날짜 계산(Data Calculation)](https://github.com/wooilahn/Baekjoon
 boj_1541: [잃어버린 괄호(Lost parenthesis)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1541/1541.cpp) [Greedy Algorithm, String handling]  
 boj_1546: [평균(Average)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1546/1546.cpp) [Simple implementation]  
 boj_1629: [곱셈(Multiplication)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1629/1629.cpp) [Divide and Conquer]    
+boj_1655: [가운데를 말해요(Say the middle point)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1655/1655.cpp) [Priority Queue]     
 boj_1697: [숨바꼭질(hide and seek)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1697/1697.cpp) [BFS(Breadth-first Search)]    
 boj_1712: [손익분기점(Breakeven point)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1712/1712.cpp) [Mathematics]  
 boj_1789: [수들의 합(Sum of numbers)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1789/1789.cpp) [Mathematics, Simulation]  
