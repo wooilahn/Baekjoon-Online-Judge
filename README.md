@@ -67,6 +67,7 @@ boj_2884: [알람 시계(Alarm clock)](https://github.com/wooilahn/Baekjoon_Onli
 boj_2908: [상수(Constant number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2908/2908.cpp) [String handling]  
 boj_2941: [크로아티아 알파벳(Croatia Alphabet)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2941/2941.cpp) [String handling]  
 boj_3052: [나머지(Remainder)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3052/3052.cpp) [Simple implementation]  
+boj_4153: [직각삼각형(Right triangle)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_4153/4153.cpp) [Mathematics]    
 boj_4344: [평균은 넘겠지](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_4344/4344.cpp) [Simple implementation]  
 boj_4673: [셀프 넘버(Self Number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_4673/4673.cpp) [Simple implementation]  
 boj_4948: [베르트랑 공준(Bertrand's postulate)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_4948/4948.cpp) [Mathematics, Prime Number]  
