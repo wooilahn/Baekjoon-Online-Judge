@@ -68,6 +68,7 @@ boj_2908: [상수(Constant number)](https://github.com/wooilahn/Baekjoon_Online_
 boj_2941: [크로아티아 알파벳(Croatia Alphabet)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2941/2941.cpp) [String handling]  
 boj_3009: [네 번째 점(Fourth point)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3009/3009.cpp) [String handling]  
 boj_3052: [나머지(Remainder)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3052/3052.cpp) [Simple implementation]  
+boj_3053: [택시 기하학(A taxicab geometry)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3053/3053.cpp) [Mathematics]  
 boj_4153: [직각삼각형(Right triangle)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_4153/4153.cpp) [Mathematics]    
 boj_4344: [평균은 넘겠지](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_4344/4344.cpp) [Simple implementation]  
 boj_4673: [셀프 넘버(Self Number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_4673/4673.cpp) [Simple implementation]  
