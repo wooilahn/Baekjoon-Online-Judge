@@ -95,6 +95,7 @@ boj_10818: [최소, 최대(min, max)](https://github.com/wooilahn/Baekjoon_Onlin
 boj_10830: [행렬 제곱(Square of Matrix)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10830/10830.cpp) [Divide and Conquer]    
 boj_10869: [사칙연산(Four arithmetic operations)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10869/10869.cpp) [Simple implementation]  
 boj_10871: [X보다 작은 수(The number that smaller than X)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10871/10871.cpp) [Simple implementation]  
+boj_10872: [팩토리얼(factorial)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10872/10872.cpp) [Recursive function]    
 boj_10942: [팰린드롬?(Palindrome?)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10942/10942.cpp) [Dynamic Programming]  
 boj_10950: [A + B - 3](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10950/10950.cpp) [Simple implementation]  
 boj_10951: [A + B - 4](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10951/10951.cpp) [Simple implementation]  
