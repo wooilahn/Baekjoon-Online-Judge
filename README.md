@@ -47,6 +47,7 @@ boj_2438: [별 찍기 - 1](https://github.com/wooilahn/Baekjoon_Online_Judge/blo
 boj_2439: [별 찍기 - 2](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2439/2439.cpp) [Simple implementation]  
 boj_2442: [별 찍기 - 5](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2439/2442.cpp) [Simple implementation]  
 boj_2446: [별 찍기 - 9](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2446/2446.cpp) [Simple implementation]  
+boj_2447: [별 찍기 - 10](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2447/2447.cpp) [Recursive function]  
 boj_2523: [별 찍기 - 13](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2523/2523.cpp) [Simple implementation]  
 boj_2557: [Hello World](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2557/2557.cpp) [Simple implementation]  
 boj_2562: [최댓값(Max value)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2562/2562.cpp) [Simple implementation]  
