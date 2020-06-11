@@ -79,6 +79,7 @@ boj_4948: [베르트랑 공준(Bertrand's postulate)](https://github.com/wooilah
 boj_4949: [균형잡힌 세상(A balanced world)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_4949/4949.cpp) [Stack, String handling]  
 boj_5543: [상근날드(Sangeun-nald](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5543/5543.cpp) [Simple implementation]  
 boj_5622: [다이얼(Dial)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5622/5622.cpp) [String handling]    
+boj_7568: [덩치(Build)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_7568/7568.cpp) [Brute-force]  
 boj_8393: [합(Sum)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_8393/8393.cpp) [Simple implementation]  
 boj_8958: [OX퀴즈(OX Quiz)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_8958/8358.cpp) [Simple implementation]  
 boj_9020: [골드바흐의 추측(Goldbach's conjecture)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_9020/9020.cpp) [Mathematics, Prime Number]  
