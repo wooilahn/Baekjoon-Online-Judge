@@ -14,6 +14,7 @@ boj_1009: [분산처리(Distributed processing)](https://github.com/wooilahn/Bae
 boj_1010: [다리 놓기(Building Bridge)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1010/1010.cpp) [Dymamic programming & Combination]  
 boj_1011: [Fly me to the Alpha Centauri](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1011/1011.cpp) [Find rules]  
 boj_1012: [유기농 배추(Organic cabbage)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1012/1012.cpp)[DFS & BFS]  
+boj_1018: [체스판 다시 칠하기(Repainting the chessboard)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1018/1018.cpp)[Brute-force]     
 boj_1037: [약수(divisor)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1037/1037.cpp)[Mathematics]  
 boj_1051: [숫자 정사각형(Number Square)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1051/1051.cpp)[Brute-force]   
 boj_1062: [가르침(teaching)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1062/1062.cpp)[Brute-force, String handling, Simulation]  
