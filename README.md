@@ -28,6 +28,7 @@ boj_1193: [분수찾기(Finding Fraction)](https://github.com/wooilahn/Baekjoon_
 boj_1316: [그룹 단어 체커(Group Word Checker)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1316/1316.cpp)[String handling]  
 boj_1330: [두 수 비교하기(Comparing two numbers)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1330/1330.cpp) [Simple implementation]  
 boj_1427: [소트인사이드(Sort inside)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1427/1427.cpp) [Sorting]  
+boj_1436: [영화감독 숌(Film Director, Syom)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1436/1436.cpp) [Brute-force]  
 boj_1476: [날짜 계산(Data Calculation)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1476/1476.cpp) [Mathematics, Modular Operator]    
 boj_1541: [잃어버린 괄호(Lost parenthesis)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1541/1541.cpp) [Greedy Algorithm, String handling]  
 boj_1546: [평균(Average)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1546/1546.cpp) [Simple implementation]  
