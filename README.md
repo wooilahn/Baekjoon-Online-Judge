@@ -109,6 +109,7 @@ boj_10942: [팰린드롬?(Palindrome?)](https://github.com/wooilahn/Baekjoon_Onl
 boj_10950: [A + B - 3](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10950/10950.cpp) [Simple implementation]  
 boj_10951: [A + B - 4](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10951/10951.cpp) [Simple implementation]  
 boj_10952: [A + B - 5](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10952/10952.cpp) [Simple implementation]  
+boj_10989: [수 정렬하기 3(Sorting number 3)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10989/10989.cpp) [Soritng]    
 boj_10996: [별 찍기 - 21](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10996/10996.cpp) [Simple implementation]  
 boj_10998: [AxB](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10998/10998.cpp) [Simple implementation]  
 boj_11021: [A+B - 7](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_11021/11021.cpp) [Simple implementation]  
