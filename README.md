@@ -131,5 +131,6 @@ boj_14889: [스타트와 링크(Start & Link)](https://github.com/wooilahn/Baekj
 boj_15552: [빠른 A+B(Fast A+B)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_15552/15552.cpp)[Simple implementation]  
 boj_15596: [정수 N개의 합(Sum of N integer)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_15596/15596.cpp)[Simple implementation, just Function]  
 boj_15649: [N과 M (1) (N and M (1))](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_15649/15649.cpp)[Backtracking]   
+boj_15650: [N과 M (2) (N and M (2))](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_15650/15650.cpp)[Backtracking]  
 boj_18258: [큐 2(Queue 2)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_18528/18528.cpp)[Queue]  
 
