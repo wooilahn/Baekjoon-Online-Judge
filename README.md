@@ -91,6 +91,7 @@ boj_8393: [합(Sum)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/mast
 boj_8958: [OX퀴즈(OX Quiz)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_8958/8358.cpp) [Simple implementation]  
 boj_9020: [골드바흐의 추측(Goldbach's conjecture)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_9020/9020.cpp) [Mathematics, Prime Number]  
 boj_9498: [시험 성적(Exam Score)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_9498/9498.cpp) [Simple implementation]  
+boj_9663: [N-Queen(N-Queen)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_9663/9663.cpp) [Backtracking]    
 boj_10039: [평균점수(Average Score)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10039/10039.cpp) [Simple implementation]  
 boj_10171: [고양이(Cat)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10171/10171.cpp) [Simple implementation]  
 boj_10172: [개(Dog)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10172/10172.cpp) [Simple implementation]  
