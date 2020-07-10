@@ -9,7 +9,6 @@ int ans = 0;
 int col[17] = { 0 };
 
 bool promising(int cnt) {
-
 	for (int k = 0; k < cnt; k++) {
 		if (col[k] == col[cnt] || abs(col[k] - col[cnt]) == abs(k - cnt))
 			return false;
@@ -19,7 +18,6 @@ bool promising(int cnt) {
 }
 
 void N_Queen(int cnt) {
-
 	if (cnt == N) {
 		ans++;
 		return;
@@ -36,7 +34,6 @@ void N_Queen(int cnt) {
 
 int main() {
 	scanf("%d", &N);
-
 	N_Queen(0);
 	printf("%d\n", ans);
 
