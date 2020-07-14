@@ -74,6 +74,7 @@ boj_2839: [설탕 배달(Sugar Delivery)](https://github.com/wooilahn/Baekjoon_O
 boj_2869: [달팽이는 올라가고 싶다](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2869/2869.cpp) [Mathematics]  
 boj_2884: [알람 시계(Alarm clock)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2884/2884.cpp) [Simple implementation]  
 boj_2908: [상수(Constant number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2908/2908.cpp) [String handling]  
+boj_2914: [저작권(Copyright)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2914/2914.cpp) [Mathematics]    
 boj_2941: [크로아티아 알파벳(Croatia Alphabet)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2941/2941.cpp) [String handling]  
 boj_3009: [네 번째 점(Fourth point)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3009/3009.cpp) [String handling]  
 boj_3036: [링 (Ring)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3036/3036.cpp) [Mathematics]    
