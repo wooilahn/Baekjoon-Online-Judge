@@ -47,6 +47,7 @@ boj_1978: [소수찾기(Finding Prime Number)](https://github.com/wooilahn/Baekj
 boj_2004: [조합 0의 개수(The number of combinations 0)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2004/2004.cpp) [Mathematics, Combination]    
 boj_2108: [통계학(Statistics)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2108/2108.cpp) [Sorting]    
 boj_2164: [카드2(Card 2)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2164/2164.cpp) [Deque]  
+boj_2217: [로프(Loop)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2217/2217.cpp) [Greedy Algorithm]  
 boj_2225: [합분해(Sum-Decomposition)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2225/2225.cpp) [Dynamic Programming]  
 boj_2231: [분해합(Sum of Decomposition parts)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2231/2231.cpp) [Brute-force]    
 boj_2292: [벌집(Honeycomb)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2292/2292.cpp) [Mathematics]    
