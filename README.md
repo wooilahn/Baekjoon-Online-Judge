@@ -57,6 +57,7 @@ boj_2442: [별 찍기 - 5(Printing Stars - 5)](https://github.com/wooilahn/Baekj
 boj_2446: [별 찍기 - 9(Printing Stars - 9)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2446/2446.cpp) [Simple implementation]  
 boj_2447: [별 찍기 - 10(Printing Stars - 10)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2447/2447.cpp) [Recursive function]  
 boj_2523: [별 찍기 - 13(Printing Stars - 13)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2523/2523.cpp) [Simple implementation]  
+boj_2529: [부등호 (Inequality)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2529/2529.cpp) [Greedy Algorithm, Topological Sort]  
 boj_2557: [Hello World(Hello World)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2557/2557.cpp) [Simple implementation]  
 boj_2562: [최댓값(Max value)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2562/2562.cpp) [Simple implementation]  
 boj_2577: [숫자의 갯수(The number of numbers)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2577/2577.cpp) [Simple implementation]  
