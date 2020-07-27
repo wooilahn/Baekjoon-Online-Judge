@@ -150,3 +150,4 @@ boj_15894: [수학은 체육과목 입니다](https://github.com/wooilahn/Baekjo
 boj_17362: [수학은 체육과목 입니다2](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_17362/17362.cpp)[Simple implementation]    
 boj_18258: [큐 2(Queue 2)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_18528/18528.cpp)[Queue]  
 boj_19532: [수학은 비대면강의입니다](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_19532/19532.cpp)[Mathematics]    
+boj_19539: [사과나무(Apple tree)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_19539/19539.cpp)[Greedy Algorithm]  
