@@ -149,4 +149,4 @@ boj_15652: [N과 M (4) (N and M (4))](https://github.com/wooilahn/Baekjoon_Onlin
 boj_15894: [수학은 체육과목 입니다](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_15894/15894.cpp)[Simple implementation]    
 boj_17362: [수학은 체육과목 입니다2](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_17362/17362.cpp)[Simple implementation]    
 boj_18258: [큐 2(Queue 2)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_18528/18528.cpp)[Queue]  
-
+boj_19532: [수학은 비대면강의입니다](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_19532/19532.cpp)[Mathematics]    
