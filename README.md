@@ -112,6 +112,7 @@ boj_10814: [나이순 정렬(Sorting by age)](https://github.com/wooilahn/Baekjo
 boj_10816: [숫자 카드 2(Number Card 2)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10816/10816.cpp) [Binary Search]  
 boj_10817: [세 수(Three numbers)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10817/10817.cpp) [Simple implementation]  
 boj_10818: [최소, 최대(min, max)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10818/10818.cpp) [Simple implementation]  
+boj_10825: [국영수(Korean, English, Math)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10825/10825.cpp) [Sorting]    
 boj_10830: [행렬 제곱(Square of Matrix)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10830/10830.cpp) [Divide and Conquer]    
 boj_10869: [사칙연산(Four arithmetic operations)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10869/10869.cpp) [Simple implementation]  
 boj_10870: [피보나치 수 5(fibonacci 5)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10870/10870.cpp) [Recursive function]  
