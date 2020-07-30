@@ -26,6 +26,7 @@ boj_1152: [단어의 개수(The number of words)](https://github.com/wooilahn/Ba
 boj_1157: [단어 공부(Word study)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1157/1157.cpp)[String handling]  
 boj_1181: [단어 정렬(Sorting words)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1181/1181.cpp)[Sorting]  
 boj_1193: [분수찾기(Finding Fraction)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1193/1193.cpp)[Mathematics]  
+boj_1259: [팰린드롬수(number which is a Palindrome)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1259/1259.cpp)[Mathematics]  
 boj_1316: [그룹 단어 체커(Group Word Checker)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1316/1316.cpp)[String handling]  
 boj_1330: [두 수 비교하기(Comparing two numbers)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1330/1330.cpp) [Simple implementation]  
 boj_1427: [소트인사이드(Sort inside)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1427/1427.cpp) [Sorting]  
