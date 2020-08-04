@@ -32,6 +32,7 @@ boj_1330: [두 수 비교하기(Comparing two numbers)](https://github.com/wooil
 boj_1427: [소트인사이드(Sort inside)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1427/1427.cpp) [Sorting]  
 boj_1436: [영화감독 숌(Film Director, Syom)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1436/1436.cpp) [Brute-force]  
 boj_1476: [날짜 계산(Data Calculation)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1476/1476.cpp) [Mathematics, Modular Operator]    
+boj_1504: [특정한 최단 경로(Specific shortest path)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1504/1504.cpp) [Dijkstra's algorithm]    
 boj_1541: [잃어버린 괄호(Lost parenthesis)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1541/1541.cpp) [Greedy Algorithm, String handling]  
 boj_1546: [평균(Average)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1546/1546.cpp) [Simple implementation]  
 boj_1629: [곱셈(Multiplication)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1629/1629.cpp) [Divide and Conquer]    
