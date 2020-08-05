@@ -45,6 +45,7 @@ boj_1920: [수 찾기(Finding Number)](https://github.com/wooilahn/Baekjoon_Onli
 boj_1927: [최소 힙(Min Heap)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1927/1927.cpp) [Priority Queue]  
 boj_1929: [소수 구하기(Finding Prime Number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1929/1929.cpp) [Mathematics, Prime Number]    
 boj_1931: [회의실배정(Meeting-room Assignment)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1931/1931.cpp) [Greedy Algorithm]    
+boj_1956: [운동(Exercise)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1956/1956.cpp) [Floyd-Warshall Algorithm]  
 boj_1978: [소수찾기(Finding Prime Number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1978/1978.cpp) [Mathematics, Sieve of Eratosthenes]  
 boj_2004: [조합 0의 개수(The number of combinations 0)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2004/2004.cpp) [Mathematics, Combination]    
 boj_2108: [통계학(Statistics)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2108/2108.cpp) [Sorting]    
