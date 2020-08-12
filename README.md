@@ -39,6 +39,7 @@ boj_1629: [곱셈(Multiplication)](https://github.com/wooilahn/Baekjoon_Online_J
 boj_1655: [가운데를 말해요(Say the middle point)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1655/1655.cpp) [Priority Queue]     
 boj_1697: [숨바꼭질(hide and seek)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1697/1697.cpp) [BFS(Breadth-first Search)]    
 boj_1712: [손익분기점(Breakeven point)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1712/1712.cpp) [Mathematics]  
+boj_1753: [최단경로(Shortest Path)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1753/1753.cpp) [Shortest path, Dijkstra Algorithm]    
 boj_1764: [듣보잡(Something that never both have seen and be heard)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1764/1764.cpp) [String handling, binary search]    
 boj_1789: [수들의 합(Sum of numbers)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1789/1789.cpp) [Mathematics, Simulation]  
 boj_1920: [수 찾기(Finding Number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1920/1920.cpp) [Binary Search]  
