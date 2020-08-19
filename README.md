@@ -20,6 +20,7 @@ boj_1051: [숫자 정사각형(Number Square)](https://github.com/wooilahn/Baekj
 boj_1062: [가르침(teaching)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1062/1062.cpp)[Brute-force, String handling, Simulation]  
 boj_1065: [한수(Hansu)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1065/1065.cpp)[Simple implementation]  
 boj_1085: [직사각형에서 탈출(Escape from rectangle)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1085/1085.cpp)[Mathematics]  
+boj_1086: [박성원(Park Sung-won)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1086/1086.cpp)[Dynamic Programming, Bitmasking]    
 boj_1100: [하얀 칸(White Square)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1100/1100.cpp)[Simple implementation]    
 boj_1110: [더하기 사이클(Plus Cycle)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1110/1110.cpp)[Simple implementation]  
 boj_1152: [단어의 개수(The number of words)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1152/1152.cpp)[String handling]    
