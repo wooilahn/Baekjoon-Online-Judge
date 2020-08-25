@@ -10,12 +10,7 @@ vector<int> v;
 int dp[1005] = { 0 };
 int tr[1005] = { 0 };
 
-int solve(int n) {
-	return 1;
-}
-
 void print(int n) {
-
 	vector<int> pv;
 
 	while (true) {
@@ -29,7 +24,6 @@ void print(int n) {
 
 	for (int i = pv.size() - 1; i >= 0; i--) 
 		printf("%d ", pv.at(i));
-	
 	printf("\n");
 
 	return;
