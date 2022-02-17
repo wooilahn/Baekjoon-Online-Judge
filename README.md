@@ -64,6 +64,7 @@ boj_2439: [별 찍기 - 2(Printing Stars - 2)](https://github.com/wooilahn/Baekj
 boj_2442: [별 찍기 - 5(Printing Stars - 5)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2439/2442.cpp) [Simple implementation]  
 boj_2446: [별 찍기 - 9(Printing Stars - 9)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2446/2446.cpp) [Simple implementation]  
 boj_2447: [별 찍기 - 10(Printing Stars - 10)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2447/2447.cpp) [Recursive function]  
+boj_2480: [주사위 세개(Three Dices)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2447/2447.cpp) [Simple implementation(if-else)]   
 boj_2482: [색상환(Color Circle)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2482/2482.cpp) [Dynamic Programming]    
 boj_2493: [탑 (Top)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2493/2493.cpp) [Stack]  
 boj_2523: [별 찍기 - 13(Printing Stars - 13)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2523/2523.cpp) [Simple implementation]  
