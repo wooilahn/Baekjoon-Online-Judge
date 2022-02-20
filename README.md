@@ -69,6 +69,7 @@ boj_2482: [색상환(Color Circle)](https://github.com/wooilahn/Baekjoon_Online_
 boj_2493: [탑 (Top)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2493/2493.cpp) [Stack]  
 boj_2523: [별 찍기 - 13(Printing Stars - 13)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2523/2523.cpp) [Simple implementation]  
 boj_2529: [부등호 (Inequality)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2529/2529.cpp) [Greedy Algorithm, Topological Sort]  
+boj_2530: [인공지능 시계(Artifical Intelligence watch)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2529/2529.cpp) [Simple implementation]    
 boj_2557: [Hello World(Hello World)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2557/2557.cpp) [Simple implementation]  
 boj_2562: [최댓값(Max value)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2562/2562.cpp) [Simple implementation]  
 boj_2577: [숫자의 갯수(The number of numbers)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2577/2577.cpp) [Simple implementation]  
