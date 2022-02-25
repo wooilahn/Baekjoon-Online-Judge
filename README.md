@@ -105,6 +105,7 @@ boj_4948: [베르트랑 공준(Bertrand's postulate)](https://github.com/wooilah
 boj_4949: [균형잡힌 세상(A balanced world)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_4949/4949.cpp) [Stack, String handling]  
 boj_5073: [삼각형과 세 변(Triangle and three sides)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5073/5073.cpp) [Simple implementation, Mathematics]    
 boj_5086: [배수와 약수(Multiple and divisor)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5086/5086.cpp) [Mathematics]  
+boj_5355: [화성 수학(Mathematics in Mars)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5355/5355.cpp) [Simple implementation]  
 boj_5543: [상근날드(Sangeun-nald](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5543/5543.cpp) [Simple implementation]  
 boj_5585: [거스름돈(Change)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5585/5585.cpp) [Simple implementation]  
 boj_5622: [다이얼(Dial)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5622/5622.cpp) [String handling]      
