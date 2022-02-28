@@ -120,6 +120,7 @@ boj_9370: [미확인 도착지(Unidentified destination)](https://github.com/woo
 boj_9498: [시험 성적(Exam Score)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_9498/9498.cpp) [Simple implementation]  
 boj_9663: [N-Queen(N-Queen)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_9663/9663.cpp) [Backtracking]    
 boj_10039: [평균점수(Average Score)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10039/10039.cpp) [Simple implementation]  
+boj_10156: [과자(Snack)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10156/10156.cpp) [Simple implementation]    
 boj_10171: [고양이(Cat)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10171/10171.cpp) [Simple implementation]  
 boj_10172: [개(Dog)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10172/10172.cpp) [Simple implementation]  
 boj_10217: [KCM Travel](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10217/10217.cpp) [Shortest path, Dijkstra Algorithm]    
