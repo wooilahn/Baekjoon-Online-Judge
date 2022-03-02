@@ -87,6 +87,7 @@ boj_2750: [수 정렬하기(Sorting number)](https://github.com/wooilahn/Baekjoo
 boj_2751: [수 정렬하기 2(Sorting number 2)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2751/2751.cpp) [Sorting]  
 boj_2752: [세수정렬(Sorting three numbers)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2752/2752.cpp) [Sorting]    
 boj_2753: [윤년(leap year)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2753/2753.cpp) [Simple implementation]  
+boj_2754: [학점계산(Calculation of grades)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2754/2754.cpp) [Simple implementation]  
 boj_2775: [부녀회장이 될테야](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2775/2775.cpp) [Mathematics]    
 boj_2798: [블랙잭(Blackjack)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2798/2798.cpp) [Brute-force]  
 boj_2839: [설탕 배달(Sugar Delivery)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2839/2839.cpp) [Mathematics]  
