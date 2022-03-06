@@ -147,6 +147,7 @@ boj_10869: [사칙연산(Four arithmetic operations)](https://github.com/wooilah
 boj_10870: [피보나치 수 5(fibonacci 5)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10870/10870.cpp) [Recursive function]  
 boj_10871: [X보다 작은 수(The number that smaller than X)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10871/10871.cpp) [Simple implementation]  
 boj_10872: [팩토리얼(factorial)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10872/10872.cpp) [Recursive function]    
+boj_10886: [0 = not cute / 1 = cute](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10886/10886.cpp) [Simple implementation]      
 boj_10926: [??!](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10926/10926.cpp) [Simple implementation]       
 boj_10942: [팰린드롬?(Palindrome?)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10942/10942.cpp) [Dynamic Programming]  
 boj_10943: [랜덤 게임~(Random Game~)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10943/10943.cpp) [Simple implementation]    
