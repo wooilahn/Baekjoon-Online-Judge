@@ -114,6 +114,7 @@ boj_5355: [화성 수학(Mathematics in Mars)](https://github.com/wooilahn/Baekj
 boj_5543: [상근날드(Sangeun-nald](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5543/5543.cpp) [Simple implementation]  
 boj_5585: [거스름돈(Change)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5585/5585.cpp) [Simple implementation]  
 boj_5622: [다이얼(Dial)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5622/5622.cpp) [String handling]      
+boj_5717: [상근이와 친구들(Sang-geun and his friends)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5717/5717.cpp) [Simple implementation]     
 boj_7567: [그릇(Bowl)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_7567/7567.cpp) [Simple implementation]      
 boj_7568: [덩치(Build)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_7568/7568.cpp) [Brute-force]  
 boj_8393: [합(Sum)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_8393/8393.cpp) [Simple implementation]  
