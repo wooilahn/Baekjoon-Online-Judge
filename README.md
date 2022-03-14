@@ -148,6 +148,7 @@ boj_10817: [세 수(Three numbers)](https://github.com/wooilahn/Baekjoon_Online_
 boj_10818: [최소, 최대(min, max)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10818/10818.cpp) [Simple implementation]  
 boj_10825: [국영수(Korean, English, Math)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10825/10825.cpp) [Sorting]    
 boj_10830: [행렬 제곱(Square of Matrix)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10830/10830.cpp) [Divide and Conquer]    
+boj_10867: [중복 뺴고 정렬하기(Sorting with duplicated cases)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10867/10867.cpp) [Sorting]      
 boj_10869: [사칙연산(Four arithmetic operations)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10869/10869.cpp) [Simple implementation]  
 boj_10870: [피보나치 수 5(fibonacci 5)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10870/10870.cpp) [Recursive function]  
 boj_10871: [X보다 작은 수(The number that smaller than X)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10871/10871.cpp) [Simple implementation]  
