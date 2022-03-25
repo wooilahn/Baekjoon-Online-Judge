@@ -103,6 +103,7 @@ boj_2908: [상수(Constant number)](https://github.com/wooilahn/Baekjoon_Online_
 boj_2914: [저작권(Copyright)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2914/2914.cpp) [Mathematics]    
 boj_2935: [소음(Noise)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2935/2935.cpp) [String, Mathematics]        
 boj_2941: [크로아티아 알파벳(Croatia Alphabet)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2941/2941.cpp) [String handling]  
+boj_2953: [나는 요리사다(I'm chef)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2953/2953.cpp) [Simple implementation]       
 boj_3009: [네 번째 점(Fourth point)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3009/3009.cpp) [String handling]  
 boj_3036: [링 (Ring)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3036/3036.cpp) [Mathematics]    
 boj_3052: [나머지(Remainder)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3052/3052.cpp) [Simple implementation]  
