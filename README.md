@@ -82,6 +82,7 @@ boj_2577: [숫자의 갯수(The number of numbers)](https://github.com/wooilahn/
 boj_2579: [계단오르기(Climbing Stairs)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2579/2579.cpp) [Dynamic Programming]    
 boj_2580: [스도쿠(Sudoku)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2580/2580.cpp) [Backtracking]    
 boj_2581: [소수(Prime Number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2581/2581.cpp) [Mathematics, Prime Number]    
+boj_2587: [대표값2(Representative Value 2)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2587/2587.cpp) [Mathematics, Simple implementation]       
 boj_2588: [곱셈(Multiplication)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2588/2588.cpp) [Simple implementation]  
 boj_2592: [대표값(Representative Value)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2592/2592.cpp) [Simple implementation]       
 boj_2618: [경찰차(Police Car)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2618/2618.cpp) [Dynamic Programming]    
