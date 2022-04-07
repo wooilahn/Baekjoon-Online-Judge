@@ -228,7 +228,7 @@ boj_15649: [N과 M (1) (N and M (1))](https://github.com/wooilahn/Baekjoon_Onlin
 boj_15650: [N과 M (2) (N and M (2))](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_15650/15650.cpp)[Backtracking]  
 boj_15651: [N과 M (3) (N and M (3))](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_15651/15651.cpp)[Backtracking]  
 boj_15652: [N과 M (4) (N and M (4))](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_15652/15652.cpp)[Backtracking]    
-boj_15683: [감시(Surveillance)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_15683/15683.cpp)[Backtracking]    
+boj_15683: [감시(Surveillance)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_15683/15683.cpp)[Implementation, Brute-Force, Backtracking]      
 boj_15685: [드래곤 커브(Dragon Curve)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_15685/15685.cpp)[Implementation, Simulation]     
 boj_15686: [치킨 배달(Chicken Delivery)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_15686/15686.cpp)[Implementation, Brute Force]     
 boj_15711: [환상의 짝꿍(Fantastic Mate)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_15711/15711.cpp)[Mathematics, Sieve of Eratosthenes]       
