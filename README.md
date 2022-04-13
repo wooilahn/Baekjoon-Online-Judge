@@ -68,7 +68,7 @@ boj_2292: [벌집(Honeycomb)](https://github.com/wooilahn/Baekjoon_Online_Judge/
 boj_2438: [별 찍기 - 1(Printing Stars - 1)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2438/2438.cpp) [Simple implementation]  
 boj_2439: [별 찍기 - 2(Printing Stars - 2)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2439/2439.cpp) [Simple implementation]  
 boj_2442: [별 찍기 - 5(Printing Stars - 5)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2442/2442.cpp) [Simple implementation]  
-boj_2443: [별 찍기 - 6(Printing Stars - 6)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2443/2443.cpp) [Simple implementation]
+boj_2443: [별 찍기 - 6(Printing Stars - 6)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2443/2443.cpp) [Simple implementation]   
 boj_2446: [별 찍기 - 9(Printing Stars - 9)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2446/2446.cpp) [Simple implementation]  
 boj_2447: [별 찍기 - 10(Printing Stars - 10)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2447/2447.cpp) [Recursive function]  
 boj_2460: [지능형 기차 2(Intelligent train 2)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2460/2460.cpp) [Simple implementation, Mathematics]      
