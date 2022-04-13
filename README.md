@@ -251,6 +251,7 @@ boj_17407: [RGB거리 2(RGB-Street 2)](https://github.com/wooilahn/Baekjoon_Onli
 boj_17478: [재귀함수가 뭔가요?(What is a recursive function?)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_17478/17478.cpp)[Recursive Function]    
 boj_17779: [게리맨더링 2 (Gerrymandering 2)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_17478/17478.cpp)[Implementation, Simulation, Brute-Force]    
 boj_17822: [원판돌리기(Spinning the disk)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_17822/17822.cpp)[Implementation, Simulation]    
+boj_17825: [주사위 윷놀이(Yut play with dice)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_17825/17825.cpp)[Implementation, Simulation, Backtracking]        
 boj_17837: [새로운 게임 2(New Game 2)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_17837/17837.cpp)[Implementation, Simulation]       
 boj_18108: [1998년생인 내가 태국에서는 2541년생?!](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_18108/18108.cpp)[Simple implementation]   
 boj_18258: [큐 2(Queue 2)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_18528/18528.cpp)[Queue]  
