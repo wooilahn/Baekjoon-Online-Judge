@@ -78,6 +78,7 @@ boj_2482: [색상환(Color Circle)](https://github.com/wooilahn/Baekjoon_Online_
 boj_2485: [가로수(Colonnade)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2485/2485.cpp) [Simple implementation]      
 boj_2493: [탑 (Top)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2493/2493.cpp) [Stack]    
 boj_2501: [약수 구하기(Finding a factor)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2501/2501.cpp) [Simple implementation]       
+boj_2506: [점수계산(Calculating Score)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2506/2506.cpp) [Simple implementation]          
 boj_2522: [별 찍기 - 12(Printing Stars - 12)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2522/2522.cpp) [Simple implementation]    
 boj_2523: [별 찍기 - 13(Printing Stars - 13)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2523/2523.cpp) [Simple implementation]  
 boj_2529: [부등호 (Inequality)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2529/2529.cpp) [Greedy Algorithm, Topological Sort]  
