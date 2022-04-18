@@ -96,6 +96,7 @@ boj_2592: [대표값(Representative Value)](https://github.com/wooilahn/Baekjoon
 boj_2618: [경찰차(Police Car)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2618/2618.cpp) [Dynamic Programming]    
 boj_2661: [좋은수열(Good Sequence)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2661/2661.cpp) [Backtracking]       
 boj_2675: [문자열 반복(Repeating String)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2675/2675.cpp) [String handling]    
+boj_2693: [N번째 큰 수(Nth largest number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2693/2693.cpp) [Simple implementation]          
 boj_2711: [오타맨 고창영(Typo-man ChangyoungKo](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2711/2711.cpp) [Simple implementation, String handling]         
 boj_2739: [구구단(Multiplication table)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2739/2739.cpp) [Simple implementation]  
 boj_2741: [N 찍기(Print N)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2741/2741.cpp) [Simple implementation]  
