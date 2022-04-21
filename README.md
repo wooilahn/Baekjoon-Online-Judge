@@ -120,6 +120,7 @@ boj_2941: [크로아티아 알파벳(Croatia Alphabet)](https://github.com/wooil
 boj_2953: [나는 요리사다(I'm chef)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2953/2953.cpp) [Simple implementation]       
 boj_3009: [네 번째 점(Fourth point)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3009/3009.cpp) [String handling]  
 boj_3036: [링 (Ring)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3036/3036.cpp) [Mathematics]    
+boj_3040: [백설 공주와 일곱 난쟁이(Snow White and the Seven Dwarfs)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3040/3040.cpp) [Simple implementation]          
 boj_3052: [나머지(Remainder)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3052/3052.cpp) [Simple implementation]  
 boj_3053: [택시 기하학(A taxicab geometry)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3053/3053.cpp) [Mathematics]  
 boj_3460: [이진수(Binary number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3460/3460.cpp) [Simple implementation]        
