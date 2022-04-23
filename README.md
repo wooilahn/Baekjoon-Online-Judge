@@ -145,6 +145,7 @@ boj_5585: [거스름돈(Change)](https://github.com/wooilahn/Baekjoon_Online_Jud
 boj_5622: [다이얼(Dial)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5622/5622.cpp) [String handling]      
 boj_5653: [생일(Birthday)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5653/5653.cpp) [String handling]    
 boj_5717: [상근이와 친구들(The friends of Sang-geun)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5717/5717.cpp) [Simple implementation]     
+boj_5800: [성적 통계(Grade statistics)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5800/5800.cpp) [Simple implementation, Sorting]     
 boj_7567: [그릇(Bowl)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_7567/7567.cpp) [Simple implementation]      
 boj_7568: [덩치(Build)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_7568/7568.cpp) [Brute-force]  
 boj_8393: [합(Sum)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_8393/8393.cpp) [Simple implementation]  
