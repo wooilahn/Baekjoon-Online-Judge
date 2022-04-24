@@ -141,6 +141,7 @@ boj_5373: [큐빙(Cubing)](https://github.com/wooilahn/Baekjoon_Online_Judge/blo
 boj_5522: [카드게임(Card Game)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5522/5522.cpp) [Simple implementation]    
 boj_5543: [상근날드(Sangeun-nald](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5543/5543.cpp) [Simple implementation]  
 boj_5565: [영수증(Receipt)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5565/5565.cpp) [Simple implementation]    
+boj_5576: [콘테스트(Contest)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5576/5576.cpp) [Simple implementation, Sorting]       
 boj_5585: [거스름돈(Change)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5585/5585.cpp) [Simple implementation]  
 boj_5622: [다이얼(Dial)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5622/5622.cpp) [String handling]      
 boj_5653: [생일(Birthday)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5653/5653.cpp) [String handling]    
