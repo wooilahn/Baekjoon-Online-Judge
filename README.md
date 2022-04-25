@@ -101,6 +101,7 @@ boj_2711: [오타맨 고창영(Typo-man ChangyoungKo](https://github.com/wooilah
 boj_2739: [구구단(Multiplication table)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2739/2739.cpp) [Simple implementation]  
 boj_2741: [N 찍기(Print N)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2741/2741.cpp) [Simple implementation]  
 boj_2742: [기찍 N(Reverse Print N)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2742/2742.cpp) [Simple implementation]  
+boj_2744: [대소문자 바꾸기(Changing capital and small letter)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2744/2744.cpp) [Simple implementation]    
 boj_2750: [수 정렬하기(Sorting number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2750/2750.cpp) [Sorting]  
 boj_2751: [수 정렬하기 2(Sorting number 2)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2751/2751.cpp) [Sorting]  
 boj_2752: [세수정렬(Sorting three numbers)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2752/2752.cpp) [Sorting]    
