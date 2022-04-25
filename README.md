@@ -272,7 +272,7 @@ boj_18108: [1998년생인 내가 태국에서는 2541년생?!](https://github.co
 boj_18258: [큐 2(Queue 2)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_18528/18528.cpp)[Queue]  
 boj_19236: [청소년 상어(Juvenile Shark)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_19236/19236.cpp)[Implementation, Simulation, Back-tracking]       
 boj_19237: [어른 상어(Adult Shark)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_19237/19237.cpp)[Implementation, Simulation]     
-boj_19238: [ㅅ타트 택시(Start Taxi)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_19238/19238.cpp)[Implementation, Simulation, Graph Theory, BFS]          
+boj_19238: [스타트 택시(Start Taxi)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_19238/19238.cpp)[Implementation, Simulation, Graph Theory, BFS]          
 boj_19532: [수학은 비대면강의입니다](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_19532/19532.cpp)[Mathematics]    
 boj_19539: [사과나무(Apple tree)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_19539/19539.cpp)[Greedy Algorithm]    
 boj_20061: [모노미노도미노 2 (Monominodomino 2)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_19539/19539.cpp)[Implementation, Simulation]      
