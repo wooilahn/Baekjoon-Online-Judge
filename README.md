@@ -32,6 +32,7 @@ boj_1259: [팰린드롬수(number which is a Palindrome)](https://github.com/woo
 boj_1292: [쉽게 푸는 문제(Problem to solve easily)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1292/1292.cpp)[Mathematics, Simple implementation]    
 boj_1316: [그룹 단어 체커(Group Word Checker)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1316/1316.cpp)[String handling]  
 boj_1330: [두 수 비교하기(Comparing two numbers)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1330/1330.cpp) [Simple implementation]  
+boj_1357: [뒤집힌 덧셈(Inverted addition)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1357/1357.cpp) [Simple implementation, String handling]           
 boj_1422: [숫자의 신(The god of number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1422/1422.cpp) [Greedy algorithm, Sorting]       
 boj_1427: [소트인사이드(Sort inside)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1427/1427.cpp) [Sorting]  
 boj_1436: [영화감독 숌(Film Director, Syom)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1436/1436.cpp) [Brute-force]  
