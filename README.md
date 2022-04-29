@@ -208,6 +208,7 @@ boj_10952: [A + B - 5](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/ma
 boj_10953: [A + B - 6](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10953/10953.cpp) [Simple implementation]  
 boj_10974: [모든 순열(All permutations)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10974/10974.cpp) [Permutation]    
 boj_10984: [내 학점을 구해줘(Please save my grades)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10984/10984.cpp) [Mathematics, Simple implementation]       
+boj_10987: [모음의 개수(The number of vowel)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10987/10987.cpp) [Simple implementation, String handling]          
 boj_10988: [팰린드롬인지 확인하기(Determining if it is a palindrome)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10988/10988.cpp) [Simple implemenetation]       
 boj_10989: [수 정렬하기 3(Sorting number 3)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10989/10989.cpp) [Soritng]    
 boj_10991: [별 찍기 - 16(Printing Stars - 16)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10991/10991.cpp) [Simple implementation]     
