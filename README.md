@@ -140,6 +140,7 @@ boj_5063: [TGN](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Ba
 boj_5073: [삼각형과 세 변(Triangle and three sides)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5073/5073.cpp) [Simple implementation, Mathematics]    
 boj_5086: [배수와 약수(Multiple and divisor)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5086/5086.cpp) [Mathematics]  
 boj_5176: [대회 자리(Competition Spot)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5176/5176.cpp) [Simple implementation]         
+boj_5218: [알파벳 거리(Alphabet Distance)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5218/5218.cpp) [Simple implementation, String handling]      
 boj_5355: [화성 수학(Mathematics in Mars)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5355/5355.cpp) [Simple implementation]  
 boj_5373: [큐빙(Cubing)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5373/5373.cpp) [Implementation, Simulation]          
 boj_5522: [카드게임(Card Game)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5522/5522.cpp) [Simple implementation]    
