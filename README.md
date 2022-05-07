@@ -223,6 +223,7 @@ boj_10998: [AxB](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/B
 boj_11021: [A+B - 7](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_11021/11021.cpp) [Simple implementation]  
 boj_11022: [A+B - 8](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_11022/11022.cpp) [Simple implementation]  
 boj_11098: [첼시를 도와줘(Please help Chelsea!)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_11098/11098.cpp) [Simple implementation]    
+boj_11170: [0의 개수(The number of zero)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_11170/11170.cpp) [Simple implementation, String handling]      
 boj_11279: [최대 힙(Max Heap)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_11279/11279.cpp) [Priority Queue]    
 boj_11286: [절댓값 힙(Queue of Absolute value)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_11286/11286.cpp) [Priority Queue]   
 boj_11399: [ATM](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_11399/11399.cpp) [Greedy algorithm]     
