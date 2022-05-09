@@ -288,4 +288,5 @@ boj_19238: [스타트 택시(Start Taxi)](https://github.com/wooilahn/Baekjoon_O
 boj_19532: [수학은 비대면강의입니다](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_19532/19532.cpp)[Mathematics]    
 boj_19539: [사과나무(Apple tree)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_19539/19539.cpp)[Greedy Algorithm]    
 boj_20055: [컨베이어 벨트 위의 로봇(Robot on conveyor belt)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_20055/20055.cpp)[Implementation, Simulation, Deque]        
+boj_20056: [마법사 상어와 파이어볼(Wizard shark and fireball)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_20056/20056.cpp)[Implementation, Simulation]     
 boj_20061: [모노미노도미노 2 (Monominodomino 2)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_20061/20061.cpp)[Implementation, Simulation]      
