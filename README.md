@@ -218,6 +218,7 @@ boj_10987: [모음의 개수(The number of vowel)](https://github.com/wooilahn/B
 boj_10988: [팰린드롬인지 확인하기(Determining if it is a palindrome)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10988/10988.cpp) [Simple implemenetation]       
 boj_10989: [수 정렬하기 3(Sorting number 3)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10989/10989.cpp) [Soritng]    
 boj_10991: [별 찍기 - 16(Printing Stars - 16)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10991/10991.cpp) [Simple implementation]     
+boj_10992: [별 찍기 - 17(Printing Stars - 17)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10991/10992.cpp) [Simple implementation]    
 boj_10995: [별 찍기 - 20(Printing Stars - 20)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10995/10995.cpp) [Simple implementation]     
 boj_10996: [별 찍기 - 21(Printing Stars - 21)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10996/10996.cpp) [Simple implementation]  
 boj_10998: [AxB](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10998/10998.cpp) [Simple implementation]  
