@@ -236,6 +236,7 @@ boj_11651: [좌표 정렬하기 2 (Aligning coordinates 2)](https://github.com/w
 boj_11653: [소인수분해(Factorization)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_11653/11653.cpp) [Mathematics]    
 boj_11654: [아스키 코드(ASCII Code)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_11654/11654.cpp) [String handling]    
 boj_11655: [ROT13](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_11655/11655.cpp) [Simple implementation, String handling]    
+boj_11656: [접미사 배열(Suffix Array)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_11656/11656.cpp) [Simple implementation, String handling]     
 boj_11657: [타임머신(Time Machine)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_11657/11657.cpp) [Shrotest Path, Bellman-Ford Algorithm]    
 boj_11720: [숫자의 합(Sum of number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_11720/11720.cpp) [String handling]  
 boj_11723: [집합(Set)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_11723/11723.cpp) [Dynamic Programming, Bitmasking]    
