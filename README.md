@@ -50,6 +50,7 @@ boj_1753: [최단경로(Shortest Path)](https://github.com/wooilahn/Baekjoon_Onl
 boj_1764: [듣보잡(Something that never both have seen and be heard)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1764/1764.cpp) [String handling, binary search]    
 boj_1789: [수들의 합(Sum of numbers)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1789/1789.cpp) [Mathematics, Simulation]  
 boj_1826: [연료 채우기(Filling fuel)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1826/1826.cpp) [Greedy algorithm, Priority queue, Sorting]       
+boj_1871: [좋은 자동차 번호판(Good license plate)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1871/1871.cpp) [Simple implementation, String handling]          
 boj_1904: [01타일(01Tile)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1904/1904.cpp) [Dynamic Programming]    
 boj_1920: [수 찾기(Finding Number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1920/1920.cpp) [Binary Search]  
 boj_1927: [최소 힙(Min Heap)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_1927/1927.cpp) [Priority Queue]  
