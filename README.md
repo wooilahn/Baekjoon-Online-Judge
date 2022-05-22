@@ -136,6 +136,7 @@ boj_4101: [크냐?(Is it big?)](https://github.com/wooilahn/Baekjoon_Online_Judg
 boj_4153: [직각삼각형(Right triangle)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_4153/4153.cpp) [Mathematics]    
 boj_4344: [평균은 넘겠지](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_4344/4344.cpp) [Simple implementation]  
 boj_4458: [첫 글자를 대문자로(Capitalize the first character)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_4458/4458.cpp) [Simple implementation, String handling]        
+boj_4504: [배수 찾기(Finding multiples)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_4504/4504.cpp) [Simple implementation]      
 boj_4673: [셀프 넘버(Self Number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_4673/4673.cpp) [Simple implementation]  
 boj_4948: [베르트랑 공준(Bertrand's postulate)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_4948/4948.cpp) [Mathematics, Prime Number]  
 boj_4949: [균형잡힌 세상(A balanced world)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_4949/4949.cpp) [Stack, String handling]  
