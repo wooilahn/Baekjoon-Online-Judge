@@ -156,6 +156,7 @@ boj_5543: [상근날드(Sangeun-nald](https://github.com/wooilahn/Baekjoon_Onlin
 boj_5565: [영수증(Receipt)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5565/5565.cpp) [Simple implementation]    
 boj_5576: [콘테스트(Contest)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5576/5576.cpp) [Simple implementation, Sorting]       
 boj_5585: [거스름돈(Change)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5585/5585.cpp) [Simple implementation]    
+boj_5586: [JOI와 IOI(JOI and IOI)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5586/5586.cpp) [Simple implementation, String handling]          
 boj_5596: [시험 점수(Exam Score)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5596/5596.cpp) [Simple implementation]     
 boj_5597: [과제 안 내신 분..?(Who didn't do the homework..?)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5597/5597.cpp) [Simple implementation]     
 boj_5598: [카이사르 암호(Caesar Cipher)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5598/5598.cpp) [Simple implementation, String handling]     
