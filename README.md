@@ -101,6 +101,7 @@ boj_2661: [좋은수열(Good Sequence)](https://github.com/wooilahn/Baekjoon_Onl
 boj_2675: [문자열 반복(Repeating String)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2675/2675.cpp) [String handling]    
 boj_2693: [N번째 큰 수(Nth largest number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2693/2693.cpp) [Simple implementation]          
 boj_2711: [오타맨 고창영(Typo-man ChangyoungKo](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2711/2711.cpp) [Simple implementation, String handling]         
+boj_2720: [세탁소 사장 동혁(The owner of the laundry, Donghyuk)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2720/2720.cpp) [Simple implementation]       
 boj_2739: [구구단(Multiplication table)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2739/2739.cpp) [Simple implementation]  
 boj_2741: [N 찍기(Print N)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2741/2741.cpp) [Simple implementation]  
 boj_2742: [기찍 N(Reverse Print N)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2742/2742.cpp) [Simple implementation]  
