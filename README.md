@@ -80,6 +80,7 @@ boj_2476: [주사위 게임(Dice game)](https://github.com/wooilahn/Baekjoon_Onl
 boj_2482: [색상환(Color Circle)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2482/2482.cpp) [Dynamic Programming]    
 boj_2485: [가로수(Colonnade)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2485/2485.cpp) [Simple implementation]      
 boj_2493: [탑 (Top)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2493/2493.cpp) [Stack]    
+boj_2495: [연속구간(Continuous Section)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2495/2495.cpp) [Simple implementation, String handling]          
 boj_2501: [약수 구하기(Finding a factor)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2501/2501.cpp) [Simple implementation]       
 boj_2506: [점수계산(Calculating Score)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2506/2506.cpp) [Simple implementation]          
 boj_2522: [별 찍기 - 12(Printing Stars - 12)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_2522/2522.cpp) [Simple implementation]    
