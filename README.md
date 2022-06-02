@@ -137,6 +137,7 @@ boj_3040: [백설 공주와 일곱 난쟁이(Snow White and the Seven Dwarfs)](h
 boj_3052: [나머지(Remainder)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3052/3052.cpp) [Simple implementation]  
 boj_3053: [택시 기하학(A taxicab geometry)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3053/3053.cpp) [Mathematics]  
 boj_3058: [짝수를 찾아라(Find even number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3058/3058.cpp) [Simple implementation]         
+boj_3059: [등장하지 않는 문자의 합(The sum of not appearing characters)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3059/3059.cpp) [Simple implementation, String handling]              
 boj_3460: [이진수(Binary number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3460/3460.cpp) [Simple implementation]        
 boj_4101: [크냐?(Is it big?)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_4101/4101.cpp) [Simple implementation]     
 boj_4153: [직각삼각형(Right triangle)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_4153/4153.cpp) [Mathematics]    
