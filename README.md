@@ -134,6 +134,7 @@ boj_2953: [나는 요리사다(I'm chef)](https://github.com/wooilahn/Baekjoon_O
 boj_3009: [네 번째 점(Fourth point)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3009/3009.cpp) [String handling]  
 boj_3036: [링 (Ring)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3036/3036.cpp) [Mathematics]    
 boj_3040: [백설 공주와 일곱 난쟁이(Snow White and the Seven Dwarfs)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3040/3040.cpp) [Simple implementation]          
+boj_3049: [다각형의 대각선(Diagonal of polygon)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3049/3049.cpp) [Mathematics, Combination]         
 boj_3052: [나머지(Remainder)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3052/3052.cpp) [Simple implementation]  
 boj_3053: [택시 기하학(A taxicab geometry)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3053/3053.cpp) [Mathematics]  
 boj_3058: [짝수를 찾아라(Find even number)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_3058/3058.cpp) [Simple implementation]         
