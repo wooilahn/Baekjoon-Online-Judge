@@ -206,6 +206,7 @@ boj_10214: [Baseball](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/mas
 boj_10217: [KCM Travel](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10217/10217.cpp) [Shortest path, Dijkstra Algorithm]    
 boj_10250: [ACM 호텔(ACM Hotel)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10250/10250.cpp) [Mathematics]  
 boj_10430: [나머지(Remainder)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10430/10430.cpp) [Simple implementation]    
+boj_10474: [분수좋아해?(Do you like fraction?)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10474/10474.cpp) [Simple implementation, Mathematics]      
 boj_10569: [다면체(Polyhedron)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10569/10569.cpp) [Simple implementation]     
 boj_10699: [오늘 날짜(Today's date)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10699/10699.cpp) [Simple implementation]  
 boj_10718: [We love kriii](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_10718/10718.cpp) [Simple implementation]  
@@ -322,3 +323,4 @@ boj_20056: [마법사 상어와 파이어볼(Wizard shark and fireball)](https:/
 boj_20057: [마법사 상어와 토네이도(Wizard shark and tornado)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_20057/20057.cpp)[Implementation, Simulation]      
 boj_20058: [마법사 상어와 파이어스톰(Wizard shark and firestorm)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_20058/20058.cpp)[Implementation, Simulation]       
 boj_20061: [모노미노도미노 2 (Monominodomino 2)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_20061/20061.cpp)[Implementation, Simulation]      
+boj_21608: [상어 초등학교 (Shark elementary school)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_21608/21608.cpp)[Implementation, Simulation]       
