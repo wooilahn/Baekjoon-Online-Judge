@@ -324,3 +324,4 @@ boj_20057: [마법사 상어와 토네이도(Wizard shark and tornado)](https://
 boj_20058: [마법사 상어와 파이어스톰(Wizard shark and firestorm)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_20058/20058.cpp)[Implementation, Simulation]       
 boj_20061: [모노미노도미노 2 (Monominodomino 2)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_20061/20061.cpp)[Implementation, Simulation]      
 boj_21608: [상어 초등학교 (Shark elementary school)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_21608/21608.cpp)[Implementation, Simulation]       
+boj_21609: [상어 중학교 (Shark middle school)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_21609/21609.cpp)[Implementation, Simulation, BFS, Graph Theory]            
