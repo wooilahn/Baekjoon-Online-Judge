@@ -333,3 +333,4 @@ boj_21610: [마법사 상어와 비바라기(Wizard shark and Rain dance)](https
 boj_21611: [마법사 상어와 블리자드(Wizard shark and Blizard)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_21611/21611.cpp)[Implementation, Simulation]        
 boj_23288: [주사위 굴리기 2 (Rolling Dice 2)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_23288/23288.cpp)[Implementation, Simulation]       
 boj_23289: [온풍기 안녕!(Hello fan!)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_23289/23289.cpp)[Implementation, Simulation]     
+boj_23290: [마법사 상어와 복제(Wizard shark and Clone)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_23290/23290.cpp)[Implementation, Simulation]     
