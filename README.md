@@ -175,6 +175,7 @@ boj_5598: [카이사르 암호(Caesar Cipher)](https://github.com/wooilahn/Baekj
 boj_5622: [다이얼(Dial)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5622/5622.cpp) [String handling]      
 boj_5653: [생일(Birthday)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5653/5653.cpp) [String handling]    
 boj_5656: [비교 연산자(Comparison opereator)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5656/5656.cpp) [Simple implementation, String handling]     
+boj_5704: [팬그램(Pangram)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5704/5704.cpp) [Simple implementation, String handling]      
 boj_5717: [상근이와 친구들(The friends of Sang-geun)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5717/5717.cpp) [Simple implementation]     
 boj_5800: [성적 통계(Grade statistics)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_5800/5800.cpp) [Simple implementation, Sorting]     
 boj_7567: [그릇(Bowl)](https://github.com/wooilahn/Baekjoon_Online_Judge/blob/master/Baekjoon_src/boj_7567/7567.cpp) [Simple implementation]      
