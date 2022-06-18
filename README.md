@@ -3,7 +3,7 @@ Baekjoon Online Judge Code
 
 ## Code List of Problem (List is sorted in ascending order.) 
 <div align="center">
-    <details markdown="1">
+    <details open>
     <summary> <h3> Simulation (Samsung 유형) </h3> </summary>
          <table align="center">
 	       <th>Title</th>
@@ -144,7 +144,7 @@ Baekjoon Online Judge Code
 </br>
 
 <div align="center">
-    <details markdown="1">
+    <details open>
     <summary> <h3> Geometry </h3> </summary>
        <table align="center">
 	       <th>Title</th>
@@ -164,7 +164,7 @@ Baekjoon Online Judge Code
 </br>
 
 <div align="center">
-    <details markdown="1">
+    <details open>
     <summary> <h3> Dynamic Programming (DP) </h3> </summary>
 <table align="center">
 	       <th>Title</th>
@@ -272,7 +272,7 @@ Baekjoon Online Judge Code
 </br>
 
 <div align="center">
-    <details markdown="1">
+    <details open>
     <summary> <h3> Brute-Force </h3> </summary>
     <table align="center">
 	       <th>Title</th>
@@ -336,217 +336,9 @@ Baekjoon Online Judge Code
 </br>
 </br>
 
-<div align="center">
-    <details markdown="1">
-    <summary> <h3> Mathematics </h3> </summary>
- <table align="center"> 
-	       <th>Title</th>
-	       <th>Levels</th>
-              	<tr align="left">
-	                     <td>[BOJ_1011] Fly me to the Alpha Centauri </td>
-                       <td> Gold 5 </td>
-	              </tr>
-              	<tr align="left">
-	                     <td>[BOJ_1037] 약수(divisor) </td>
-                       <td> Bronze 1 </td>
-	              </tr>
-              	<tr align="left">
-	                     <td>[BOJ_1085] 직사각형에서 탈출(Escape from rectangle) </td>
-                       <td> Bronze 3 </td>
-	              </tr>
-              	<tr align="left">
-	                     <td>[BOJ_1193] 분수찾기(Finding Fraction) </td>
-                       <td> Bronze 1 </td>
-	              </tr>
-              	<tr align="left">
-	                     <td>[BOJ_1259] 팰린드롬수(number which is a Palindrome) </td>
-                       <td> Bronze 1 </td>
-	              </tr>
-              	<tr align="left">
-	                     <td>[BOJ_1292] 쉽게 푸는 문제(Problem to solve easily) </td>
-                       <td> Bronze 1 </td>
-	              </tr>
-              	<tr align="left">
-	                     <td>[BOJ_1476] 날짜 계산(Data Calculation) </td>
-                       <td> Silver 5 </td>
-	              </tr>
-              	<tr align="left">
-	                     <td>[BOJ_1629] 곱셈(Multiplication) </td>
-                       <td> Silver 1 </td>
-	              </tr>
-              	<tr align="left">
-	                     <td>[BOJ_1644] 소수의 연속합(Prefix sum of prime numbers) </td>
-                       <td> Gold 3 </td> 
-	              </tr>
-              	<tr align="left">
-	                     <td>[BOJ_1712] 손익분기점(Breakeven point) </td>
-                       <td> Bronze 2 </td> 
-	              </tr>
-              	<tr align="left">
-	                     <td>[BOJ_1789] 수들의 합(Sum of numbers) </td>
-                       <td> Silver 5 </td>
-	              </tr>
-              	<tr align="left">
-	                     <td>[BOJ_1929] 소수 구하기(Finding Prime Number) </td>
-                       <td> Silver 3 </td>
-	              </tr>
-              	<tr align="left">
-	                     <td>[BOJ_1978] 소수찾기(Finding Prime Number) </td>
-                       <td> Silver 5 </td>
-	              </tr>
-              	<tr align="left">
-	                     <td>[BOJ_2108] 통계학(Statistics) </td>
-                       <td> Silver 3 </td>
-	              </tr>
-              	<tr align="left">
-	                     <td>[BOJ_2292] 벌집(Honeycomb) </td>
-                       <td> Bronze 2 </td>
-	              </tr>
-              	<tr align="left">
-	                     <td>[BOJ_2506] 점수계산(Calculating Score) </td>
-                       <td> Bronze 3 </td>
-	              </tr>
-              	<tr align="left">
-	                     <td>[BOJ_2530] 인공지능 시계(Artifical Intelligence watch) </td>
-                       <td> Bronze 4 </td>
-	              </tr>
-              	<tr align="left">
-	                     <td>[BOJ_2581] 소수(Prime Number) </td>
-                       <td> Silver 5 </td>
-	              </tr>
-              	<tr align="left">
-	                     <td>[BOJ_2587] 대표값2(Representative Value 2) </td>
-                       <td> Bronze 2 </td>
-	              </tr>
-              	<tr align="left">
-	                     <td>[BOJ_2588] 곱셈(Multiplication) </td>
-                       <td> Bronze 3 </td>
-	              </tr>
-              	<tr align="left">
-	                     <td>[BOJ_2592] 대표값(Representative Value) </td>
-                       <td> Bronze 2 </td>
-	              </tr>
-              	<tr align="left">
-	                     <td>[BOJ_2775] 부녀회장이 될테야 </td>
-                       <td> Bronze 1 </td>
-	              </tr>
-              	<tr align="left">
-	                     <td>[BOJ_2789] 유학 금지(Banning study abroad) </td>
-                       <td> Bronze 2 </td>
-	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_2839] 설탕 배달(Sugar Delivery) </td>
-                       <td> Silver 4 </td>
-	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_2869] 달팽이는 올라가고 싶다 </td>
-                       <td> Silver 5 </td>
-	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_2914] 저작권(Copyright) </td>
-                       <td> Bronze 3 </td>
-	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_2935] 소음(Noise) </td>
-                       <td> Bronze 3 </td>
-	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_3036] 링 (Ring) </td>
-                       <td> Silver 4 </td>
-	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_3049] 다각형의 대각선(Diagonal of polygon) </td>
-                       <td> Bronze 1 </td>
-	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_3053] 택시 기하학(A taxicab geometry) </td>
-                       <td> Bronze 3 </td>
-	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_4153] 직각삼각형(Right triangle) </td>
-                       <td> Bronze 3 </td>
-	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_4948] 베르트랑 공준(Bertrand's postulate) </td>
-                       <td> Silver 2 </td>
-	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_5054] 주차의 신(God of parking) </td>
-                       <td> Bronze 2 </td>
-	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_5218] 알파벳 거리(Alphabet Distance) </td>
-                       <td> Bronze 2 </td>
-	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_5086] 배수와 약수(Multiple and divisor) </td>
-                       <td> Bronze 3 </td>
-	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_9020] 골드바흐의 추측(Goldbach's conjecture) </td>
-                       <td> Silver 2 </td>
-	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_10250] ACM 호텔(ACM Hotel) </td>
-                       <td> Bronze 3 </td>
-	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_10430] 나머지(Remainder) </td>
-                       <td> Bronze 5 </td>
-	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_10474] 분수좋아해?(Do you like fraction?) </td>
-                       <td> Bronze 3 </td>
-	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_10569] 다면체(Polyhedron) </td>
-                       <td> Bronze 3 </td>
-	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_10699] 오늘 날짜(Today's date) </td>
-                       <td> Bronze 5 </td>
-	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_10718] We love kriii </td>
-                       <td> Bronze 5 </td>
-	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_10830] 행렬 제곱(Square of Matrix) </td>
-                       <td> Gold 4 </td>
-	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_10870] 피보나치 수 5(fibonacci 5) </td>
-                       <td> Bronze 5 </td>
-	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_11023] 더하기 3(Plus 3) </td>
-                       <td> Bronze 3 </td>
-	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_11024] 더하기 4(Plus 4) </td>
-                       <td> Bronze 3 </td>
-	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_11653] 소인수분해(Factorization) </td>
-                       <td> Silver 5 </td>
-	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_15711] 환상의 짝꿍(Fantastic Mate) </td>
-                       <td> Gold 3 </td>
-	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_19532] 수학은 비대면강의입니다 </td>
-                       <td> Bronze 2 </td>
-	              </tr>
-	  </table>
-    </details> 
-      
-</div>
-</br> 
-</br>
 
 <div align="center">
-    <details markdown="1">
+    <details open>
     <summary> <h3> DFS & BFS </h3> </summary>
     <table align="center">
 	       <th>Title</th>
@@ -611,7 +403,7 @@ Baekjoon Online Judge Code
 </br>
 
 <div align="center">
-    <details markdown="1">
+    <details open>
     <summary> <h3> Greedy Algorithm </h3> </summary>
 <table align="center">
 	       <th>Title</th>
@@ -676,7 +468,7 @@ Baekjoon Online Judge Code
 </br>
 
 <div align="center">
-    <details markdown="1">
+    <details open>
     <summary> <h3> Backtracking </h3> </summary>
        <table align="center">
 	       <th>Title</th>
@@ -741,7 +533,7 @@ Baekjoon Online Judge Code
  
 
 <div align="center">
-    <details markdown="1">
+    <details open>
     <summary> <h3> Graph Theory (Dijkstra, Floyd-Warshall, Bellman-Ford) </h3> </summary>
 <table align="center">
 	       <th>Title</th>
@@ -789,7 +581,7 @@ Baekjoon Online Judge Code
 </br>
 
 <div align="center">
-    <details markdown="1">
+    <details open>
     <summary> <h3> Two Pointers </h3> </summary>
      <table align="center">
 	       <th>Title</th>
@@ -805,7 +597,7 @@ Baekjoon Online Judge Code
 </br>
 
 <div align="center">
-    <details markdown="1">
+    <details open>
     <summary> <h3> Priority Queue </h3> </summary>
     <table align="center">
 	       <th>Title</th>
@@ -842,7 +634,7 @@ Baekjoon Online Judge Code
 </br>
 
 <div align="center">
-    <details markdown="1">
+    <details open>
     <summary> <h3> Binary Search </h3> </summary>
      <table align="center">
 	       <th>Title</th>
@@ -862,7 +654,7 @@ Baekjoon Online Judge Code
 </br>
 
 <div align="center">
-    <details markdown="1">
+    <details open>
     <summary> <h3> Bitmasking </h3> </summary>
      <table align="center">
 	       <th>Title</th>
@@ -913,77 +705,7 @@ Baekjoon Online Judge Code
 </br>
 </br>
 
-<div align="center">
-    <details markdown="1">
-    <summary> <h3> Sorting </h3> </summary>
-      <table align="center">
-	       <th>Title</th>
-	       <th>Levels</th>
-              	<tr align="left">
-	                     <td>[BOJ_2750] 수 정렬하기(Sorting number) </td>
-                       <td> Bronze 2 </td>
-	              </tr> 
-              	<tr align="left">
-	                     <td>[BOJ_2751] 수 정렬하기 2(Sorting number 2) </td>
-                       <td> Silver 5 </td>
-	              </tr> 
-              	<tr align="left">
-	                     <td>[BOJ_2752] 세수정렬(Sorting three numbers) </td>
-                       <td> Bronze 4 </td>
-	              </tr> 
-              	<tr align="left">
-	                     <td>[BOJ_2822] 점수 계산(Calculating Score) </td>
-                       <td> Silver 5 </td>
-	              </tr> 
-              	<tr align="left">
-	                     <td>[BOJ_5576] 콘테스트(Contest) </td>
-                       <td> Bronze 2 </td>
-	              </tr> 
-              	<tr align="left">
-	                     <td>[BOJ_5800] 성적 통계(Grade statistics) </td>
-                       <td> Silver 5 </td>
-	              </tr> 
-              	<tr align="left">
-	                     <td>[BOJ_10814] 나이순 정렬(Sorting by age) </td>
-                       <td> Silver 5 </td>
-	              </tr> 
-              	<tr align="left">
-	                     <td>[BOJ_10825] 국영수(Korean, English, Math) </td>
-                       <td> Silver 4 </td>
-	              </tr> 
-             	  <tr align="left">
-	                     <td>[BOJ_10867] 중복 뺴고 정렬하기(Sorting with duplicated cases) </td>
-                       <td> Silver 5 </td>
-	              </tr> 
-             	  <tr align="left">
-	                     <td>[BOJ_10989] 수 정렬하기 3(Sorting number 3) </td>
-                       <td> Bronze 1 </td>
-	              </tr> 
-             	  <tr align="left">
-	                     <td>[BOJ_11557] Yangjojang of The Year </td>
-                       <td> Bronze 1 </td>
-	              </tr> 
-             	  <tr align="left">
-	                     <td>[BOJ_11650] 좌표 정렬하기(Aligning coordinates) </td>
-                       <td> Silver 5 </td>
-	              </tr> 
-             	  <tr align="left">
-	                     <td>[BOJ_11651] 좌표 정렬하기 2 (Aligning coordinates 2) </td>
-                       <td> Silver 5 </td>
-	              </tr> 
-             	  <tr align="left">
-	                     <td>[BOJ_11728] 배열 합치기(Merging arrays) </td>
-                       <td> Silver 5 </td>
-	              </tr> 
-              	<tr align="left">
-	                     <td>[BOJ_17140] 이차원 배열과 연산(2-Dimensional Array and Operation) </td>
-                       <td> Gold 4 </td>
-	              </tr>
-     </table>
-</details> 
-</div>
-</br>
-</br>
+
 
 <div align="center">
   <details markdown="1">
@@ -1623,6 +1345,287 @@ Baekjoon Online Judge Code
 	              </tr>
 	  </table>
     </details>  
+</div>
+</br>
+</br>
+
+<div align="center">
+    <details markdown="1">
+    <summary> <h3> Mathematics </h3> </summary>
+ <table align="center"> 
+	       <th>Title</th>
+	       <th>Levels</th>
+              	<tr align="left">
+	                     <td>[BOJ_1011] Fly me to the Alpha Centauri </td>
+                       <td> Gold 5 </td>
+	              </tr>
+              	<tr align="left">
+	                     <td>[BOJ_1037] 약수(divisor) </td>
+                       <td> Bronze 1 </td>
+	              </tr>
+              	<tr align="left">
+	                     <td>[BOJ_1085] 직사각형에서 탈출(Escape from rectangle) </td>
+                       <td> Bronze 3 </td>
+	              </tr>
+              	<tr align="left">
+	                     <td>[BOJ_1193] 분수찾기(Finding Fraction) </td>
+                       <td> Bronze 1 </td>
+	              </tr>
+              	<tr align="left">
+	                     <td>[BOJ_1259] 팰린드롬수(number which is a Palindrome) </td>
+                       <td> Bronze 1 </td>
+	              </tr>
+              	<tr align="left">
+	                     <td>[BOJ_1292] 쉽게 푸는 문제(Problem to solve easily) </td>
+                       <td> Bronze 1 </td>
+	              </tr>
+              	<tr align="left">
+	                     <td>[BOJ_1476] 날짜 계산(Data Calculation) </td>
+                       <td> Silver 5 </td>
+	              </tr>
+              	<tr align="left">
+	                     <td>[BOJ_1629] 곱셈(Multiplication) </td>
+                       <td> Silver 1 </td>
+	              </tr>
+              	<tr align="left">
+	                     <td>[BOJ_1644] 소수의 연속합(Prefix sum of prime numbers) </td>
+                       <td> Gold 3 </td> 
+	              </tr>
+              	<tr align="left">
+	                     <td>[BOJ_1712] 손익분기점(Breakeven point) </td>
+                       <td> Bronze 2 </td> 
+	              </tr>
+              	<tr align="left">
+	                     <td>[BOJ_1789] 수들의 합(Sum of numbers) </td>
+                       <td> Silver 5 </td>
+	              </tr>
+              	<tr align="left">
+	                     <td>[BOJ_1929] 소수 구하기(Finding Prime Number) </td>
+                       <td> Silver 3 </td>
+	              </tr>
+              	<tr align="left">
+	                     <td>[BOJ_1978] 소수찾기(Finding Prime Number) </td>
+                       <td> Silver 5 </td>
+	              </tr>
+              	<tr align="left">
+	                     <td>[BOJ_2108] 통계학(Statistics) </td>
+                       <td> Silver 3 </td>
+	              </tr>
+              	<tr align="left">
+	                     <td>[BOJ_2292] 벌집(Honeycomb) </td>
+                       <td> Bronze 2 </td>
+	              </tr>
+              	<tr align="left">
+	                     <td>[BOJ_2506] 점수계산(Calculating Score) </td>
+                       <td> Bronze 3 </td>
+	              </tr>
+              	<tr align="left">
+	                     <td>[BOJ_2530] 인공지능 시계(Artifical Intelligence watch) </td>
+                       <td> Bronze 4 </td>
+	              </tr>
+              	<tr align="left">
+	                     <td>[BOJ_2581] 소수(Prime Number) </td>
+                       <td> Silver 5 </td>
+	              </tr>
+              	<tr align="left">
+	                     <td>[BOJ_2587] 대표값2(Representative Value 2) </td>
+                       <td> Bronze 2 </td>
+	              </tr>
+              	<tr align="left">
+	                     <td>[BOJ_2588] 곱셈(Multiplication) </td>
+                       <td> Bronze 3 </td>
+	              </tr>
+              	<tr align="left">
+	                     <td>[BOJ_2592] 대표값(Representative Value) </td>
+                       <td> Bronze 2 </td>
+	              </tr>
+              	<tr align="left">
+	                     <td>[BOJ_2775] 부녀회장이 될테야 </td>
+                       <td> Bronze 1 </td>
+	              </tr>
+              	<tr align="left">
+	                     <td>[BOJ_2789] 유학 금지(Banning study abroad) </td>
+                       <td> Bronze 2 </td>
+	              </tr>
+             	  <tr align="left">
+	                     <td>[BOJ_2839] 설탕 배달(Sugar Delivery) </td>
+                       <td> Silver 4 </td>
+	              </tr>
+             	  <tr align="left">
+	                     <td>[BOJ_2869] 달팽이는 올라가고 싶다 </td>
+                       <td> Silver 5 </td>
+	              </tr>
+             	  <tr align="left">
+	                     <td>[BOJ_2914] 저작권(Copyright) </td>
+                       <td> Bronze 3 </td>
+	              </tr>
+             	  <tr align="left">
+	                     <td>[BOJ_2935] 소음(Noise) </td>
+                       <td> Bronze 3 </td>
+	              </tr>
+             	  <tr align="left">
+	                     <td>[BOJ_3036] 링 (Ring) </td>
+                       <td> Silver 4 </td>
+	              </tr>
+             	  <tr align="left">
+	                     <td>[BOJ_3049] 다각형의 대각선(Diagonal of polygon) </td>
+                       <td> Bronze 1 </td>
+	              </tr>
+             	  <tr align="left">
+	                     <td>[BOJ_3053] 택시 기하학(A taxicab geometry) </td>
+                       <td> Bronze 3 </td>
+	              </tr>
+             	  <tr align="left">
+	                     <td>[BOJ_4153] 직각삼각형(Right triangle) </td>
+                       <td> Bronze 3 </td>
+	              </tr>
+             	  <tr align="left">
+	                     <td>[BOJ_4948] 베르트랑 공준(Bertrand's postulate) </td>
+                       <td> Silver 2 </td>
+	              </tr>
+             	  <tr align="left">
+	                     <td>[BOJ_5054] 주차의 신(God of parking) </td>
+                       <td> Bronze 2 </td>
+	              </tr>
+             	  <tr align="left">
+	                     <td>[BOJ_5218] 알파벳 거리(Alphabet Distance) </td>
+                       <td> Bronze 2 </td>
+	              </tr>
+             	  <tr align="left">
+	                     <td>[BOJ_5086] 배수와 약수(Multiple and divisor) </td>
+                       <td> Bronze 3 </td>
+	              </tr>
+             	  <tr align="left">
+	                     <td>[BOJ_9020] 골드바흐의 추측(Goldbach's conjecture) </td>
+                       <td> Silver 2 </td>
+	              </tr>
+             	  <tr align="left">
+	                     <td>[BOJ_10250] ACM 호텔(ACM Hotel) </td>
+                       <td> Bronze 3 </td>
+	              </tr>
+             	  <tr align="left">
+	                     <td>[BOJ_10430] 나머지(Remainder) </td>
+                       <td> Bronze 5 </td>
+	              </tr>
+             	  <tr align="left">
+	                     <td>[BOJ_10474] 분수좋아해?(Do you like fraction?) </td>
+                       <td> Bronze 3 </td>
+	              </tr>
+             	  <tr align="left">
+	                     <td>[BOJ_10569] 다면체(Polyhedron) </td>
+                       <td> Bronze 3 </td>
+	              </tr>
+             	  <tr align="left">
+	                     <td>[BOJ_10699] 오늘 날짜(Today's date) </td>
+                       <td> Bronze 5 </td>
+	              </tr>
+             	  <tr align="left">
+	                     <td>[BOJ_10718] We love kriii </td>
+                       <td> Bronze 5 </td>
+	              </tr>
+             	  <tr align="left">
+	                     <td>[BOJ_10830] 행렬 제곱(Square of Matrix) </td>
+                       <td> Gold 4 </td>
+	              </tr>
+             	  <tr align="left">
+	                     <td>[BOJ_10870] 피보나치 수 5(fibonacci 5) </td>
+                       <td> Bronze 5 </td>
+	              </tr>
+             	  <tr align="left">
+	                     <td>[BOJ_11023] 더하기 3(Plus 3) </td>
+                       <td> Bronze 3 </td>
+	              </tr>
+             	  <tr align="left">
+	                     <td>[BOJ_11024] 더하기 4(Plus 4) </td>
+                       <td> Bronze 3 </td>
+	              </tr>
+             	  <tr align="left">
+	                     <td>[BOJ_11653] 소인수분해(Factorization) </td>
+                       <td> Silver 5 </td>
+	              </tr>
+             	  <tr align="left">
+	                     <td>[BOJ_15711] 환상의 짝꿍(Fantastic Mate) </td>
+                       <td> Gold 3 </td>
+	              </tr>
+             	  <tr align="left">
+	                     <td>[BOJ_19532] 수학은 비대면강의입니다 </td>
+                       <td> Bronze 2 </td>
+	              </tr>
+	  </table>
+    </details> 
+      
+</div>
+</br> 
+</br>
+
+<div align="center">
+    <details markdown="1">
+    <summary> <h3> Sorting </h3> </summary>
+      <table align="center">
+	       <th>Title</th>
+	       <th>Levels</th>
+              	<tr align="left">
+	                     <td>[BOJ_2750] 수 정렬하기(Sorting number) </td>
+                       <td> Bronze 2 </td>
+	              </tr> 
+              	<tr align="left">
+	                     <td>[BOJ_2751] 수 정렬하기 2(Sorting number 2) </td>
+                       <td> Silver 5 </td>
+	              </tr> 
+              	<tr align="left">
+	                     <td>[BOJ_2752] 세수정렬(Sorting three numbers) </td>
+                       <td> Bronze 4 </td>
+	              </tr> 
+              	<tr align="left">
+	                     <td>[BOJ_2822] 점수 계산(Calculating Score) </td>
+                       <td> Silver 5 </td>
+	              </tr> 
+              	<tr align="left">
+	                     <td>[BOJ_5576] 콘테스트(Contest) </td>
+                       <td> Bronze 2 </td>
+	              </tr> 
+              	<tr align="left">
+	                     <td>[BOJ_5800] 성적 통계(Grade statistics) </td>
+                       <td> Silver 5 </td>
+	              </tr> 
+              	<tr align="left">
+	                     <td>[BOJ_10814] 나이순 정렬(Sorting by age) </td>
+                       <td> Silver 5 </td>
+	              </tr> 
+              	<tr align="left">
+	                     <td>[BOJ_10825] 국영수(Korean, English, Math) </td>
+                       <td> Silver 4 </td>
+	              </tr> 
+             	  <tr align="left">
+	                     <td>[BOJ_10867] 중복 뺴고 정렬하기(Sorting with duplicated cases) </td>
+                       <td> Silver 5 </td>
+	              </tr> 
+             	  <tr align="left">
+	                     <td>[BOJ_10989] 수 정렬하기 3(Sorting number 3) </td>
+                       <td> Bronze 1 </td>
+	              </tr> 
+             	  <tr align="left">
+	                     <td>[BOJ_11557] Yangjojang of The Year </td>
+                       <td> Bronze 1 </td>
+	              </tr> 
+             	  <tr align="left">
+	                     <td>[BOJ_11650] 좌표 정렬하기(Aligning coordinates) </td>
+                       <td> Silver 5 </td>
+	              </tr> 
+             	  <tr align="left">
+	                     <td>[BOJ_11651] 좌표 정렬하기 2 (Aligning coordinates 2) </td>
+                       <td> Silver 5 </td>
+	              </tr> 
+             	  <tr align="left">
+	                     <td>[BOJ_11728] 배열 합치기(Merging arrays) </td>
+                       <td> Silver 5 </td>
+	              </tr> 
+              	<tr align="left">
+	                     <td>[BOJ_17140] 이차원 배열과 연산(2-Dimensional Array and Operation) </td>
+                       <td> Gold 4 </td>
+	              </tr>
+     </table>
+</details> 
 </div>
 </br>
 </br>
