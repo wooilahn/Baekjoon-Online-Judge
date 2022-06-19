@@ -460,6 +460,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_19539] 사과나무(Apple tree) </td>
                        <td> Silver 1 </td>
 	              </tr>
+                <tr align="left">
+                             <td>[BOJ_17420] 깊콘이 넘쳐흘러(Gifticons overflow)  </td>
+                       <td> Gold 1 </td>
+                      </tr>
 	  </table>
     </details> 
        
