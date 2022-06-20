@@ -440,6 +440,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_2720] 세탁소 사장 동혁(The owner of the laundry, Donghyuk) </td>
                        <td> Bronze 3 </td>
 	              </tr>
+                <tr align="left">
+                             <td>[BOJ_3109] 빵집(Bakery) </td>
+                       <td> Gold 2 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_9576] 책 나눠주기(Handing out books) </td>
                        <td> Gold 2 </td>
@@ -463,10 +467,6 @@ Baekjoon Online Judge Code
                 <tr align="left">
                              <td>[BOJ_17420] 깊콘이 넘쳐흘러(Gifticons overflow)  </td>
                        <td> Gold 1 </td>
-                      </tr>
-                <tr align="left">
-                             <td>[BOJ_3109] 빵집(Bakery) </td>
-                       <td> Gold 2 </td>
                       </tr>
 	  </table>
     </details> 
@@ -1327,6 +1327,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_10987] 모음의 개수(The number of vowel) </td>
                        <td> Bronze 2 </td>
 	              </tr>
+                    <tr align="left">
+                             <td>[BOJ_11091] 알파벳 전부 쓰기 (Write all letters) </td>
+                       <td> Bronze 2 </td>
+                      </tr>
           	    <tr align="left">
 	                     <td>[BOJ_11170] 0의 개수(The number of zero) </td>
                        <td> Bronze 1 </td>
@@ -1355,10 +1359,6 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_11729] 하노이 탑 이동 순서(Order of Hanio Towers) </td>
                        <td> Silver 1 </td>
 	              </tr>
-                    <tr align="left">
-                             <td>[BOJ_11091] 알파벳 전부 쓰기 (Write all letters) </td>
-                       <td> Bronze 2 </td>
-                      </tr>
 	  </table>
     </details>  
 </div>
