@@ -1359,7 +1359,6 @@ Baekjoon Online Judge Code
                              <td>[BOJ_11091] 알파벳 전부 쓰기 (Write all letters) </td>
                        <td> Bronze 2 </td>
                       </tr>
-
 	  </table>
     </details>  
 </div>
