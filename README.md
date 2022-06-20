@@ -464,6 +464,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_17420] 깊콘이 넘쳐흘러(Gifticons overflow)  </td>
                        <td> Gold 1 </td>
                       </tr>
+                <tr align="left">
+                             <td>[BOJ_3109] 빵집(Bakery) </td>
+                       <td> Gold 2 </td>
+                      </tr>
 	  </table>
     </details> 
        
@@ -578,6 +582,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_11779] 최소비용 구하기 2 (Finding the minimum cost 2) </td>
                        <td> Gold 3 </td>
 	              </tr> 
+                <tr align="left">
+                             <td>[BOJ_3109] 빵집(Bakery) </td>
+                       <td> Gold 2 </td>
+                      </tr>
 	  </table>
     </details>  
 </div>
