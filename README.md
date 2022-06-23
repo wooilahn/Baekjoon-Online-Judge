@@ -1187,6 +1187,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_1157] 단어 공부(Word study) </td>
                        <td> Bronze 1 </td>
 	              </tr>
+                 <tr align="left">
+                             <td>[BOJ_1159] 농구 경기 (Basketball game) </td>
+                       <td> Bronze 2 </td>
+                      </tr>		      
               	<tr align="left">
 	                     <td>[BOJ_1181] 단어 정렬(Sorting words) </td>
                        <td> Silver 5 </td>
@@ -1247,6 +1251,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_2941] 크로아티아 알파벳(Croatia Alphabet) </td>
                        <td> Silver 5 </td>
 	              </tr> 
+                 <tr align="left">
+                             <td>[BOJ_2954] 창영이의 일기장(Changyoung's Diary) </td>
+                       <td> Bronze 1 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_3009] 네 번째 점(Fourth point) </td>
                        <td> Bronze 3 </td>
@@ -1323,6 +1331,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_10822] 더하기(Plus) </td>
                        <td> Bronze 2 </td>
 	              </tr>
+            	  <tr align="left">
+	                     <td>[BOJ_10823] 더하기 2(Plus 2) </td>
+                       <td> Bronze 1 </td>
+	              </tr>
           	    <tr align="left">
 	                     <td>[BOJ_10987] 모음의 개수(The number of vowel) </td>
                        <td> Bronze 2 </td>
@@ -1359,14 +1371,6 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_11729] 하노이 탑 이동 순서(Order of Hanio Towers) </td>
                        <td> Silver 1 </td>
 	              </tr>
-                    <tr align="left">
-                             <td>[BOJ_1159] 농구 경기 (Basketball game) </td>
-                       <td> Bronze 2 </td>
-                      </tr>		      
-                    <tr align="left">
-                             <td>[BOJ_2954] 창영이의 일기장(Changyoung's Diary) </td>
-                       <td> Bronze 1 </td>
-                      </tr>
 	  </table>
     </details>  
 </div>
