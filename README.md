@@ -1312,6 +1312,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td>
 	              </tr>
              	  <tr align="left">
+	                     <td>[BOJ_9946] 단어 퍼즐 (Word Puzzle) </td>
+                       <td> Bronze 1 </td>
+	              </tr>
+             	  <tr align="left">
 	                     <td>[BOJ_10173] 니모를 찾아서(Finding Nemo..) </td>
                        <td> Bronze 2 </td>
 	              </tr>
