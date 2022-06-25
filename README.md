@@ -1303,6 +1303,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_5704] 팬그램(Pangram) </td>
                        <td> Bronze 2 </td>
 	              </tr>
+          	  <tr align="left">
+	                     <td>[BOJ_8949] 대충 더해 (Add Roughly) </td>
+                       <td> Bronze 2 </td>
+	              </tr>
              	  <tr align="left">
 	                     <td>[BOJ_9086] 문자열(String) </td>
                        <td> Bronze 5 </td>
