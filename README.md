@@ -1011,6 +1011,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_10172] 개(Dog) </td>
                        <td> Bronze 5 </td>
 	              </tr> 
+                <tr align="left">
+                             <td>[BOJ_10179] 쿠폰(Coupon) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_10214] Baseball </td>
                        <td> Bronze 3 </td>
