@@ -1135,6 +1135,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_11098] 첼시를 도와줘(Please help Chelsea!) </td>
                        <td> Bronze 2 </td>
 	              </tr>
+                <tr align="left">
+                             <td>[BOJ_11134] 쿠키 애호가(Cookie Lover) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_11944] NN </td>
                        <td> Bronze 2 </td>
