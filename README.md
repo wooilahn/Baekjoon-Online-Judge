@@ -913,6 +913,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_5523] 경기 결과(Match Result) </td>
                        <td> Bronze 3 </td>
 	              </tr> 
+                <tr align="left">
+                             <td>[BOJ_5532] 방학 숙제(Vacation homework) </td>
+                       <td> Bronze 4 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_5543] 상근날드(Sangeun-nald) </td>
                        <td> Bronze 4 </td>
