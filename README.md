@@ -905,6 +905,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_4673] 셀프 넘버(Self Number) </td>
                        <td> Silver 5 </td>
 	              </tr> 
+                <tr align="left">
+                             <td>[BOJ_5217] 쌍의 합(Sum of pairs) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_5355] 화성 수학(Mathematics in Mars) </td>
                        <td> Bronze 2 </td>
