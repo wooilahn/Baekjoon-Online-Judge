@@ -1223,6 +1223,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_1357] 뒤집힌 덧셈(Inverted addition) </td>
                        <td> Bronze 1 </td>
 	              </tr>
+                <tr align="left">
+                             <td>[BOJ_1371] 가장 많은 글자(The most frequent letter) </td>
+                       <td> Bronze 1 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_1427] 소트인사이드(Sort inside) </td>
                        <td> Silver 5 </td>
