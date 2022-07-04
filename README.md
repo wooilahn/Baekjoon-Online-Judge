@@ -1343,6 +1343,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_9086] 문자열(String) </td>
                        <td> Bronze 5 </td>
 	              </tr>
+                  <tr align="left">
+                             <td>[BOJ_9093] 단어 뒤집기(Fliping word) </td>
+                       <td> Bronze 1 </td>
+                      </tr>
              	  <tr align="left">
 	                     <td>[BOJ_9243] 파일 완전 삭제(Deleting file completely) </td>
                        <td> Bronze 2 </td>
