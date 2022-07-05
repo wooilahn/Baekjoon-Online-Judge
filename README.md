@@ -906,6 +906,10 @@ Baekjoon Online Judge Code
                        <td> Silver 5 </td>
 	              </tr> 
                 <tr align="left">
+                             <td>[BOJ_4766] 일반 화학 실험(General chemistry experiment) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
+                <tr align="left">
                              <td>[BOJ_5217] 쌍의 합(Sum of pairs) </td>
                        <td> Bronze 3 </td>
                       </tr>
