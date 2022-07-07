@@ -562,6 +562,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_1956] 운동(Exercise) (Floyd-Warshall) </td>
                        <td> Gold 4 </td>
 	              </tr>
+                <tr align="left">
+                             <td>[BOJ_3109] 빵집(Bakery) </td>
+                       <td> Gold 2 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_9370] 미확인 도착지(Unidentified destination) (Dijkstra) </td>
                        <td> Gold 2 </td>
@@ -582,10 +586,6 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_11779] 최소비용 구하기 2 (Finding the minimum cost 2) </td>
                        <td> Gold 3 </td>
 	              </tr> 
-                <tr align="left">
-                             <td>[BOJ_3109] 빵집(Bakery) </td>
-                       <td> Gold 2 </td>
-                      </tr>
 	  </table>
     </details>  
 </div>
