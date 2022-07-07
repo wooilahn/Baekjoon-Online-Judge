@@ -602,6 +602,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_1644] 소수의 연속합(Prefix sum of prime numbers) </td>
                        <td> Gold 3 </td>
 	              </tr>
+              	<tr align="left">
+	                     <td>[BOJ_1940] 주몽(Jumong) </td>
+                       <td> Silver 4 </td>
+	              </tr>
 	  </table>
     </details> 
 </div>
@@ -1644,6 +1648,10 @@ Baekjoon Online Judge Code
       <table align="center">
 	       <th>Title</th>
 	       <th>Levels</th>
+              	<tr align="left">
+	                     <td>[BOJ_1940] 주몽(Jumong) </td>
+                       <td> Silver 4 </td>
+	              </tr>
               	<tr align="left">
 	                     <td>[BOJ_2750] 수 정렬하기(Sorting number) </td>
                        <td> Bronze 2 </td>
