@@ -917,6 +917,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_5355] 화성 수학(Mathematics in Mars) </td>
                        <td> Bronze 2 </td>
 	              </tr> 
+                <tr align="left">
+                             <td>[BOJ_5361] 전투 드로이드 가격(Battle droid price) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_5522] 카드게임(Card Game) </td>
                        <td> Bronze 5 </td>
