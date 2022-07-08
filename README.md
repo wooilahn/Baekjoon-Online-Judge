@@ -1571,14 +1571,18 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_5054] 주차의 신(God of parking) </td>
                        <td> Bronze 2 </td>
 	              </tr>
+                  <tr align="left">
+                             <td>[BOJ_5086] 배수와 약수(Multiple and divisor) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
              	  <tr align="left">
 	                     <td>[BOJ_5218] 알파벳 거리(Alphabet Distance) </td>
                        <td> Bronze 2 </td>
 	              </tr>
-             	  <tr align="left">
-	                     <td>[BOJ_5086] 배수와 약수(Multiple and divisor) </td>
-                       <td> Bronze 3 </td>
-	              </tr>
+                  <tr align="left">
+                             <td>[BOJ_5347] LCM </td>
+                       <td> Silver 4 </td>
+                      </tr>
              	  <tr align="left">
 	                     <td>[BOJ_9020] 골드바흐의 추측(Goldbach's conjecture) </td>
                        <td> Silver 2 </td>
