@@ -1615,6 +1615,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_10718] We love kriii </td>
                        <td> Bronze 5 </td>
 	              </tr>
+                  <tr align="left">
+                             <td>[BOJ_10829] 이진수 변환(Binary Conversion)  </td>
+                       <td> Bronze 2 </td>
+                      </tr>
              	  <tr align="left">
 	                     <td>[BOJ_10830] 행렬 제곱(Square of Matrix) </td>
                        <td> Gold 4 </td>
