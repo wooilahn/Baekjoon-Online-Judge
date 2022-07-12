@@ -1591,6 +1591,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_9020] 골드바흐의 추측(Goldbach's conjecture) </td>
                        <td> Silver 2 </td>
 	              </tr>
+                  <tr align="left">
+                             <td>[BOJ_9550] 아이들은 사탕을 좋아해(Kids love candy) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
              	  <tr align="left">
 	                     <td>[BOJ_10250] ACM 호텔(ACM Hotel) </td>
                        <td> Bronze 3 </td>
