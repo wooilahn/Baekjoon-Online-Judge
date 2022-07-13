@@ -1411,6 +1411,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_11575] Affine Cipher </td>
                        <td> Bronze 2 </td>
 	              </tr>
+                    <tr align="left">
+                             <td>[BOJ_11586] 지영 공주님의 마법 거울(Princess Jiyoung's magic mirror) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
           	    <tr align="left">
 	                     <td>[BOJ_11654] 아스키 코드(ASCII Code) </td>
                        <td> Bronze 5 </td>
