@@ -1311,6 +1311,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_4597] 패리티(Parity) </td>
                        <td> Bronze 2 </td>
                       </tr>
+                <tr align="left">
+                             <td>[BOJ_4806] 줄 세기(Line Count) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_4999] 아!(Ah!) </td>
                        <td> Bronze 5 </td>
