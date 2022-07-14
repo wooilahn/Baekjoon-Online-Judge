@@ -571,7 +571,7 @@ Baekjoon Online Judge Code
                        <td> Gold 2 </td>
 	              </tr>
               	<tr align="left">
-	                     <td>[BOJ_9370] KCM Travel (Dijkstra) </td>
+	                     <td>[BOJ_10217] KCM Travel (Dijkstra) </td>
                        <td> Platinum 5 </td>
 	              </tr>
               	<tr align="left">
