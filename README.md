@@ -1383,6 +1383,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_10757] 큰 수 A+B </td>
                        <td> Bronze 5 </td>
 	              </tr>
+                  <tr align="left">
+                             <td>[BOJ_10769] 행복한지 슬픈지 (Happy or Sad) </td>
+                       <td> Bronze 1 </td>
+                      </tr>
              	  <tr align="left">
 	                     <td>[BOJ_10808] 알파벳개수(The number of alphabet) </td>
                        <td> Bronze 4 </td>
