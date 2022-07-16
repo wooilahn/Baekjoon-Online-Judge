@@ -4,7 +4,7 @@ Baekjoon Online Judge Code
 ## Code List of Problem (List is sorted in ascending order.) 
 <div align="center">
     <details open>
-    <summary> <h3> Simulation (Samsung 유형) </h3> </summary>
+    <summary> <h3> Simulation </h3> </summary>
          <table align="center">
 	       <th>Title</th>
 	       <th>Levels</th>
