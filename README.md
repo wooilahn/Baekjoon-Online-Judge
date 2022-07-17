@@ -1447,6 +1447,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_11729] 하노이 탑 이동 순서(Order of Hanio Towers) </td>
                        <td> Silver 1 </td>
 	              </tr>
+                    <tr align="left">
+                             <td>[BOJ_11945] 뜨거운 붕어빵 (Hot pancake) </td>
+                       <td> Bronze 4 </td>
+                      </tr>
 	  </table>
     </details>  
 </div>
