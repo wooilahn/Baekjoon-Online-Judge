@@ -797,6 +797,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_2485] 가로수(Colonnade) </td>
                        <td> Silver 4 </td>
 	              </tr> 
+                <tr align="left">
+                             <td>[BOJ_2511] 카드놀이(Card playing) </td>
+                       <td> Bronze 2 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_2522] 별 찍기 - 12(Printing Stars - 12) </td>
                        <td> Bronze 3 </td>
