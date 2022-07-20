@@ -234,9 +234,13 @@ Baekjoon Online Judge Code
                        <td> Silver 2 </td>
 	              </tr> 
               	<tr align="left">
-	                     <td>[BOJ_9184] 팰린드롬?(Palindrome?) </td>
-                       <td> Gold 4 </td>
+	                     <td>[BOJ_9625] BABBA </td>
+                       <td> Silver 5 </td>
 	              </tr> 
+                <tr align="left">
+                             <td>[BOJ_10942] 팰린드롬?(Palindrome?) </td>
+                       <td> Gold 4 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_11723] 집합(Set) </td>
                        <td> Silver 5 </td>
