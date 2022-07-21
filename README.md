@@ -233,6 +233,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_9184] 신나는 함수 실행(Function Run Fun) </td>
                        <td> Silver 2 </td>
 	              </tr> 
+                <tr align="left">
+                             <td>[BOJ_9507] Generations of Tribbles </td>
+                       <td> Silver 3 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_9625] BABBA </td>
                        <td> Silver 5 </td>
