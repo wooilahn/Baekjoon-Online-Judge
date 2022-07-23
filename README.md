@@ -878,6 +878,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
 	              </tr> 
                 <tr align="left">
+                             <td>[BOJ_2985] 세 수 (Three numbers) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
+                <tr align="left">
                              <td>[BOJ_3034] 앵그리 창영(Angry Chang-young) </td>
                        <td> Bronze 3 </td>
                       </tr>
