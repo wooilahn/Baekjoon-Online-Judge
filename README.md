@@ -1332,6 +1332,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td>
                       </tr>
                 <tr align="left">
+                             <td>[BOJ_4613] Quicksum </td>
+                       <td> Bronze 2 </td>
+                      </tr>
+                <tr align="left">
                              <td>[BOJ_4806] 줄 세기(Line Count) </td>
                        <td> Bronze 3 </td>
                       </tr>
