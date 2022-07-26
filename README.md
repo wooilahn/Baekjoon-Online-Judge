@@ -950,7 +950,7 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
 	              </tr> 
                 <tr align="left">
-                             <td>[BOJ_5532] 방학 숙제(Vacation homework) </td>
+                         <td>[BOJ_5532] 방학 숙제(Vacation homework) </td>
                        <td> Bronze 4 </td>
                       </tr>
               	<tr align="left">
@@ -964,7 +964,11 @@ Baekjoon Online Judge Code
               	<tr align="left">
 	                     <td>[BOJ_5565] 영수증(Receipt) </td>
                        <td> Bronze 3 </td>
-	              </tr> 
+	              </tr>
+                <tr align="left">
+                         <td>[BOJ_5575] 타임 카드(Time Card) </td>
+                       <td> Bronze 4 </td>
+                   </tr>
               	<tr align="left">
 	                     <td>[BOJ_5585] 거스름돈(Change) </td>
                        <td> Bronze 2 </td>
