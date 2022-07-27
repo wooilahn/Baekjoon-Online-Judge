@@ -1288,7 +1288,7 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td>
 	              </tr>
                 <tr align="left">
-                             <td>[BOJ_2712] 미국 스타일(America Style) </td>
+                             <td>[BOJ_2712] 미국 스타일(USA Style) </td>
                        <td> Bronze 3 </td>
                       </tr>
               	<tr align="left">
