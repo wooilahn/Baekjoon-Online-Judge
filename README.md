@@ -1287,6 +1287,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_2711] 오타맨 고창영(Typo-man ChangyoungKo) </td>
                        <td> Bronze 2 </td>
 	              </tr>
+                <tr align="left">
+                             <td>[BOJ_2712] 미국 스타일(America Style) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_2744] 대소문자 바꾸기(Changing capital and small letter) </td>
                        <td> Bronze 5 </td>
