@@ -1359,6 +1359,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_5218] 알파벳 거리(Alphabet Distance) </td>
                        <td> Bronze 2 </td>
 	              </tr>
+                  <tr align="left">
+                             <td>[BOJ_5363] 요다(Yoda) </td>
+                       <td> Bronze 2 </td>
+                      </tr>
              	  <tr align="left">
 	                     <td>[BOJ_5524] 입실 관리(Room management) </td>
                        <td> Bronze 2 </td>
