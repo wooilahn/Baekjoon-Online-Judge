@@ -1303,6 +1303,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_2857] FBI </td>
                        <td> Bronze 3 </td>
 	              </tr> 
+                <tr align="left">
+                             <td>[BOJ_2864] 5와 6의 차이(Difference between 5 and 6) </td>
+                       <td> Bronze 2 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_2902] KMP는 왜 KMP일까?(Why KMP is KMP?) </td>
                        <td> Bronze 3 </td>
