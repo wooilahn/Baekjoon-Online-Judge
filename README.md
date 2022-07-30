@@ -1099,6 +1099,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_10833] 사과(Apple) </td>
                        <td> Bronze 3 </td>
 	              </tr>
+                <tr align="left">
+                             <td>[BOJ_10864] 친구(Friend) </td>
+                       <td> Bronze 2 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_10869] 사칙연산(Four arithmetic operations) </td>
                        <td> Bronze 5 </td>
