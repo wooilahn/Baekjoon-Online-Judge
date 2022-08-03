@@ -1063,6 +1063,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_10214] Baseball </td>
                        <td> Bronze 3 </td>
 	              </tr> 
+                <tr align="left">
+                             <td>[BOJ_10707] 수도 요금(Water bill) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_10768] 특별한 날(Special Day) </td>
                        <td> Bronze 4 </td>
@@ -1186,6 +1190,10 @@ Baekjoon Online Judge Code
                 <tr align="left">
                              <td>[BOJ_11134] 쿠키 애호가(Cookie Lover) </td>
                        <td> Bronze 3 </td>
+                      </tr>
+                <tr align="left">
+                             <td>[BOJ_11637] 인기투표(Popular vote) </td>
+                       <td> Silver 5 </td>
                       </tr>
                 <tr align="left">
                              <td>[BOJ_11943] 파일 옮기기 (Moving files) </td>
