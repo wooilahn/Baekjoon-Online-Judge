@@ -1062,11 +1062,19 @@ Baekjoon Online Judge Code
               	<tr align="left">
 	                     <td>[BOJ_10214] Baseball </td>
                        <td> Bronze 3 </td>
+<<<<<<< HEAD
 	              </tr> 
                 <tr align="left">
                              <td>[BOJ_10707] 수도 요금(Water bill) </td>
                        <td> Bronze 3 </td>
                       </tr>
+=======
+	              </tr>
+                 <tr align="left">
+                          <td>[BOJ_10599] 페르시아의 왕들(King of Persia) </td>
+                        <td> Bronze 3 </td>
+                  </tr>
+>>>>>>> f42628b55389324566aa533d6f18c561730c25d9
               	<tr align="left">
 	                     <td>[BOJ_10768] 특별한 날(Special Day) </td>
                        <td> Bronze 4 </td>
