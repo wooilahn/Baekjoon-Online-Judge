@@ -1119,6 +1119,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_10872] 팩토리얼(factorial) </td>
                        <td> Bronze 5 </td>
 	              </tr>
+                <tr align="left">
+                             <td>[BOJ_10874] 이교수님의 시험(Professor Lee's exam) </td>
+                       <td> Bronze 2 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_10886] 0 = not cute / 1 = cute </td>
                        <td> Bronze 3 </td>
