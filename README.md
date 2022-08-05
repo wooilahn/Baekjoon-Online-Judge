@@ -1649,6 +1649,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_4153] 직각삼각형(Right triangle) </td>
                        <td> Bronze 3 </td>
 	              </tr>
+                  <tr align="left">
+                             <td>[BOJ_4880] 다음수 (Next number) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
              	  <tr align="left">
 	                     <td>[BOJ_4948] 베르트랑 공준(Bertrand's postulate) </td>
                        <td> Silver 2 </td>
