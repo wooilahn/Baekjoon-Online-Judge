@@ -1653,6 +1653,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_4880] 다음수 (Next number) </td>
                        <td> Bronze 3 </td>
                       </tr>
+                  <tr align="left">
+                             <td>[BOJ_4892] 숫자 맞추기 게임 (Guess the number game) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
              	  <tr align="left">
 	                     <td>[BOJ_4948] 베르트랑 공준(Bertrand's postulate) </td>
                        <td> Silver 2 </td>
