@@ -1085,6 +1085,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_10807] 개수세기(Counting) </td>
                        <td> Bronze 5 </td>
 	              </tr>
+                <tr align="left">
+                             <td>[BOJ_10813] 공 바꾸기(Change the ball) </td>
+                       <td> Bronze 2 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_10817] 세 수(Three numbers) </td>
                        <td> Bronze 3 </td>
