@@ -1453,6 +1453,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_10173] 니모를 찾아서(Finding Nemo..) </td>
                        <td> Bronze 2 </td>
 	              </tr>
+                  <tr align="left">
+                             <td>[BOJ_10384] 팬그램(Pangram) </td>
+                       <td> Bronze 1 </td>
+                      </tr>
              	  <tr align="left">
 	                     <td>[BOJ_10757] 큰 수 A+B </td>
                        <td> Bronze 5 </td>
