@@ -1689,6 +1689,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_5347] LCM </td>
                        <td> Silver 4 </td>
                       </tr>
+		  <tr align="left">
+                             <td>[BOJ_8974] 희주의 수학시험(Heeju's math exam)</td>
+                       <td> Bronze 1 </td>
+                      </tr>
              	  <tr align="left">
 	                     <td>[BOJ_9020] 골드바흐의 추측(Goldbach's conjecture) </td>
                        <td> Silver 2 </td>
