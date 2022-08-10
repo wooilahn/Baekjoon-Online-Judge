@@ -1662,6 +1662,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
 	              </tr>
                   <tr align="left">
+                             <td>[BOJ_4435] 중간계 전쟁(Middle-earth war) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
+                  <tr align="left">
                              <td>[BOJ_4880] 다음수 (Next number) </td>
                        <td> Bronze 3 </td>
                       </tr>
