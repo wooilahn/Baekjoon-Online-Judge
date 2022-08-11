@@ -921,6 +921,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_4504] 배수 찾기(Finding multiples) </td>
                        <td> Bronze 3 </td>
 	              </tr> 
+                <tr align="left">
+                             <td>[BOJ_4564] 숫자 카드놀이(Playing number cards) </td>
+                       <td> Bronze 2 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_4673] 셀프 넘버(Self Number) </td>
                        <td> Silver 5 </td>
