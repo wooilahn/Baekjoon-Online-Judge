@@ -1066,6 +1066,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
 	              </tr> 
                 <tr align="left">
+                             <td>[BOJ_10419] 지각(Tardy) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
+                <tr align="left">
                              <td>[BOJ_10707] 수도 요금(Water bill) </td>
                        <td> Bronze 3 </td>
                       </tr>
