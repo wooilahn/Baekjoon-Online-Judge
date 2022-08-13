@@ -1493,6 +1493,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_11091] 알파벳 전부 쓰기 (Write all letters) </td>
                        <td> Bronze 2 </td>
                       </tr>
+                    <tr align="left">
+                             <td>[BOJ_11104] Fridge of Your Dreams  </td>
+                       <td> Bronze 2 </td>
+                      </tr>
           	    <tr align="left">
 	                     <td>[BOJ_11170] 0의 개수(The number of zero) </td>
                        <td> Bronze 1 </td>
