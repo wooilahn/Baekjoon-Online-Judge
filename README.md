@@ -325,6 +325,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_7568] 덩치(Build) </td>
                        <td> Silver 5 </td>
 	              </tr>
+                <tr align="left">
+                             <td>[BOJ_9094] 수학적 호기심(Mathematical curiosity) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_10974] 모든 순열(All permutations) </td>
                        <td> Silver 3 </td>
