@@ -1722,6 +1722,10 @@ Baekjoon Online Judge Code
                        <td> Silver 2 </td>
 	              </tr>
                   <tr align="left">
+                             <td>[BOJ_9501] 꿍의 우주여행(GGong's space travel) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
+                  <tr align="left">
                              <td>[BOJ_9550] 아이들은 사탕을 좋아해(Kids love candy) </td>
                        <td> Bronze 3 </td>
                       </tr>
