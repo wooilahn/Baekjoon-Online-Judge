@@ -1726,6 +1726,10 @@ Baekjoon Online Judge Code
                        <td> Silver 2 </td>
 	              </tr>
                   <tr align="left">
+                             <td>[BOJ_9437] 사라진 페이지 찾기(Find missing pages) </td>
+                       <td> Bronze 2 </td>
+                      </tr>
+                  <tr align="left">
                              <td>[BOJ_9501] 꿍의 우주여행(GGong's space travel) </td>
                        <td> Bronze 3 </td>
                       </tr>
