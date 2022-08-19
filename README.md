@@ -893,6 +893,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_3040] 백설 공주와 일곱 난쟁이(Snow White and the Seven Dwarfs) </td>
                        <td> Bronze 2 </td>
 	              </tr> 
+                <tr align="left">
+                             <td>[BOJ_3047] ABC </td>
+                       <td> Bronze 3 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_3052] 나머지(Remainder) </td>
                        <td> Bronze 2 </td>
