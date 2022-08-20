@@ -1222,6 +1222,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
                       </tr>
                 <tr align="left">
+                             <td>[BOJ_11382] 꼬마 정민(Little Jungmin) </td>
+                       <td> Bronze 5 </td>
+                      </tr>
+                <tr align="left">
                              <td>[BOJ_11637] 인기투표(Popular vote) </td>
                        <td> Silver 5 </td>
                       </tr>
