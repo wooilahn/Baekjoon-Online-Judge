@@ -1106,6 +1106,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 5 </td>
 	              </tr>
                 <tr align="left">
+                             <td>[BOJ_10810] 공 넣기(Throwing the ball) </td>
+                       <td> Bronze 2 </td>
+                      </tr>
+                <tr align="left">
                              <td>[BOJ_10813] 공 바꾸기(Change the ball) </td>
                        <td> Bronze 2 </td>
                       </tr>
