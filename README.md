@@ -1078,6 +1078,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
 	              </tr> 
                 <tr align="left">
+                             <td>[BOJ_10409] 서버(Server) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
+                <tr align="left">
                              <td>[BOJ_10419] 지각(Tardy) </td>
                        <td> Bronze 3 </td>
                       </tr>
