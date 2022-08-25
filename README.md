@@ -1005,6 +1005,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_5717] 상근이와 친구들(The friends of Sang-geun) </td>
                        <td> Bronze 3 </td>
 	              </tr> 
+                <tr align="left">
+                             <td>[BOJ_7510] 고급 수학(Advanced Math) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_7567] 그릇(Bowl) </td>
                        <td> Bronze 2 </td>
