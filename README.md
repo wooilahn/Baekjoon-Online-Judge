@@ -1049,6 +1049,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_10039] 평균점수(Average Score) </td>
                        <td> Bronze 4 </td>
 	              </tr>  
+                <tr align="left">
+                             <td>[BOJ_10101] 삼각형 외우기(Memorizing triangle) </td>
+                       <td> Bronze 4 </td>
+                      </tr> 
               	<tr align="left">
 	                     <td>[BOJ_10102] 개표(Vote counting) </td>
                        <td> Bronze 2 </td>
