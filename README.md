@@ -1150,7 +1150,7 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
 	              </tr>
                 <tr align="left">
-                             <td>[BOJ_10864] 친구(Friend) </td>
+                         <td>[BOJ_10864] 친구(Friend) </td>
                        <td> Bronze 2 </td>
                       </tr>
               	<tr align="left">
@@ -1166,7 +1166,7 @@ Baekjoon Online Judge Code
                        <td> Bronze 5 </td>
 	              </tr>
                 <tr align="left">
-                             <td>[BOJ_10874] 이교수님의 시험(Professor Lee's exam) </td>
+                         <td>[BOJ_10874] 이교수님의 시험(Professor Lee's exam) </td>
                        <td> Bronze 2 </td>
                       </tr>
               	<tr align="left">
@@ -1201,6 +1201,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_10988] 팰린드롬인지 확인하기(Determining if it is a palindrome) </td>
                        <td> Bronze 2 </td>
 	              </tr>
+				<tr align="left">
+			             <td>[BOJ_10990] 별 찍기 - 15(Printing Stars - 15) </td>
+					   <td> Bronze 3 </td>
+				  </tr>
               	<tr align="left">
 	                     <td>[BOJ_10991] 별 찍기 - 16(Printing Stars - 16) </td>
                        <td> Bronze 3 </td>
