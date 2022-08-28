@@ -1750,6 +1750,10 @@ Baekjoon Online Judge Code
                        <td> Silver 4 </td>
                      </tr>
                   <tr align="left">
+                             <td>[BOJ_5618] 공약수 </td>
+                       <td> Bronze 2 </td>
+                     </tr>
+                  <tr align="left">
                              <td>[BOJ_7523] Gauß </td>
                        <td> Bronze 3 </td>
                      </tr>
