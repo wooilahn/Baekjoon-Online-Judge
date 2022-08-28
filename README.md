@@ -1744,7 +1744,11 @@ Baekjoon Online Judge Code
                   <tr align="left">
                              <td>[BOJ_5347] LCM </td>
                        <td> Silver 4 </td>
-                      </tr>
+                     </tr>
+                  <tr align="left">
+                             <td>[BOJ_7523] Gauß </td>
+                       <td> Bronze 3 </td>
+                     </tr>
 		  <tr align="left">
                              <td>[BOJ_8974] 희주의 수학시험(Heeju's math exam)</td>
                        <td> Bronze 1 </td>
