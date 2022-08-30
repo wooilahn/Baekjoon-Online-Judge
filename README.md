@@ -850,9 +850,13 @@ Baekjoon Online Judge Code
                        <td> Bronze 5 </td>
 	              </tr> 
               	<tr align="left">
-	                     <td>[BOJ_2741] 기찍 N(Reverse Print N) </td>
+	                     <td>[BOJ_2742] 기찍 N(Reverse Print N) </td>
                        <td> Bronze 3 </td>
-	              </tr> 
+	              </tr>
+                <tr align="left">
+                             <td>[BOJ_2745] 진법 변환(Base conversion) </td>
+                       <td> Bronze 2 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_2753] 윤년(leap year) </td>
                        <td> Bronze 5 </td>
