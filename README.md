@@ -765,6 +765,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_1546] 평균(Average) </td>
                        <td> Bronze 1 </td>
 	              </tr>
+                <tr align="left">
+                             <td>[BOJ_1652] 누울 자리를 찾아라(Find a place to lie down!) </td>
+                       <td> Bronze 1 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_2438] 별 찍기 - 1(Printing Stars - 1) </td>
                        <td> Bronze 5 </td>
