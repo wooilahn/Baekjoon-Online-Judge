@@ -841,6 +841,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_2577] 숫자의 갯수(The number of numbers) </td>
                        <td> Bronze 2 </td>
 	              </tr> 
+                <tr align="left">
+                             <td>[BOJ_2621] 카드게임(Card Game) </td>
+                       <td> Silver 4 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_2693] N번째 큰 수(Nth largest number) </td>
                        <td> Silver 5 </td>
