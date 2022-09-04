@@ -1894,6 +1894,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_5576] 콘테스트(Contest) </td>
                        <td> Bronze 2 </td>
 	              </tr> 
+                <tr align="left">
+                             <td>[BOJ_8979] 올림픽(Olympic) </td>
+                       <td> Silver 5 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_5800] 성적 통계(Grade statistics) </td>
                        <td> Silver 5 </td>
