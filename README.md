@@ -873,6 +873,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_2754] 학점계산(Calculation of grades) </td>
                        <td> Bronze 5 </td>
 	              </tr> 
+                <tr align="left">
+                             <td>[BOJ_2816] 디지털 티비(Digital TV) </td>
+                       <td> Bronze 1 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_2845] 파티가 끝나고 난 뒤(After the party) </td>
                        <td> Bronze 4 </td>
