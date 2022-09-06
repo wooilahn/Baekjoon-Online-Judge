@@ -428,6 +428,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_1422] 숫자의 신(The god of number) </td>
                        <td> Platinum 4 </td>
 	              </tr>
+                <tr align="left">
+                             <td>[BOJ_1449] 수리공 항승(Repairman Hang-Seung) </td>
+                       <td> Silver 3 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_1541] 잃어버린 괄호(Lost parenthesis) </td>
                        <td> Silver 2 </td>
