@@ -1345,6 +1345,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_1181] 단어 정렬(Sorting words) </td>
                        <td> Silver 5 </td>
 	              </tr>
+                <tr align="left">
+                             <td>[BOJ_1264] 모음의 개수(The number of vowels) </td>
+                       <td> Bronze 4 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_1316] 그룹 단어 체커(Group Word Checker) </td>
                        <td> Silver 5 </td>
