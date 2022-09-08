@@ -770,6 +770,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 1 </td>
 	              </tr>
                 <tr align="left">
+                             <td>[BOJ_1568] 새(Bird) </td>
+                       <td> Bronze 2 </td>
+                      </tr>
+                <tr align="left">
                              <td>[BOJ_1652] 누울 자리를 찾아라(Find a place to lie down!) </td>
                        <td> Bronze 1 </td>
                       </tr>
