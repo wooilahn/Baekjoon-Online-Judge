@@ -1677,6 +1677,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_1789] 수들의 합(Sum of numbers) </td>
                        <td> Silver 5 </td>
 	              </tr>
+                <tr align="left">
+                             <td>[BOJ_1864] 문어 숫자(Octopus number) </td>
+                       <td> Bronze 2 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_1929] 소수 구하기(Finding Prime Number) </td>
                        <td> Silver 3 </td>
