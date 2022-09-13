@@ -841,6 +841,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_2562] 최댓값(Max value) </td>
                        <td> Bronze 3 </td>
 	              </tr> 
+                <tr align="left">
+                             <td>[BOJ_2566] 최댓값(Max value) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_2576] 홀수(Odd number) </td>
                        <td> Bronze 3 </td>
