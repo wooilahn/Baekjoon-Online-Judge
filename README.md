@@ -1377,6 +1377,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_1871] 좋은 자동차 번호판(Good license plate) </td>
                        <td> Bronze 2 </td>
 	              </tr>
+                <tr align="left">
+                             <td>[BOJ_2386] 도비의 영어공부(Dobby's English Study) </td>
+                       <td> Bronze 2 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_2495] 연속구간(Continuous Section) </td>
                        <td> Bronze 2 </td>
