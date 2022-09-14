@@ -893,6 +893,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_2845] 파티가 끝나고 난 뒤(After the party) </td>
                        <td> Bronze 4 </td>
 	              </tr> 
+                <tr align="left">
+                             <td>[BOJ_2846] 오르막길(Uphill road) </td>
+                       <td> Bronze 1 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_2884] 알람 시계(Alarm clock) </td>
                        <td> Bronze 3 </td>
