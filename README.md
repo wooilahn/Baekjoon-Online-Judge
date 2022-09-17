@@ -1445,6 +1445,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_2954] 창영이의 일기장(Changyoung's Diary) </td>
                        <td> Bronze 1 </td>
                       </tr>
+                 <tr align="left">
+                             <td>[BOJ_2966] 찍기(Guessing Randomly) </td>
+                       <td> Bronze 2 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_3009] 네 번째 점(Fourth point) </td>
                        <td> Bronze 3 </td>
