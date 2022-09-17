@@ -905,6 +905,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_2921] 도미노(Domino) </td>
                        <td> Bronze 3 </td>
 	              </tr> 
+                <tr align="left">
+                             <td>[BOJ_2947] 나무 조각(Wood Carving) </td>
+                       <td> Bronze 1 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_2948] 2009년 </td>
                        <td> Bronze 2 </td>
