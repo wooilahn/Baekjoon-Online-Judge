@@ -1765,6 +1765,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_2935] 소음(Noise) </td>
                        <td> Bronze 3 </td>
 	              </tr>
+                  <tr align="left">
+                             <td>[BOJ_3004] 체스판 조각(Chessboard pieces) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
              	  <tr align="left">
 	                     <td>[BOJ_3036] 링 (Ring) </td>
                        <td> Silver 4 </td>
