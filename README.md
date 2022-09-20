@@ -1457,6 +1457,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_3449] 해밍 거리 (Hamming distance) </td>
                        <td> Bronze 2 </td>
                       </tr>
+                <tr align="left">
+                             <td>[BOJ_4447] 좋은놈 나쁜놈(Good Guy, Bad Guy) </td>
+                       <td> Bronze 2 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_4458] 첫 글자를 대문자로(Capitalize the first character) </td>
                        <td> Bronze 2 </td>
