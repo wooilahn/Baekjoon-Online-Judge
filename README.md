@@ -1805,6 +1805,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_4948] 베르트랑 공준(Bertrand's postulate) </td>
                        <td> Silver 2 </td>
 	              </tr>
+                  <tr align="left">
+                             <td>[BOJ_5032] 탄산 음료(Carbonated Drink) </td>
+                       <td> Bronze 2 </td>
+                      </tr>
              	  <tr align="left">
 	                     <td>[BOJ_5054] 주차의 신(God of parking) </td>
                        <td> Bronze 2 </td>
