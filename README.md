@@ -1830,6 +1830,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td>
                      </tr>
                   <tr align="left">
+                             <td>[BOJ_5691] 평균 중앙값 문제(Mean Median Problem) </td>
+                       <td> Bronze 2 </td>
+                     </tr>
+                  <tr align="left">
                              <td>[BOJ_7523] Gauß </td>
                        <td> Bronze 3 </td>
                      </tr>
