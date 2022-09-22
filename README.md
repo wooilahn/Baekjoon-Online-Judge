@@ -1826,11 +1826,15 @@ Baekjoon Online Judge Code
                        <td> Silver 4 </td>
                      </tr>
                   <tr align="left">
-                             <td>[BOJ_5618] 공약수 </td>
+                             <td>[BOJ_5618] 공약수(Common factor) </td>
                        <td> Bronze 2 </td>
                      </tr>
                   <tr align="left">
                              <td>[BOJ_5691] 평균 중앙값 문제(Mean Median Problem) </td>
+                       <td> Bronze 2 </td>
+                     </tr>
+                  <tr align="left">
+                             <td>[BOJ_6322] 직각 삼각형의 두 변 </td>
                        <td> Bronze 2 </td>
                      </tr>
                   <tr align="left">
