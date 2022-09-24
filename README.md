@@ -1854,6 +1854,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td>
                       </tr>
                   <tr align="left">
+                             <td>[BOJ_9469] 폰 노이만(Von Neumann) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
+                  <tr align="left">
                              <td>[BOJ_9501] 꿍의 우주여행(GGong's space travel) </td>
                        <td> Bronze 3 </td>
                       </tr>
