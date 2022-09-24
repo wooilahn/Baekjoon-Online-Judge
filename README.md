@@ -1877,6 +1877,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_10474] 분수좋아해?(Do you like fraction?) </td>
                        <td> Bronze 3 </td>
 	              </tr>
+                  <tr align="left">
+                             <td>[BOJ_10539] 수빈이와 수열(Subin and Sequence) </td>
+                       <td> Bronze 2 </td>
+                      </tr>
              	  <tr align="left">
 	                     <td>[BOJ_10569] 다면체(Polyhedron) </td>
                        <td> Bronze 3 </td>
