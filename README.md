@@ -1913,6 +1913,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_11024] 더하기 4(Plus 4) </td>
                        <td> Bronze 3 </td>
 	              </tr>
+                  <tr align="left">
+                             <td>[BOJ_11320] 삼각 무늬 - 1 (Triangle Pattern - 1) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
              	  <tr align="left">
 	                     <td>[BOJ_11653] 소인수분해(Factorization) </td>
                        <td> Silver 5 </td>
