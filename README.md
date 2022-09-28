@@ -1313,6 +1313,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_14681] 사분면 고르기(Selecting quadrant) </td>
                        <td> Bronze 5 </td>
 	              </tr>
+                <tr align="left">
+                             <td>[BOJ_14910] 오르막(Ascent) </td>
+                       <td> Bronze 2 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_15552] 빠른 A+B(Fast A+B) </td>
                        <td> Bronze 4 </td>
