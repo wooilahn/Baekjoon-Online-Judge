@@ -966,6 +966,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
 	              </tr> 
                 <tr align="left">
+                             <td>[BOJ_4562] No Brainers </td>
+                       <td> Bronze 3 </td>
+                      </tr>
+                <tr align="left">
                              <td>[BOJ_4564] 숫자 카드놀이(Playing number cards) </td>
                        <td> Bronze 2 </td>
                       </tr>
