@@ -1653,6 +1653,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_11945] 뜨거운 붕어빵 (Hot pancake) </td>
                        <td> Bronze 4 </td>
                       </tr>
+                    <tr align="left">
+                             <td>[BOJ_16171] 나는 친구가 적다(Small) (I don't have many friends) </td>
+                       <td> Bronze 1 </td>
+                      </tr>
 	  </table>
     </details>  
 </div>
