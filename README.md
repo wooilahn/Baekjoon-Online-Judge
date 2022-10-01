@@ -1468,7 +1468,11 @@ Baekjoon Online Judge Code
               	<tr align="left">
 	                     <td>[BOJ_3009] 네 번째 점(Fourth point) </td>
                        <td> Bronze 3 </td>
-	              </tr> 
+	              </tr>
+                <tr align="left">
+						<td>[BOJ_3035] 스캐너(Scanner) </td>
+                        <td> Bronze 1 </td>
+                     </tr>
                 <tr align="left">
                              <td>[BOJ_3449] 해밍 거리 (Hamming distance) </td>
                        <td> Bronze 2 </td>
