@@ -2042,6 +2042,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_11728] 배열 합치기(Merging arrays) </td>
                        <td> Silver 5 </td>
 	              </tr> 
+                  <tr align="left">
+                             <td>[BOJ_16435] 스네이크버드(Snake Bird) </td>
+                       <td> Silver 5 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_17140] 이차원 배열과 연산(2-Dimensional Array and Operation) </td>
                        <td> Gold 4 </td>
