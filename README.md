@@ -1945,6 +1945,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_15711] 환상의 짝꿍(Fantastic Mate) </td>
                        <td> Gold 3 </td>
 	              </tr>
+                  <tr align="left">
+                             <td>[BOJ_16199] 나이 계산하기(Calculating your age) </td>
+                       <td> Bronze 4 </td>
+                      </tr>
              	  <tr align="left">
 	                     <td>[BOJ_19532] 수학은 비대면강의입니다 </td>
                        <td> Bronze 2 </td>
