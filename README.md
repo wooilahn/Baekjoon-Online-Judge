@@ -1969,6 +1969,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_19532] 수학은 비대면강의입니다 </td>
                        <td> Bronze 2 </td>
 	              </tr>
+                  <tr align="left">
+                             <td>[BOJ_19572] 가뭄(Small) </td>
+                       <td> Bronze 2 </td>
+                      </tr>
 	  </table>
     </details> 
       
