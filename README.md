@@ -1361,6 +1361,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_20299] 3대 측정 </td>
                        <td> Bronze 2 </td>
                       </tr>
+                <tr align="left">
+                             <td>[BOJ_20361] 일우는 야바위꾼 </td>
+                       <td> Bronze 3 </td>
+                      </tr>
 	</table>
   </details>
 </div>
