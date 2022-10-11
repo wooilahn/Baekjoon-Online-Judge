@@ -1365,6 +1365,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_20361] 일우는 야바위꾼 </td>
                        <td> Bronze 3 </td>
                       </tr>
+                <tr align="left">
+                             <td>[BOJ_23348] 스트릿 코딩 파이터(Street Coding Fighter) </td>
+                       <td> Bronze 3 </td>
+                      </tr>		      
 	</table>
   </details>
 </div>
