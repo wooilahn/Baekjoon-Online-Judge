@@ -1369,6 +1369,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_23348] 스트릿 코딩 파이터(Street Coding Fighter) </td>
                        <td> Bronze 3 </td>
                       </tr>		      
+                <tr align="left">
+                             <td>[BOJ_24262] 알고리즘 수업 - 알고리즘의 수행 시간 1 (Algorithm Lesson - Algorithm Execution Time 1) </td>
+                       <td> Bronze 5 </td>
+                      </tr>
 	</table>
   </details>
 </div>
