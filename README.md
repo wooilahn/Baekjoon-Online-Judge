@@ -1377,6 +1377,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_24264] 알고리즘 수업 - 알고리즘의 수행 시간 3 (Algorithm Lesson - Algorithm Execution Time 3) </td>
                        <td> Bronze 3 </td>
                       </tr>
+                <tr align="left">
+                             <td>[BOJ_25024] 시간과 날짜(Time and Date) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
 	</table>
   </details>
 </div>
