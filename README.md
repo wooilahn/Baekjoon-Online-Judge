@@ -1381,6 +1381,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_25024] 시간과 날짜(Time and Date) </td>
                        <td> Bronze 3 </td>
                       </tr>
+                <tr align="left">
+                             <td>[BOJ_25191] 치킨댄스를 추는 곰곰이를 본 임스  </td>
+                       <td> Bronze 4 </td>
+                      </tr>
 	</table>
   </details>
 </div>
