@@ -2005,6 +2005,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_21567] 숫자의 개수 2 (The number of numbers 2) </td>
                        <td> Bronze 2 </td>
                       </tr>
+                  <tr align="left">
+                             <td>[BOJ_23972] 악마의 제안(devil's suggestion) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
 	  </table>
     </details> 
       
