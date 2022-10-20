@@ -1058,6 +1058,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
 	              </tr> 
                 <tr align="left">
+                             <td>[BOJ_6778] Which Alien? </td>
+                       <td> Bronze 4 </td>
+                      </tr>
+                <tr align="left">
                              <td>[BOJ_7510] 고급 수학(Advanced Math) </td>
                        <td> Bronze 3 </td>
                       </tr>
