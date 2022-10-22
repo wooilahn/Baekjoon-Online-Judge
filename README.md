@@ -1069,6 +1069,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_7567] 그릇(Bowl) </td>
                        <td> Bronze 2 </td>
 	              </tr> 
+                <tr align="left">
+                             <td>[BOJ_8370] Plane </td>
+                       <td> Bronze 5 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_8393] 합(Sum) </td>
                        <td> Bronze 3 </td>
