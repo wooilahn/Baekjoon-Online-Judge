@@ -1101,6 +1101,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_9295] 얼마?(How much?) </td>
                        <td> Bronze 3 </td>
 	              </tr> 
+                <tr align="left">
+                             <td>[BOJ_9316] Hello Judge </td>
+                       <td> Bronze 4 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_9498] 시험 성적(Exam Score) </td>
                        <td> Bronze 5 </td>
