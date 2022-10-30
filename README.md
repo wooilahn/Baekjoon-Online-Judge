@@ -1113,6 +1113,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_9610] 사분면(Quadrant) </td>
                        <td> Bronze 3 </td>
 	              </tr> 
+                <tr align="left">
+                             <td>[BOJ_9654] 나부 함대 데이터(Naboo Fleet Data) </td>
+                       <td> Bronze 5 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_10039] 평균점수(Average Score) </td>
                        <td> Bronze 4 </td>
