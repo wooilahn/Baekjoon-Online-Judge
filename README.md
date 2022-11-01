@@ -1122,6 +1122,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 4 </td>
 	              </tr>  
                 <tr align="left">
+                             <td>[BOJ_10093] 숫자(Number) </td>
+                       <td> Bronze 2 </td>
+                      </tr>
+                <tr align="left">
                              <td>[BOJ_10101] 삼각형 외우기(Memorizing triangle) </td>
                        <td> Bronze 4 </td>
                       </tr> 
