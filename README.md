@@ -1542,7 +1542,7 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
 	              </tr>
                 <tr align="left">
-						<td>[BOJ_3035] 스캐너(Scanner) </td>
+			     <td>[BOJ_3035] 스캐너(Scanner) </td>
                         <td> Bronze 1 </td>
                      </tr>
                 <tr align="left">
@@ -1697,6 +1697,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_11170] 0의 개수(The number of zero) </td>
                        <td> Bronze 1 </td>
 	              </tr>
+                    <tr align="left">
+                             <td>[BOJ_11319] Count Me In </td>
+                       <td> Bronze 2 </td>
+                      </tr>
           	    <tr align="left">
 	                     <td>[BOJ_11575] Affine Cipher </td>
                        <td> Bronze 2 </td>
