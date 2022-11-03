@@ -1330,6 +1330,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
                       </tr>
                 <tr align="left">
+                             <td>[BOJ_11367] Report Card Time </td>
+                       <td> Bronze 3 </td>
+                      </tr>
+                <tr align="left">
                              <td>[BOJ_11382] 꼬마 정민(Little Jungmin) </td>
                        <td> Bronze 5 </td>
                       </tr>
