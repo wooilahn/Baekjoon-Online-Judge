@@ -1354,6 +1354,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td>
 	              </tr>
                 <tr align="left">
+                             <td>[BOJ_13572] 히스토그램 (Histogram) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
+                <tr align="left">
                              <td>[BOJ_13597] NN </td>
                        <td> Bronze 4 </td>
                       </tr>
@@ -1361,10 +1365,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_14581] 팬들에게 둘러싸인 홍준(Hongjun surrounded by fans) </td>
                        <td> Bronze 4 </td>
                       </tr>
-				<tr align="left">
+		<tr align="left">
                              <td>[BOJ_14582] 오늘도 졌다(Lost Today) </td>
                         <td> Silver 5 </td>
-		               </tr>
+		        </tr>
                 <tr align="left">
                              <td>[BOJ_14645] 와이버스 부릉부릉(Y-Bus Bureung Bureung) </td>
                        <td> Bronze 4 </td>
