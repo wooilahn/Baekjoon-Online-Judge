@@ -2057,6 +2057,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_11653] 소인수분해(Factorization) </td>
                        <td> Silver 5 </td>
 	              </tr>
+                  <tr align="left">
+                             <td>[BOJ_15372] A Simple Problem. </td>
+                       <td> Bronze 4 </td>
+                      </tr>
              	  <tr align="left">
 	                     <td>[BOJ_15711] 환상의 짝꿍(Fantastic Mate) </td>
                        <td> Gold 3 </td>
