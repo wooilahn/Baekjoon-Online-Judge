@@ -1393,6 +1393,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_15596] 정수 N개의 합(Sum of N integer) </td>
                        <td> Bronze 2 </td>
 	              </tr>
+                <tr align="left">
+                             <td>[BOJ_15680] 연세대학교(Yonsei University) </td>
+                       <td> Bronze 4 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_15894] 수학은 체육과목 입니다 </td>
                        <td> Bronze 3 </td>
