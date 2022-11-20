@@ -1397,10 +1397,18 @@ Baekjoon Online Judge Code
                              <td>[BOJ_15680] 연세대학교(Yonsei University) </td>
                        <td> Bronze 4 </td>
                       </tr>
+                <tr align="left">
+                             <td>[BOJ_15733] 나는 누구인가(Who am I) </td>
+                       <td> Bronze 5</td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_15894] 수학은 체육과목 입니다 </td>
                        <td> Bronze 3 </td>
 	              </tr>
+                <tr align="left">
+                             <td>[BOJ_16170] 오늘의 날짜는? (What is today's date?) </td>
+                       <td> Bronze 5 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_17362] 수학은 체육과목 입니다2 </td>
                        <td> Bronze 4 </td>
