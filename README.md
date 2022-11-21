@@ -1409,6 +1409,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_16170] 오늘의 날짜는? (What is today's date?) </td>
                        <td> Bronze 5 </td>
                       </tr>
+                <tr align="left">
+                             <td>[BOJ_16394] 홍익대학교(Hongik University) </td>
+                       <td> Bronze 5 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_17362] 수학은 체육과목 입니다2 </td>
                        <td> Bronze 4 </td>
