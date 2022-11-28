@@ -1417,6 +1417,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_16430] 제리와 톰 (Jerry and Tom) </td>
                        <td> Bronze 5 </td>
                       </tr>
+                <tr align="left">
+                             <td>[BOJ_17009] Winning Score </td>
+                       <td> Bronze 4 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_17362] 수학은 체육과목 입니다2 </td>
                        <td> Bronze 4 </td>
