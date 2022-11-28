@@ -1785,6 +1785,11 @@ Baekjoon Online Judge Code
                              <td>[BOJ_16171] 나는 친구가 적다(Small) (I don't have many friends) </td>
                        <td> Bronze 1 </td>
                       </tr>
+		    <tr align="left">
+                             <td>[BOJ_17010] Time to Decompress </td>
+                       <td> Bronze 3 </td>
+                      </tr>
+
 	  </table>
     </details>  
 </div>
