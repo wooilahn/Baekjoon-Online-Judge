@@ -1789,7 +1789,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_17010] Time to Decompress </td>
                        <td> Bronze 3 </td>
                       </tr>
-
+                    <tr align="left">
+                             <td>[BOJ_17094] Serious Problem </td>
+                       <td> Bronze 3 </td>
+                      </tr>
 	  </table>
     </details>  
 </div>
