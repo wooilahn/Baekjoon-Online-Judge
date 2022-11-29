@@ -1425,6 +1425,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_17362] 수학은 체육과목 입니다2 </td>
                        <td> Bronze 4 </td>
 	              </tr>
+                <tr align="left">
+                             <td>[BOJ_17388] 와글와글 숭고한(Wagle-Wagle Soong-Ko-Han) </td>
+                       <td> Bronze 4 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_17478] 재귀함수가 뭔가요? </td>
                        <td> Silver 5 </td>
