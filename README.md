@@ -1438,6 +1438,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 5 </td>
 	              </tr>
                 <tr align="left">
+                             <td>[BOJ_20254] Site Score </td>
+                       <td> Bronze 5 </td>
+                      </tr>
+                <tr align="left">
                              <td>[BOJ_20299] 3대 측정 </td>
                        <td> Bronze 2 </td>
                       </tr>
