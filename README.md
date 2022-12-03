@@ -1805,6 +1805,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_17094] Serious Problem </td>
                        <td> Bronze 3 </td>
                       </tr>
+                    <tr align="left">
+                             <td>[BOJ_17863] FYI </td>
+                       <td> Bronze 4 </td>
+                      </tr>
 	  </table>
     </details>  
 </div>
