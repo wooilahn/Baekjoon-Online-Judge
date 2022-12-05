@@ -1442,6 +1442,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 5 </td>
 	              </tr>
                 <tr align="left">
+                             <td>[BOJ_19602] Dog Treats </td>
+                       <td> Bronze 4 </td>
+                      </tr>
+                <tr align="left">
                              <td>[BOJ_20254] Site Score </td>
                        <td> Bronze 5 </td>
                       </tr>
