@@ -1454,6 +1454,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td>
                       </tr>
                 <tr align="left">
+                             <td>[BOJ_20332] Divvying Up </td>
+                       <td> Bronze 3 </td>
+                      </tr>
+                <tr align="left">
                              <td>[BOJ_20361] 일우는 야바위꾼 </td>
                        <td> Bronze 3 </td>
                       </tr>
