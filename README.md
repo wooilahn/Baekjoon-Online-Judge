@@ -2146,6 +2146,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td>
                       </tr>
                   <tr align="left">
+                             <td>[BOJ_20492] 세금(Tax) </td>
+                       <td> Bronze 5 </td>
+                      </tr>
+                  <tr align="left">
                              <td>[BOJ_21567] 숫자의 개수 2 (The number of numbers 2) </td>
                        <td> Bronze 2 </td>
                       </tr>
