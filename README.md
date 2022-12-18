@@ -1466,6 +1466,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 4 </td>
                       </tr>
                 <tr align="left">
+                             <td>[BOJ_21598] SciComLove  </td>
+                       <td> Bronze 5 </td>
+                      </tr>
+                <tr align="left">
                              <td>[BOJ_23348] 스트릿 코딩 파이터(Street Coding Fighter) </td>
                        <td> Bronze 3 </td>
                       </tr>		      
