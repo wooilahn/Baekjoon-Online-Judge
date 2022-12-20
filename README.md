@@ -2174,6 +2174,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 4 </td>
                       </tr>
                   <tr align="left">
+                             <td>[BOJ_22938] 백발백준하는 명사수  </td>
+                       <td> Bronze 3 </td>
+                      </tr>
+                  <tr align="left">
                              <td>[BOJ_23972] 악마의 제안(devil's suggestion) </td>
                        <td> Bronze 3 </td>
                       </tr>
