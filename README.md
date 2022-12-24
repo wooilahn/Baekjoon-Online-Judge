@@ -2182,6 +2182,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
                       </tr>
                   <tr align="left">
+                             <td>[BOJ_23027] 5의 수난  </td>
+                       <td> Bronze 2 </td>
+                      </tr>
+                  <tr align="left">
                              <td>[BOJ_23972] 악마의 제안(devil's suggestion) </td>
                        <td> Bronze 3 </td>
                       </tr>
