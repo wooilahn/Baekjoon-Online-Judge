@@ -1470,6 +1470,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 5 </td>
                       </tr>
                 <tr align="left">
+                             <td>[BOJ_23234] The World Responds  </td>
+                       <td> Bronze 5 </td>
+                      </tr>
+                <tr align="left">
                              <td>[BOJ_23348] 스트릿 코딩 파이터(Street Coding Fighter) </td>
                        <td> Bronze 3 </td>
                       </tr>		      
