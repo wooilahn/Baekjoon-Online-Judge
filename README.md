@@ -2194,6 +2194,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td>
                       </tr>
                   <tr align="left">
+                             <td>[BOJ_23825] SASA 모형을 만들어보자  </td>
+                       <td> Bronze 4 </td>
+                      </tr>
+                  <tr align="left">
                              <td>[BOJ_23972] 악마의 제안(devil's suggestion) </td>
                        <td> Bronze 3 </td>
                       </tr>
