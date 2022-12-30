@@ -2201,6 +2201,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_23972] 악마의 제안(devil's suggestion) </td>
                        <td> Bronze 3 </td>
                       </tr>
+                 <tr align="left">
+                             <td>[BOJ_24568] Cupcake Party </td>
+                       <td> Bronze 5 </td>
+                      </tr>
 	  </table>
     </details> 
       
