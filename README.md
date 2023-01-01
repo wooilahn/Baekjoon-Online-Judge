@@ -1494,6 +1494,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
                       </tr>
                 <tr align="left">
+                             <td>[BOJ_25083] 새싹  </td>
+                       <td> Bronze 5 </td>
+                      </tr>
+                <tr align="left">
                              <td>[BOJ_25191] 치킨댄스를 추는 곰곰이를 본 임스  </td>
                        <td> Bronze 4 </td>
                       </tr>
