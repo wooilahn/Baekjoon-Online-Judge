@@ -2209,6 +2209,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_24568] Cupcake Party </td>
                        <td> Bronze 5 </td>
                       </tr>
+                 <tr align="left">
+                             <td>[BOJ_25238] 가희와 방어율 무시  </td>
+                       <td> Bronze 5 </td>
+                      </tr>
 	  </table>
     </details> 
       
