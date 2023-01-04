@@ -1845,6 +1845,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_22966] 가장 쉬운 문제를 찾는 문제  </td>
                        <td> Bronze 2 </td>
                       </tr>
+                    <tr align="left">
+                             <td>[BOJ_25372] 성택이의 은밀한 비밀번호  </td>
+                       <td> Bronze 5 </td>
+                      </tr>
 	  </table>
     </details>  
 </div>
