@@ -1501,6 +1501,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_25191] 치킨댄스를 추는 곰곰이를 본 임스  </td>
                        <td> Bronze 4 </td>
                       </tr>
+                <tr align="left">
+                             <td>[BOJ_25314] 코딩은 체육과목 입니다  </td>
+                       <td> Bronze 5 </td>
+                      </tr>
 	</table>
   </details>
 </div>
