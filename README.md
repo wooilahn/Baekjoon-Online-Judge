@@ -1374,6 +1374,10 @@ Baekjoon Online Judge Code
                         <td> Silver 5 </td>
 		        </tr>
                 <tr align="left">
+                             <td>[BOJ_14624] 전북대학교  </td>
+                        <td> Bronze 2 </td>
+                        </tr>
+                <tr align="left">
                              <td>[BOJ_14645] 와이버스 부릉부릉(Y-Bus Bureung Bureung) </td>
                        <td> Bronze 4 </td>
                       </tr>
