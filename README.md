@@ -2162,6 +2162,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 4 </td>
                       </tr>
                   <tr align="left">
+                             <td>[BOJ_16651] 3의 배수 </td>
+                       <td> Bronze 2 </td>
+                      </tr>
+                  <tr align="left">
                              <td>[BOJ_17869] Simple Collatz Sequence </td>
                        <td> Bronze 3 </td>
                       </tr>
