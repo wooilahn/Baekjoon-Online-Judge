@@ -2229,6 +2229,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_25238] 가희와 방어율 무시  </td>
                        <td> Bronze 5 </td>
                       </tr>
+                 <tr align="left">
+                             <td>[BOJ_27110] 특식 배부 </td>
+                       <td> Bronze 4 </td>
+                      </tr>
 	  </table>
     </details> 
       
