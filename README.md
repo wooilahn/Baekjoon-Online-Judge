@@ -2170,6 +2170,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td>
                       </tr>
                   <tr align="left">
+                             <td>[BOJ_16673] 고려대학교에는 공식 와인이 있다  </td>
+                       <td> Bronze 3 </td>
+                      </tr>
+                  <tr align="left">
                              <td>[BOJ_17869] Simple Collatz Sequence </td>
                        <td> Bronze 3 </td>
                       </tr>
