@@ -1889,6 +1889,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_1259] 팰린드롬수(number which is a Palindrome) </td>
                        <td> Bronze 1 </td>
 	              </tr>
+                <tr align="left">
+                             <td>[BOJ_1267] 핸드폰요금 (Phone cost) </td>
+                       <td> Bronze 3 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_1292] 쉽게 푸는 문제(Problem to solve easily) </td>
                        <td> Bronze 1 </td>
