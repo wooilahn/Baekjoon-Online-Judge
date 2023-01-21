@@ -1193,6 +1193,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_10801] 카드게임(Card Game) </td>
                        <td> Bronze 2 </td>
 	              </tr> 
+                <tr align="left">
+                             <td>[BOJ_10804] 카드 역배치  </td>
+                       <td> Bronze 2 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_10807] 개수세기(Counting) </td>
                        <td> Bronze 5 </td>
