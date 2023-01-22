@@ -1117,6 +1117,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_9654] 나부 함대 데이터(Naboo Fleet Data) </td>
                        <td> Bronze 5 </td>
                       </tr>
+                <tr align="left">
+                             <td>[BOJ_9656] 돌 게임 2 (Stone Game 2) </td>
+                       <td> Silver 4 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_10039] 평균점수(Average Score) </td>
                        <td> Bronze 4 </td>
