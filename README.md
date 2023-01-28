@@ -317,6 +317,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_2529] 부등호 (Inequality) </td>
                        <td> Silver 2 </td>
 	              </tr>
+                <tr align="left">
+                             <td>[BOJ_2578] 빙고(Bingo) </td>
+                       <td> Silver 4 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_2798] 블랙잭(Blackjack) </td>
                        <td> Bronze 2 </td>
