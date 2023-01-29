@@ -1969,6 +1969,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_2530] 인공지능 시계(Artifical Intelligence watch) </td>
                        <td> Bronze 4 </td>
 	              </tr>
+                <tr align="left">
+                             <td>[BOJ_2563] 색종이 (Confetti) </td>
+                       <td> Silver 5 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_2581] 소수(Prime Number) </td>
                        <td> Silver 5 </td>
