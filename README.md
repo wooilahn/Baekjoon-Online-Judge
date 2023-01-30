@@ -309,6 +309,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_2231] 분해합(Sum of Decomposition parts) </td>
                        <td> Bronze 2 </td>
 	              </tr>
+                <tr align="left">
+                             <td>[BOJ_2399] 거리의 합  </td>
+                       <td> Bronze 21 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_2501] 약수 구하기(Finding a factor) </td>
                        <td> Bronze 3 </td>
