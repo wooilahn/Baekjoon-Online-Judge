@@ -2286,6 +2286,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_1940] 주몽(Jumong) </td>
                        <td> Silver 4 </td>
 	              </tr>
+                <tr align="left">
+                             <td>[BOJ_2535] 아시아 정보올림피아드  </td>
+                       <td> Silver 5 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_2750] 수 정렬하기(Sorting number) </td>
                        <td> Bronze 2 </td>
