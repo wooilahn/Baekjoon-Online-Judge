@@ -297,6 +297,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_1062] 가르침(teaching) </td>
                        <td> Gold 4 </td>
 	              </tr>
+                <tr align="left">
+                             <td>[BOJ_1075] 나누기(Divide) </td>
+                       <td> Bronze 2 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_1086] 박성원(Park Sung-won) </td>
                        <td> Platinum 5 </td>
