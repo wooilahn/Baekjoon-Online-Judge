@@ -874,6 +874,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td>
 	              </tr> 
                 <tr align="left">
+                             <td>[BOJ_2605] 줄 세우기  </td>
+                       <td> Bronze 2 </td>
+                      </tr>
+                <tr align="left">
                              <td>[BOJ_2621] 카드게임(Card Game) </td>
                        <td> Silver 4 </td>
                       </tr>
