@@ -1953,10 +1953,18 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_15711] 환상의 짝꿍(Fantastic Mate) </td>
                        <td> Gold 3 </td>
 	              </tr>
+                   <tr align="left">
+                          <td>[BOJ_15734] 명장 남정훈(Master Junghoon Nam) </td>
+                        <td> Gold 3 </td>
+                   </tr>
              	  <tr align="left">
 	                     <td>[BOJ_19532] 수학은 비대면강의입니다 </td>
                        <td> Bronze 2 </td>
 	              </tr>
+				  <tr align="left">
+						<td>[BOJ_27294] 몇개고?  </td>
+			           <td> Bronze 5 </td>
+					</tr>
 	  </table>
     </details> 
       
