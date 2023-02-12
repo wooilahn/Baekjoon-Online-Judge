@@ -333,6 +333,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_2798] 블랙잭(Blackjack) </td>
                        <td> Bronze 2 </td>
 	              </tr>
+                <tr align="left">
+                             <td>[BOJ_6131] 완전 제곱수  </td>
+                       <td> Bronze 3 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_7568] 덩치(Build) </td>
                        <td> Silver 5 </td>
