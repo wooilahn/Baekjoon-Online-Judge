@@ -2378,6 +2378,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_11651] 좌표 정렬하기 2 (Aligning coordinates 2) </td>
                        <td> Silver 5 </td>
 	              </tr> 
+                  <tr align="left">
+                             <td>[BOJ_11652] 카드 (Card) </td>
+                       <td> Silver 4 </td>
+                      </tr>
              	  <tr align="left">
 	                     <td>[BOJ_11728] 배열 합치기(Merging arrays) </td>
                        <td> Silver 5 </td>
