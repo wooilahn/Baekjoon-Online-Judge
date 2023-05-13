@@ -1026,7 +1026,7 @@ Baekjoon Online Judge Code
                        <td> Bronze 5 </td>
                       </tr>
               	<tr align="left">
-	                     <td>[BOJ_5355] 화성 수학(Mathematics in Mars) </td>
+	                         <td>[BOJ_5355] 화성 수학(Mathematics in Mars) </td>
                        <td> Bronze 2 </td>
 	              </tr> 
                 <tr align="left">
@@ -1034,11 +1034,11 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
                       </tr>
               	<tr align="left">
-	                     <td>[BOJ_5522] 카드게임(Card Game) </td>
+	                         <td>[BOJ_5522] 카드게임(Card Game) </td>
                        <td> Bronze 5 </td>
 	              </tr> 
               	<tr align="left">
-	                     <td>[BOJ_5523] 경기 결과(Match Result) </td>
+	                         <td>[BOJ_5523] 경기 결과(Match Result) </td>
                        <td> Bronze 3 </td>
 	              </tr> 
                 <tr align="left">
@@ -1046,15 +1046,15 @@ Baekjoon Online Judge Code
                        <td> Bronze 4 </td>
                       </tr>
               	<tr align="left">
-	                     <td>[BOJ_5543] 상근날드(Sangeun-nald) </td>
+	                         <td>[BOJ_5543] 상근날드(Sangeun-nald) </td>
                        <td> Bronze 4 </td>
 	              </tr> 
               	<tr align="left">
-	                     <td>[BOJ_5554] 심부름 가는 길(Way to run errands) </td>
+	                         <td>[BOJ_5554] 심부름 가는 길(Way to run errands) </td>
                        <td> Bronze 4 </td>
 	              </tr> 
               	<tr align="left">
-	                     <td>[BOJ_5565] 영수증(Receipt) </td>
+	                         <td>[BOJ_5565] 영수증(Receipt) </td>
                        <td> Bronze 3 </td>
 	              </tr>
                 <tr align="left">
@@ -1062,19 +1062,19 @@ Baekjoon Online Judge Code
                        <td> Bronze 4 </td>
                    </tr>
               	<tr align="left">
-	                     <td>[BOJ_5585] 거스름돈(Change) </td>
+	                         <td>[BOJ_5585] 거스름돈(Change) </td>
                        <td> Bronze 2 </td>
 	              </tr> 
               	<tr align="left">
-	                     <td>[BOJ_5586] JOI와 IOI(JOI and IOI) </td>
+	                         <td>[BOJ_5586] JOI와 IOI(JOI and IOI) </td>
                        <td> Bronze 2 </td>
 	              </tr> 
               	<tr align="left">
-	                     <td>[BOJ_5586] 시험 점수(Exam Score) </td>
+	                         <td>[BOJ_5586] 시험 점수(Exam Score) </td>
                        <td> Bronze 4 </td>
 	              </tr> 
               	<tr align="left">
-	                     <td>[BOJ_5597] 과제 안 내신 분..?(Who didn't do the homework..?) </td>
+	                         <td>[BOJ_5597] 과제 안 내신 분..?(Who didn't do the homework..?) </td>
                        <td> Bronze 5 </td>
 	              </tr> 
                 <tr align="left">
@@ -1317,9 +1317,9 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_10988] 팰린드롬인지 확인하기(Determining if it is a palindrome) </td>
                        <td> Bronze 2 </td>
 	              </tr>
-		<tr align="left">
+		        <tr align="left">
 			     <td>[BOJ_10990] 별 찍기 - 15(Printing Stars - 15) </td>
-			<td> Bronze 3 </td>
+                       <td> Bronze 3 </td>
 		      </tr>
               	<tr align="left">
 	                     <td>[BOJ_10991] 별 찍기 - 16(Printing Stars - 16) </td>
@@ -1405,7 +1405,7 @@ Baekjoon Online Judge Code
                              <td>[BOJ_14581] 팬들에게 둘러싸인 홍준(Hongjun surrounded by fans) </td>
                        <td> Bronze 4 </td>
                       </tr>
-		<tr align="left">
+		        <tr align="left">
                              <td>[BOJ_14582] 오늘도 졌다(Lost Today) </td>
                         <td> Silver 5 </td>
 		        </tr>
@@ -1547,6 +1547,10 @@ Baekjoon Online Judge Code
                       </tr>
                 <tr align="left">
                              <td>[BOJ_25314] 코딩은 체육과목 입니다  </td>
+                       <td> Bronze 5 </td>
+                      </tr>
+                <tr align="left">
+                             <td>[BOJ_27433] 팩토리얼 2(Factorial 2)  </td>
                        <td> Bronze 5 </td>
                       </tr>
 	</table>
