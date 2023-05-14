@@ -1,32 +1,38 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
+#include <algorithm>
 
 using namespace std;
+typedef long long ll;
 
-int gcd(int a, int b){
-  int n1 = a;
-  int n2 = b;
+ll f_gcd(ll a, ll b) {
 
-  while(n2 != 0){
-    int tmp = n1 % n2;
-	n1 = n2;
-	n2 = tmp;
-  }
+	ll c;
 
-  return n1;
+	while (b != 0) {
+		c = a % b;
+		a = b;
+		b = c;
+	}
+
+	return a;
 }
 
-int main(){
-  int T;
-  scanf("%d", &T);
+int main() {
 
-  int a, b;
+	ll n;
+	scanf("%lld", &n);
 
-  while(T--){
-    scanf("%d %d", &a, &b);
-	int g = gcd(a, b);
-	printf("%d\n", g*(a/g)*(b/g));
-  }
+	ll a, b;
 
-  return 0;
+	while (n--) {
+		scanf("%lld %lld", &a, &b);
+
+		ll gcd = f_gcd(a, b);
+		ll lcm = (a / gcd) * (b / gcd) * gcd;
+
+		printf("%lld\n", lcm);
+	}
+
+	return 0;
 }
