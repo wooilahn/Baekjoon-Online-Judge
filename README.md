@@ -1178,6 +1178,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 4 </td>
 	              </tr> 
                 <tr align="left">
+                         <td>[BOJ_10163] 색종이(Confetti) </td>
+                       <td> Bronze 1 </td>
+                  </tr>
+                <tr align="left">
                              <td>[BOJ_10170] NFC West vs North </td>
                        <td> Bronze 5 </td>
                       </tr>
