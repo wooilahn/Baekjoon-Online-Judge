@@ -1949,6 +1949,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_1476] 날짜 계산(Data Calculation) </td>
                        <td> Silver 5 </td>
 	              </tr>
+                <tr align="left">
+                         <td>[BOJ_1551] 수열의 변화(Change of Sequence) </td>
+                       <td> Bronze 1 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_1629] 곱셈(Multiplication) </td>
                        <td> Silver 1 </td>
