@@ -977,6 +977,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_3460] 이진수(Binary number) </td>
                        <td> Bronze 3 </td>
 	              </tr> 
+                <tr align="left">
+                         <td>[BOJ_4084] Viva la Diferencia </td>
+                       <td> Bronze 3 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_4101] 크냐?(Is it big?) </td>
                        <td> Bronze 5 </td>
@@ -2257,17 +2261,14 @@ Baekjoon Online Judge Code
                              <td>[BOJ_18398] HOMWRK </td>
                        <td> Bronze 4 </td>
                       </tr>
->>>>>>> 5213c8e0885debaa88fbe769bb5e5e308ecf8551
              	  <tr align="left">
 	                     <td>[BOJ_19532] 수학은 비대면강의입니다 </td>
                        <td> Bronze 2 </td>
 	              </tr>
-<<<<<<< HEAD
 				  <tr align="left">
 						<td>[BOJ_27294] 몇개고?  </td>
 			           <td> Bronze 5 </td>
 					</tr>
-=======
                   <tr align="left">
                              <td>[BOJ_19572] 가뭄(Small) </td>
                        <td> Bronze 2 </td>
@@ -2320,7 +2321,6 @@ Baekjoon Online Judge Code
                              <td>[BOJ_27110] 특식 배부 </td>
                        <td> Bronze 4 </td>
                       </tr>
->>>>>>> 5213c8e0885debaa88fbe769bb5e5e308ecf8551
 	  </table>
     </details> 
       
