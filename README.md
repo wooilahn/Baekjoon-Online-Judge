@@ -1402,6 +1402,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 1 </td>
                   </tr>
                 <tr align="left">
+                         <td>[BOJ_12760] 최후의 승자는 누구?  </td>
+                       <td> Silver 5 </td>
+                  </tr>
+                <tr align="left">
                              <td>[BOJ_13572] 히스토그램 (Histogram) </td>
                        <td> Bronze 3 </td>
                       </tr>
