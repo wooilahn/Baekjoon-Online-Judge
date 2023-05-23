@@ -1398,6 +1398,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td>
 	              </tr>
                 <tr align="left">
+                         <td>[BOJ_12756] 고급 여관  </td>
+                       <td> Bronze 3 </td>
+                  </tr>
+                <tr align="left">
                          <td>[BOJ_12759] 틱! 택! 토! </td>
                        <td> Bronze 1 </td>
                   </tr>
