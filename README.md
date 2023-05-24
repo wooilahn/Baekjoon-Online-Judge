@@ -801,6 +801,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_1855] 암호 (Password) </td>
                        <td> Bronze 1 </td>
                       </tr>
+                <tr align="left">
+                             <td>[BOJ_1964] 오각형, 오각형, 오각형... </td>
+                       <td> Bronze 2 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_2438] 별 찍기 - 1(Printing Stars - 1) </td>
                        <td> Bronze 5 </td>
