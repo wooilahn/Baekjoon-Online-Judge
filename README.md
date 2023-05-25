@@ -1858,6 +1858,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td>
                       </tr>
                     <tr align="left">
+                             <td>[BOJ_11094] 꿍 가라사대  </td>
+                       <td> Bronze 2 </td>
+                      </tr>
+                    <tr align="left">
                              <td>[BOJ_11104] Fridge of Your Dreams  </td>
                        <td> Bronze 2 </td>
                       </tr>
