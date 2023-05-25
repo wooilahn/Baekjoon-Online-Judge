@@ -1797,7 +1797,7 @@ Baekjoon Online Judge Code
                              <td>[BOJ_7785] 회사에 있는 사람(Person in the company) </td>
                        <td> Silver 5 </td>
                       </tr>
-          	  <tr align="left">
+          	     <tr align="left">
 	                     <td>[BOJ_8949] 대충 더해 (Add Roughly) </td>
                        <td> Bronze 2 </td>
 	              </tr>
@@ -1849,87 +1849,87 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_10823] 더하기 2(Plus 2) </td>
                        <td> Bronze 1 </td>
 	              </tr>
-          	    <tr align="left">
+          	      <tr align="left">
 	                     <td>[BOJ_10987] 모음의 개수(The number of vowel) </td>
                        <td> Bronze 2 </td>
 	              </tr>
-                    <tr align="left">
+                  <tr align="left">
                              <td>[BOJ_11091] 알파벳 전부 쓰기 (Write all letters) </td>
                        <td> Bronze 2 </td>
                       </tr>
-                    <tr align="left">
+                  <tr align="left">
                              <td>[BOJ_11094] 꿍 가라사대  </td>
                        <td> Bronze 2 </td>
                       </tr>
-                    <tr align="left">
+                  <tr align="left">
                              <td>[BOJ_11104] Fridge of Your Dreams  </td>
                        <td> Bronze 2 </td>
                       </tr>
-          	    <tr align="left">
+          	      <tr align="left">
 	                     <td>[BOJ_11170] 0의 개수(The number of zero) </td>
                        <td> Bronze 1 </td>
 	              </tr>
-                    <tr align="left">
+                  <tr align="left">
                              <td>[BOJ_11319] Count Me In </td>
                        <td> Bronze 2 </td>
                       </tr>
-          	    <tr align="left">
+          	      <tr align="left">
 	                     <td>[BOJ_11575] Affine Cipher </td>
                        <td> Bronze 2 </td>
 	              </tr>
-                    <tr align="left">
+                  <tr align="left">
                              <td>[BOJ_11586] 지영 공주님의 마법 거울(Princess Jiyoung's magic mirror) </td>
                        <td> Bronze 3 </td>
                       </tr>
-          	    <tr align="left">
+          	      <tr align="left">
 	                     <td>[BOJ_11654] 아스키 코드(ASCII Code) </td>
                        <td> Bronze 5 </td>
 	              </tr>
-          	    <tr align="left">
+          	      <tr align="left">
 	                     <td>[BOJ_11655] ROT13 </td>
                        <td> Bronze 1 </td>
 	              </tr>
-          	    <tr align="left">
+          	      <tr align="left">
 	                     <td>[BOJ_11656] 접미사 배열 </td>
                        <td> Silver 4 </td>
 	              </tr>
-          	    <tr align="left">
+          	      <tr align="left">
 	                     <td>[BOJ_11720] 숫자의 합(Sum of number) </td>
                        <td> Bronze 4 </td>
 	              </tr>
-          	    <tr align="left">
+          	      <tr align="left">
 	                     <td>[BOJ_11729] 하노이 탑 이동 순서(Order of Hanio Towers) </td>
                        <td> Silver 1 </td>
 	              </tr>
-                    <tr align="left">
+                  <tr align="left">
                              <td>[BOJ_11945] 뜨거운 붕어빵 (Hot pancake) </td>
                        <td> Bronze 4 </td>
                       </tr>
-                    <tr align="left">
+                  <tr align="left">
                              <td>[BOJ_15000] CAPS </td>
                        <td> Bronze 4 </td>
                       </tr>
-                    <tr align="left">
+                  <tr align="left">
                              <td>[BOJ_16171] 나는 친구가 적다(Small) (I don't have many friends) </td>
                        <td> Bronze 1 </td>
                       </tr>
-		    <tr align="left">
+		          <tr align="left">
                              <td>[BOJ_17010] Time to Decompress </td>
                        <td> Bronze 3 </td>
                       </tr>
-                    <tr align="left">
+                  <tr align="left">
                              <td>[BOJ_17094] Serious Problem </td>
                        <td> Bronze 3 </td>
                       </tr>
-                    <tr align="left">
+                  <tr align="left">
                              <td>[BOJ_17863] FYI </td>
                        <td> Bronze 4 </td>
                       </tr>
-                    <tr align="left">
+                  <tr align="left">
                              <td>[BOJ_22966] 가장 쉬운 문제를 찾는 문제  </td>
                        <td> Bronze 2 </td>
                       </tr>
-                    <tr align="left">
+                  <tr align="left">
                              <td>[BOJ_25372] 성택이의 은밀한 비밀번호  </td>
                        <td> Bronze 5 </td>
                       </tr>
@@ -1978,6 +1978,10 @@ Baekjoon Online Judge Code
                        <td> Silver 5 </td>
 	              </tr>
                 <tr align="left">
+                         <td>[BOJ_1526] 날짜 계산(Data Calculation) </td>
+                       <td> Silver 5 </td>
+                  </tr>
+                <tr align="left">
                          <td>[BOJ_1551] 수열의 변화(Change of Sequence) </td>
                        <td> Bronze 1 </td>
                   </tr>
@@ -1993,7 +1997,7 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_1712] 손익분기점(Breakeven point) </td>
                        <td> Bronze 2 </td> 
 	              </tr>
-		<tr align="left">
+        		<tr align="left">
 			     <td>[BOJ_1731] 추론(Inference) </td>
 		       <td> Bronze 2 </td>
 		      </tr>
@@ -2161,7 +2165,7 @@ Baekjoon Online Judge Code
                              <td>[BOJ_7891] Can you add this? </td>
                        <td> Bronze 4 </td>
                      </tr>
-		  <tr align="left">
+		          <tr align="left">
                              <td>[BOJ_8974] 희주의 수학시험(Heeju's math exam)</td>
                        <td> Bronze 1 </td>
                       </tr>
