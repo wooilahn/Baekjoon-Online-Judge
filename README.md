@@ -785,6 +785,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_1453] 피시방 알바(PC-Room part-time job) </td>
                        <td> Bronze 2 </td>
 	              </tr>
+                <tr align="left">
+                         <td>[BOJ_1531] 투명 </td>
+                       <td> Silver 5 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_1546] 평균(Average) </td>
                        <td> Bronze 1 </td>
