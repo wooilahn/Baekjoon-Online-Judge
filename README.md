@@ -1786,6 +1786,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td>
 	              </tr>
                   <tr align="left">
+                         <td>[BOJ_5671] 호텔방번호(Hotel Room Number) </td>
+                       <td> Silver 5 </td>
+                  </tr>
+                  <tr align="left">
                          <td>[BOJ_5698] Tautogram </td>
                        <td> Bronze 2 </td>
                   </tr>
