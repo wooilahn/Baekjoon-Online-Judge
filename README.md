@@ -321,6 +321,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_2501] 약수 구하기(Finding a factor) </td>
                        <td> Bronze 3 </td>
 	              </tr>
+                <tr align="left">
+                         <td>[BOJ_2502] 떡먹는 호랑이  </td>
+                       <td> Silver 1 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_2529] 부등호 (Inequality) </td>
                        <td> Silver 2 </td>
