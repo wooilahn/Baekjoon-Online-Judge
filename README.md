@@ -1149,6 +1149,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_9316] Hello Judge </td>
                        <td> Bronze 4 </td>
                       </tr>
+                <tr align="left">
+                             <td>[BOJ_9455] 박스 (Box) </td>
+                       <td> Bronze 1 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_9498] 시험 성적(Exam Score) </td>
                        <td> Bronze 5 </td>
@@ -1224,6 +1228,10 @@ Baekjoon Online Judge Code
                 <tr align="left">
                              <td>[BOJ_10419] 지각(Tardy) </td>
                        <td> Bronze 3 </td>
+                      </tr>
+                <tr align="left">
+                             <td>[BOJ_10570] Favorite Number </td>
+                       <td> Bronze 1 </td>
                       </tr>
                 <tr align="left">
                              <td>[BOJ_10707] 수도 요금(Water bill) </td>
