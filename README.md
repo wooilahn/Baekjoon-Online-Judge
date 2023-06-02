@@ -2278,6 +2278,10 @@ Baekjoon Online Judge Code
                        <td> Silver 5 </td>
 	              </tr>
                   <tr align="left">
+                         <td>[BOJ_11816] 8진수, 10진수, 16진수 </td>
+                       <td> Bronze 2 </td>
+                  </tr>
+                  <tr align="left">
                              <td>[BOJ_15372] A Simple Problem. </td>
                        <td> Bronze 4 </td>
                       </tr>
