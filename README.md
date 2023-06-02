@@ -1157,6 +1157,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_9498] 시험 성적(Exam Score) </td>
                        <td> Bronze 5 </td>
 	              </tr> 
+                <tr align="left">
+                         <td>[BOJ_9584] Fraud Busters </td>
+                       <td> Bronze 2 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_9610] 사분면(Quadrant) </td>
                        <td> Bronze 3 </td>
