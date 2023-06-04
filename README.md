@@ -1850,6 +1850,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td>
 	              </tr>
                   <tr align="left">
+                         <td>[BOJ_10174] 팰린드롬  </td>
+                       <td> Bronze 2 </td>
+                  </tr>
+                  <tr align="left">
                              <td>[BOJ_10384] 팬그램(Pangram) </td>
                        <td> Bronze 1 </td>
                       </tr>
@@ -2280,6 +2284,10 @@ Baekjoon Online Judge Code
                   <tr align="left">
                          <td>[BOJ_11816] 8진수, 10진수, 16진수 </td>
                        <td> Bronze 2 </td>
+                  </tr>
+                  <tr align="left">
+                         <td>[BOJ_11966] 2의 제곱인가? </td>
+                       <td> Bronze 3 </td>
                   </tr>
                   <tr align="left">
                              <td>[BOJ_15372] A Simple Problem. </td>
