@@ -1422,6 +1422,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td>
 	              </tr>
                 <tr align="left">
+                         <td>[BOJ_11948] 과목선택 </td>
+                       <td> Bronze 4 </td>
+                  </tr>
+                <tr align="left">
                          <td>[BOJ_12756] 고급 여관  </td>
                        <td> Bronze 3 </td>
                   </tr>
