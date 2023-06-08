@@ -1913,6 +1913,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_11319] Count Me In </td>
                        <td> Bronze 2 </td>
                       </tr>
+                  <tr align="left">
+                             <td>[BOJ_11536] 줄 세우기  </td>
+                       <td> Silver 5 </td>
+                      </tr>
           	      <tr align="left">
 	                     <td>[BOJ_11575] Affine Cipher </td>
                        <td> Bronze 2 </td>
