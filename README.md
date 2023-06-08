@@ -2234,6 +2234,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
                       </tr>
                   <tr align="left">
+                             <td>[BOJ_9659] 돌 게임 5 </td>
+                       <td> Silver 3 </td>
+                      </tr>
+                  <tr align="left">
                              <td>[BOJ_9713] Sum of Odd Sequence </td>
                        <td> Bronze 3 </td>
                       </tr>
