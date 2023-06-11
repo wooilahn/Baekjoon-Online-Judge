@@ -1918,6 +1918,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td>
                       </tr>
                   <tr align="left">
+                             <td>[BOJ_11383] 뚊 </td>
+                       <td> Bronze 1 </td>
+                      </tr>
+                  <tr align="left">
                              <td>[BOJ_11536] 줄 세우기  </td>
                        <td> Silver 5 </td>
                       </tr>
