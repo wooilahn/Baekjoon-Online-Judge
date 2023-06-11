@@ -1394,6 +1394,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td>
 	              </tr>
                 <tr align="left">
+                         <td>[BOJ_11109] 괴짜 교수 </td>
+                       <td> Bronze 3 </td>
+                  </tr>
+                <tr align="left">
                              <td>[BOJ_11134] 쿠키 애호가(Cookie Lover) </td>
                        <td> Bronze 3 </td>
                       </tr>
