@@ -1842,6 +1842,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
                       </tr>
                   <tr align="left">
+                             <td>[BOJ_7600] 문자가 몇갤까 </td>
+                       <td> Bronze 2 </td>
+                      </tr>
+                  <tr align="left">
                              <td>[BOJ_7785] 회사에 있는 사람(Person in the company) </td>
                        <td> Silver 5 </td>
                       </tr>
