@@ -1017,6 +1017,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_4564] 숫자 카드놀이(Playing number cards) </td>
                        <td> Bronze 2 </td>
                       </tr>
+                <tr align="left">
+                             <td>[BOJ_4592] 중복을 없애자  </td>
+                       <td> Bronze 2 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_4673] 셀프 넘버(Self Number) </td>
                        <td> Silver 5 </td>
