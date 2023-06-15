@@ -1249,6 +1249,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_10599] 페르시아의 왕들(King of Persia) </td>
                         <td> Bronze 3 </td>
                   </tr>
+                 <tr align="left">
+                             <td>[BOJ_10698] Ahmed Aly </td>
+                        <td> Bronze 3 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_10768] 특별한 날(Special Day) </td>
                        <td> Bronze 4 </td>
