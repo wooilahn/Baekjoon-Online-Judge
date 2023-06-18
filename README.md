@@ -2162,6 +2162,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
 	              </tr>
                   <tr align="left">
+                         <td>[BOJ_2997] 네 번째 수  </td>
+                       <td> Bronze 3 </td>
+                  </tr>
+                  <tr align="left">
                              <td>[BOJ_3004] 체스판 조각(Chessboard pieces) </td>
                        <td> Bronze 3 </td>
                       </tr>
