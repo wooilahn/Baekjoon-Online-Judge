@@ -1225,6 +1225,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_10179] 쿠폰(Coupon) </td>
                        <td> Bronze 3 </td>
                       </tr>
+                <tr align="left">
+                             <td>[BOJ_10205] 헤라클레스와 히드라  </td>
+                       <td> Bronze 3 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_10214] Baseball </td>
                        <td> Bronze 3 </td>
