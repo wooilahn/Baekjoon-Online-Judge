@@ -2049,6 +2049,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_1267] 핸드폰요금 (Phone cost) </td>
                        <td> Bronze 3 </td>
                       </tr>
+                <tr align="left">
+                             <td>[BOJ_1269] 대칭 차집합 </td>
+                       <td> Silver 4 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_1292] 쉽게 푸는 문제(Problem to solve easily) </td>
                        <td> Bronze 1 </td>
