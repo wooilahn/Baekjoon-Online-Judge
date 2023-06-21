@@ -958,6 +958,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
 	              </tr> 
                 <tr align="left">
+                         <td>[BOJ_2965] 캥거루 세마리  </td>
+                       <td> Bronze 3 </td>
+                  </tr>
+                <tr align="left">
                              <td>[BOJ_2985] 세 수 (Three numbers) </td>
                        <td> Bronze 3 </td>
                       </tr>
