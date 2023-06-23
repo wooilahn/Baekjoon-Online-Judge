@@ -2462,6 +2462,10 @@ Baekjoon Online Judge Code
       <table align="center">
 	       <th>Title</th>
 	       <th>Levels</th>
+                <tr align="left">
+                         <td>[BOJ_1431] 시리얼 번호(Serial Number)  </td>
+                       <td> Silver 3 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_1940] 주몽(Jumong) </td>
                        <td> Silver 4 </td>
