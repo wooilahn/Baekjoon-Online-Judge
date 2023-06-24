@@ -1754,6 +1754,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
 	              </tr>
                 <tr align="left">
+                         <td>[BOJ_3029] 경고  </td>
+                       <td> Bronze 3 </td>
+                  </tr>
+                <tr align="left">
 			     <td>[BOJ_3035] 스캐너(Scanner) </td>
                         <td> Bronze 1 </td>
                      </tr>
