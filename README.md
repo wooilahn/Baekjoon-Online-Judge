@@ -229,6 +229,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_5176] 대회 자리(Competition Spot) </td>
                        <td> Bronze 2 </td>
 	              </tr> 
+                <tr align="left">
+                         <td>[BOJ_5724] 파인만  </td>
+                       <td> Bronze 3 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_9184] 신나는 함수 실행(Function Run Fun) </td>
                        <td> Silver 2 </td>
