@@ -1885,6 +1885,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_9093] 단어 뒤집기(Fliping word) </td>
                        <td> Bronze 1 </td>
                       </tr>
+                  <tr align="left">
+                             <td>[BOJ_9226] 도깨비말  </td>
+                       <td> Bronze 2 </td>
+                      </tr>
              	  <tr align="left">
 	                     <td>[BOJ_9243] 파일 완전 삭제(Deleting file completely) </td>
                        <td> Bronze 2 </td>
