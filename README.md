@@ -1709,6 +1709,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_2697] 다음수 구하기  </td>
                        <td> Silver 2 </td>
                       </tr>
+                <tr align="left">
+                             <td>[BOJ_2703] Cryptoquote </td>
+                       <td> Bronze 2 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_2711] 오타맨 고창영(Typo-man ChangyoungKo) </td>
                        <td> Bronze 2 </td>
