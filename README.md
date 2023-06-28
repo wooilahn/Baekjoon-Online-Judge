@@ -2269,6 +2269,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_7891] Can you add this? </td>
                        <td> Bronze 4 </td>
                      </tr>
+                  <tr align="left">
+                             <td>[BOJ_8932] 7종 경기 </td>
+                       <td> Bronze 3 </td>
+                     </tr>
 		          <tr align="left">
                              <td>[BOJ_8974] 희주의 수학시험(Heeju's math exam)</td>
                        <td> Bronze 1 </td>
