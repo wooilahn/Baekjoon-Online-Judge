@@ -2353,6 +2353,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_10870] 피보나치 수 5(fibonacci 5) </td>
                        <td> Bronze 5 </td>
 	              </tr>
+                  <tr align="left">
+                         <td>[BOJ_10972] 다음 순열  </td>
+                       <td> Silver 3 </td>
+                  </tr>
              	  <tr align="left">
 	                     <td>[BOJ_11023] 더하기 3(Plus 3) </td>
                        <td> Bronze 3 </td>
