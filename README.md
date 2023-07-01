@@ -970,6 +970,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
                       </tr>
                 <tr align="left">
+                             <td>[BOJ_3028] 창영마을 </td>
+                       <td> Bronze 2 </td>
+                      </tr>
+                <tr align="left">
                              <td>[BOJ_3034] 앵그리 창영(Angry Chang-young) </td>
                        <td> Bronze 3 </td>
                       </tr>
