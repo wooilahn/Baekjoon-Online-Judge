@@ -1685,6 +1685,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_1427] 소트인사이드(Sort inside) </td>
                        <td> Silver 5 </td>
 	              </tr> 
+                <tr align="left">
+                         <td>[BOJ_1755] 숫자놀이 </td>
+                       <td> Silver 4 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_1764] 듣보잡(Something that never both have seen and be heard) </td>
                        <td> Silver 4 </td>
