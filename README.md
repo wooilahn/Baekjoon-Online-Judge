@@ -2122,6 +2122,10 @@ Baekjoon Online Judge Code
                        <td> Silver 5 </td>
 	              </tr>
                 <tr align="left">
+                         <td>[BOJ_1822] 차집합 </td>
+                       <td> Silver 4 </td>
+                  </tr>
+                <tr align="left">
                              <td>[BOJ_1864] 문어 숫자(Octopus number) </td>
                        <td> Bronze 2 </td>
                       </tr>
