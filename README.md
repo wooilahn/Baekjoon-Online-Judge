@@ -2369,6 +2369,10 @@ Baekjoon Online Judge Code
                          <td>[BOJ_10972] 다음 순열  </td>
                        <td> Silver 3 </td>
                   </tr>
+                  <tr align="left">
+                         <td>[BOJ_10973] 이전 순열  </td>
+                       <td> Silver 3 </td>
+                  </tr>
              	  <tr align="left">
 	                     <td>[BOJ_11023] 더하기 3(Plus 3) </td>
                        <td> Bronze 3 </td>
