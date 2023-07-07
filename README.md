@@ -1698,6 +1698,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td>
 	              </tr>
                 <tr align="left">
+                         <td>[BOJ_2153] 소수 단어 </td>
+                       <td> Bronze 2 </td>
+                  </tr>
+                <tr align="left">
                              <td>[BOJ_2386] 도비의 영어공부(Dobby's English Study) </td>
                        <td> Bronze 2 </td>
                       </tr>
