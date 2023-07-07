@@ -1893,6 +1893,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_8949] 대충 더해 (Add Roughly) </td>
                        <td> Bronze 2 </td>
 	              </tr>
+                 <tr align="left">
+                         <td>[BOJ_9081] 단어 맞추기  </td>
+                       <td> Silver 1 </td>
+                  </tr>
              	  <tr align="left">
 	                     <td>[BOJ_9086] 문자열(String) </td>
                        <td> Bronze 5 </td>
