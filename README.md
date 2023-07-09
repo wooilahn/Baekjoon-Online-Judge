@@ -873,6 +873,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_2523] 별 찍기 - 13(Printing Stars - 13) </td>
                        <td> Bronze 3 </td>
 	              </tr> 
+                <tr align="left">
+                         <td>[BOJ_2556] 별 찍기 - 14(Printing stars - 14) </td>
+                       <td> Bronze 4 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_2557] Hello World </td>
                        <td> Bronze 5 </td>
