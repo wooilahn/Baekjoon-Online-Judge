@@ -1474,6 +1474,10 @@ Baekjoon Online Judge Code
                        <td> Silver 5 </td>
                   </tr>
                 <tr align="left">
+                         <td>[BOJ_12790] Mini Fantasy War  </td>
+                       <td> Bronze 3 </td>
+                  </tr>
+                <tr align="left">
                              <td>[BOJ_13572] 히스토그램 (Histogram) </td>
                        <td> Bronze 3 </td>
                       </tr>
