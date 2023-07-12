@@ -2030,6 +2030,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td>
                       </tr>
                   <tr align="left">
+                             <td>[BOJ_12791] Starman  </td>
+                       <td> Bronze 1 </td>
+                      </tr>
+                  <tr align="left">
                              <td>[BOJ_15000] CAPS </td>
                        <td> Bronze 4 </td>
                       </tr>
