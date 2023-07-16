@@ -2414,6 +2414,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
 	              </tr>
                   <tr align="left">
+                         <td>[BOJ_11312] 삼각무늬 - 2 </td>
+                       <td> Bronze 3 </td>
+                  </tr>
+                  <tr align="left">
                              <td>[BOJ_11320] 삼각 무늬 - 1 (Triangle Pattern - 1) </td>
                        <td> Bronze 3 </td>
                       </tr>
