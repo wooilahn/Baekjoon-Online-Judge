@@ -2209,6 +2209,10 @@ Baekjoon Online Judge Code
                          <td>[BOJ_2669] 직사각형 네개의 합집합의 면적 구하기  </td>
                        <td> Silver 5 </td>
                   </tr>
+                <tr align="left">
+                         <td>[BOJ_2721] 삼각수의 합  </td>
+                       <td> Bronze 3 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_2775] 부녀회장이 될테야 </td>
                        <td> Bronze 1 </td>
