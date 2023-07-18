@@ -309,6 +309,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_1086] 박성원(Park Sung-won) </td>
                        <td> Platinum 5 </td>
 	              </tr>
+                <tr align="left">
+                         <td>[BOJ_1145] 적어도 대부분의 배수 </td>
+                       <td> Bronze 1 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_1436] 영화감독 숌(Film Director, Syom) </td>
                        <td> Silver 5 </td>
