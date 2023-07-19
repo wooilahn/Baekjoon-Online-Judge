@@ -1974,6 +1974,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td>
 	              </tr>
                   <tr align="left">
+                         <td>[BOJ_11008] 복붙의 달인 </td>
+                       <td> Silver 5 </td>
+                  </tr>
+                  <tr align="left">
                              <td>[BOJ_11091] 알파벳 전부 쓰기 (Write all letters) </td>
                        <td> Bronze 2 </td>
                       </tr>
