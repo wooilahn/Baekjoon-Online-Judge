@@ -1482,6 +1482,10 @@ Baekjoon Online Judge Code
                        <td> Silver 5 </td>
                   </tr>
                 <tr align="left">
+                         <td>[BOJ_12788] 제 2회 IUPC는 잘 개최될 수 있을까? </td>
+                       <td> Silver 4 </td>
+                  </tr>
+                <tr align="left">
                          <td>[BOJ_12790] Mini Fantasy War  </td>
                        <td> Bronze 3 </td>
                   </tr>
