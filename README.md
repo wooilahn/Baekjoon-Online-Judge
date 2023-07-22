@@ -249,6 +249,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_10942] 팰린드롬?(Palindrome?) </td>
                        <td> Gold 4 </td>
                       </tr>
+                <tr align="left">
+                             <td>[BOJ_11441] 합 구하기 </td>
+                       <td> Silver 3 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_11723] 집합(Set) </td>
                        <td> Silver 5 </td>
