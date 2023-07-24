@@ -253,6 +253,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_11441] 합 구하기 </td>
                        <td> Silver 3 </td>
                       </tr>
+                <tr align="left">
+                             <td>[BOJ_11659] 구간 합 구하기 4 </td>
+                       <td> Silver 3 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_11723] 집합(Set) </td>
                        <td> Silver 5 </td>
