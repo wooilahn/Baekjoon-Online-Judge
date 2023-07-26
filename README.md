@@ -233,6 +233,10 @@ Baekjoon Online Judge Code
                          <td>[BOJ_5724] 파인만  </td>
                        <td> Bronze 3 </td>
                   </tr>
+                <tr align="left">
+                         <td>[BOJ_8394] 악수  </td>
+                       <td> Silver 3 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_9184] 신나는 함수 실행(Function Run Fun) </td>
                        <td> Silver 2 </td>
