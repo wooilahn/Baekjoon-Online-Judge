@@ -2213,6 +2213,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_2292] 벌집(Honeycomb) </td>
                        <td> Bronze 2 </td>
 	              </tr>
+                <tr align="left">
+                         <td>[BOJ_2312] 수 복원하기 </td>
+                       <td> Silver 3 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_2506] 점수계산(Calculating Score) </td>
                        <td> Bronze 3 </td>
