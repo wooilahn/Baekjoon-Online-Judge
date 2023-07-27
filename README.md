@@ -1490,6 +1490,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td>
                   </tr>
                 <tr align="left">
+                         <td>[BOJ_12018] Yonsei TOTO </td>
+                       <td> Silver 3 </td>
+                  </tr>
+                <tr align="left">
                          <td>[BOJ_12756] 고급 여관  </td>
                        <td> Bronze 3 </td>
                   </tr>
