@@ -2221,6 +2221,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_2506] 점수계산(Calculating Score) </td>
                        <td> Bronze 3 </td>
 	              </tr>
+                <tr align="left">
+                         <td>[BOJ_2526] 싸이클 (Cycle) </td>
+                       <td> Bronze 1 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_2530] 인공지능 시계(Artifical Intelligence watch) </td>
                        <td> Bronze 4 </td>
