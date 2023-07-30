@@ -2269,6 +2269,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_2839] 설탕 배달(Sugar Delivery) </td>
                        <td> Silver 4 </td>
 	              </tr>
+                  <tr align="left">
+                         <td>[BOJ_2863] 이게 분수? </td>
+                       <td> Bronze 3 </td>
+                  </tr>
              	  <tr align="left">
 	                     <td>[BOJ_2869] 달팽이는 올라가고 싶다 </td>
                        <td> Silver 5 </td>
