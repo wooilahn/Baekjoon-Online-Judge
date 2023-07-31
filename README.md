@@ -1826,6 +1826,10 @@ Baekjoon Online Judge Code
                         <td> Bronze 1 </td>
                      </tr>
                 <tr align="left">
+                 <td>[BOJ_3076] 상근이의 체스판 </td>
+                        <td> Bronze 2 </td>
+                     </tr>
+                <tr align="left">
                  <td>[BOJ_3181] 줄임말 만들기  </td>
                         <td> Bronze 2 </td>
                      </tr>
