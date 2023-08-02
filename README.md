@@ -950,6 +950,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 5 </td>
 	              </tr> 
                 <tr align="left">
+                         <td>[BOJ_2783] 삼각김밥 </td>
+                       <td> Bronze 3 </td>
+                  </tr>
+                <tr align="left">
                              <td>[BOJ_2816] 디지털 티비(Digital TV) </td>
                        <td> Bronze 1 </td>
                       </tr>
