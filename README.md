@@ -1746,6 +1746,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td>
 	              </tr>
                 <tr align="left">
+                         <td>[BOJ_1919] 애너그램 만들기 </td>
+                       <td> Bronze 2 </td>
+                  </tr>
+                <tr align="left">
                          <td>[BOJ_2153] 소수 단어 </td>
                        <td> Bronze 2 </td>
                   </tr>
