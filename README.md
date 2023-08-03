@@ -1938,6 +1938,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
                       </tr>
                   <tr align="left">
+                             <td>[BOJ_6996] 애너그램 </td>
+                       <td> Bronze 1 </td>
+                      </tr>
+                  <tr align="left">
                              <td>[BOJ_7600] 문자가 몇갤까 </td>
                        <td> Bronze 2 </td>
                       </tr>
