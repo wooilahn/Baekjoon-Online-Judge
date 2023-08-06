@@ -325,6 +325,10 @@ Baekjoon Online Judge Code
                          <td>[BOJ_1145] 적어도 대부분의 배수 </td>
                        <td> Bronze 1 </td>
                   </tr>
+                <tr align="left">
+                         <td>[BOJ_1342] 행운의 문자열 </td>
+                       <td> Silver 1 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_1436] 영화감독 숌(Film Director, Syom) </td>
                        <td> Silver 5 </td>
