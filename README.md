@@ -809,6 +809,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_1330] 두 수 비교하기(Comparing two numbers) </td>
                        <td> Bronze 5 </td>
 	              </tr>
+                <tr align="left">
+                         <td>[BOJ_1356] 유진수 </td>
+                       <td> Bronze 1 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_1453] 피시방 알바(PC-Room part-time job) </td>
                        <td> Bronze 2 </td>
