@@ -508,6 +508,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_3109] 빵집(Bakery) </td>
                        <td> Gold 2 </td>
                       </tr>
+                <tr align="left">
+                             <td>[BOJ_4796] 캠핑(Camping) </td>
+                       <td> Bronze 1 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_9576] 책 나눠주기(Handing out books) </td>
                        <td> Gold 2 </td>
