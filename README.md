@@ -2410,6 +2410,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
                      </tr>
                   <tr align="left">
+                             <td>[BOJ_7770] 아즈텍 피라미드 </td>
+                       <td> Bronze 2 </td>
+                     </tr>
+                  <tr align="left">
                              <td>[BOJ_7891] Can you add this? </td>
                        <td> Bronze 4 </td>
                      </tr>
