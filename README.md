@@ -338,6 +338,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td>
 	              </tr>
                 <tr align="left">
+                         <td>[BOJ_2303] 숫자 게임 </td>
+                       <td> Silver 5 </td>
+                  </tr>
+                <tr align="left">
                              <td>[BOJ_2399] 거리의 합  </td>
                        <td> Bronze 21 </td>
                       </tr>
