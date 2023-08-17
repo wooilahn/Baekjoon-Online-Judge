@@ -217,6 +217,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_2618] 경찰차(Police Car) </td>
                        <td> Platinum 5 </td>
 	              </tr> 
+                <tr align="left">
+                         <td>[BOJ_4811] 알약 </td>
+                       <td> Gold 5 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_5063] TGN </td>
                        <td> Bronze 3 </td>
