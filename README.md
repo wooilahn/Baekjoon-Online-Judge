@@ -1965,6 +1965,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_7785] 회사에 있는 사람(Person in the company) </td>
                        <td> Silver 5 </td>
                       </tr>
+                  <tr align="left">
+                             <td>[BOJ_8892] 팰린드롬 </td>
+                       <td> Silver 5 </td>
+                      </tr>
           	     <tr align="left">
 	                     <td>[BOJ_8949] 대충 더해 (Add Roughly) </td>
                        <td> Bronze 2 </td>
