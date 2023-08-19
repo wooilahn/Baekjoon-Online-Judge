@@ -1958,6 +1958,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
                       </tr>
                   <tr align="left">
+                             <td>[BOJ_6443] 애너그램(Anagram) </td>
+                       <td> Gold 5 </td>
+                      </tr>
+                  <tr align="left">
                              <td>[BOJ_6996] 애너그램 </td>
                        <td> Bronze 1 </td>
                       </tr>
