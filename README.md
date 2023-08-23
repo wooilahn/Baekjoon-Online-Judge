@@ -504,6 +504,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_1931] 회의실배정(Meeting-room Assignment) </td>
                        <td> Silver 1 </td>
 	              </tr>
+                <tr align="left">
+                         <td>[BOJ_1946] 신입사원 </td>
+                       <td> Silver 1 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_2217] 로프(Loop) </td>
                        <td> Silver 4 </td>
