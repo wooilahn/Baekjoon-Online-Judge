@@ -821,6 +821,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_1110] 더하기 사이클(Plus Cycle) </td>
                        <td> Bronze 1 </td>
 	              </tr>
+                <tr align="left">
+                         <td>[BOJ_1237] 정ㅋ벅ㅋ </td>
+                       <td> 0 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_1330] 두 수 비교하기(Comparing two numbers) </td>
                        <td> Bronze 5 </td>
