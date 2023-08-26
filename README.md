@@ -2755,6 +2755,10 @@ Baekjoon Online Judge Code
                        <td> Silver 5 </td>
                       </tr>
                   <tr align="left">
+                             <td>[BOJ_16212] 정열적인 정렬 </td>
+                       <td> Silver 5 </td>
+                      </tr>
+                  <tr align="left">
                              <td>[BOJ_16435] 스네이크버드(Snake Bird) </td>
                        <td> Silver 5 </td>
                       </tr>
