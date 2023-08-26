@@ -443,6 +443,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_16236] 아기 상어(Baby shark) </td>
                        <td> Gold 3 </td>
 	              </tr>
+                <tr align="left">
+                         <td>[BOJ_16433] 주디와 당근농장  </td>
+                       <td> Bronze 1 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_17142] 연구소 3(Laboratory 3) </td>
                        <td> Gold 4 </td>
