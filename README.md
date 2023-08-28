@@ -630,6 +630,10 @@ Baekjoon Online Judge Code
 <table align="center">
 	       <th>Title</th>
 	       <th>Levels</th>
+                <tr align="left">
+                         <td>[BOJ_1389] 케빈 베이컨의 6단계 법칙 (Floyd-Warshall) </td>
+                       <td> Gold 4 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_1504] 특정한 최단 경로(Specific shortest path) (Dijkstra) </td>
                        <td> Gold 4 </td>
