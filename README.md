@@ -480,6 +480,10 @@ Baekjoon Online Judge Code
 <table align="center">
 	       <th>Title</th>
 	       <th>Levels</th>
+                <tr align="left">
+                         <td>[BOJ_1049] 기타줄 </td>
+                       <td> Silver 4 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_1202] 보석 도둑(Jewel thief) </td>
                        <td> Gold 2 </td>
