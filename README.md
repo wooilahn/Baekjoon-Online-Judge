@@ -525,6 +525,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
 	              </tr>
                 <tr align="left">
+                         <td>[BOJ_2847] 게임을 만든 동준이 </td>
+                       <td> Silver 4 </td>
+                  </tr>
+                <tr align="left">
                              <td>[BOJ_3109] 빵집(Bakery) </td>
                        <td> Gold 2 </td>
                       </tr>
