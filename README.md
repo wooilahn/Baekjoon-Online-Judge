@@ -1758,6 +1758,10 @@ Baekjoon Online Judge Code
                        <td> Silver 5 </td>
 	              </tr>
                 <tr align="left">
+                         <td>[BOJ_1225] 이상한 곱셈(Weird multiplication) </td>
+                       <td> Bronze 2 </td>
+                  </tr>
+                <tr align="left">
                              <td>[BOJ_1264] 모음의 개수(The number of vowels) </td>
                        <td> Bronze 4 </td>
                       </tr>
