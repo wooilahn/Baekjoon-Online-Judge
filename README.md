@@ -330,6 +330,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 1 </td>
                   </tr>
                 <tr align="left">
+                         <td>[BOJ_1233] 주사위 </td>
+                       <td> Bronze 2 </td>
+                  </tr>
+                <tr align="left">
                          <td>[BOJ_1342] 행운의 문자열 </td>
                        <td> Silver 1 </td>
                   </tr>
