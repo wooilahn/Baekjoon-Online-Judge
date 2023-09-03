@@ -2258,9 +2258,9 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td> 
 	              </tr>
         		<tr align="left">
-			     <td>[BOJ_1731] 추론(Inference) </td>
-		       <td> Bronze 2 </td>
-		      </tr>
+			             <td>[BOJ_1731] 추론(Inference) </td>
+		               <td> Bronze 2 </td>
+		        </tr>
                 <tr align="left">
                              <td>[BOJ_1747] 소수&팰린드롬(Prime Number & Palindrome) </td>
                        <td> Silver 1 </td>
@@ -2268,6 +2268,10 @@ Baekjoon Online Judge Code
                 <tr align="left">
                              <td>[BOJ_1748] 수 이어 쓰기 1 </td>
                        <td> Silver 4 </td>
+                      </tr>
+                <tr align="left">
+                             <td>[BOJ_1769] 3의 배수 </td>
+                       <td> Silver 5 </td>
                       </tr>
               	<tr align="left">
 	                     <td>[BOJ_1789] 수들의 합(Sum of numbers) </td>
