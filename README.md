@@ -1802,6 +1802,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td>
                   </tr>
                 <tr align="left">
+                         <td>[BOJ_2145] 숫자놀이 </td>
+                       <td> Bronze 2 </td>
+                  </tr>
+                <tr align="left">
                          <td>[BOJ_2153] 소수 단어 </td>
                        <td> Bronze 2 </td>
                   </tr>
