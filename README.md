@@ -2349,6 +2349,10 @@ Baekjoon Online Judge Code
                          <td>[BOJ_2721] 삼각수의 합  </td>
                        <td> Bronze 3 </td>
                   </tr>
+                <tr align="left">
+                         <td>[BOJ_2738] 행렬 덧셈  </td>
+                       <td> Bronze 5 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_2775] 부녀회장이 될테야 </td>
                        <td> Bronze 1 </td>
