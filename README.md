@@ -1042,6 +1042,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
                       </tr>
                 <tr align="left">
+                             <td>[BOJ_2991] 사나운 개  </td>
+                       <td> Bronze 3 </td>
+                      </tr>
+                <tr align="left">
                              <td>[BOJ_3028] 창영마을 </td>
                        <td> Bronze 2 </td>
                       </tr>
