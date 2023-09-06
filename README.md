@@ -1821,6 +1821,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_2495] 연속구간(Continuous Section) </td>
                        <td> Bronze 2 </td>
 	              </tr>
+                <tr align="left">
+                         <td>[BOJ_2607] 비슷한 단어(Similar Words) </td>
+                       <td> Silver 3 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_2675] 문자열 반복(Repeating String) </td>
                        <td> Bronze 2 </td>
