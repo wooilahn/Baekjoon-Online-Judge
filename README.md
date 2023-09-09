@@ -313,6 +313,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_1051] 숫자 정사각형(Number Square) </td>
                        <td> Silver 4 </td>
 	              </tr>
+                <tr align="left">
+                         <td>[BOJ_1059] 좋은 구간 (Good Period) </td>
+                       <td> Silver 4 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_1062] 가르침(teaching) </td>
                        <td> Gold 4 </td>
