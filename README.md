@@ -489,6 +489,10 @@ Baekjoon Online Judge Code
 	       <th>Title</th>
 	       <th>Levels</th>
                 <tr align="left">
+                         <td>[BOJ_1041] 주사위 </td>
+                       <td> Gold 5 </td>
+                  </tr>
+                <tr align="left">
                          <td>[BOJ_1049] 기타줄 </td>
                        <td> Silver 4 </td>
                   </tr>
