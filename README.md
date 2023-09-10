@@ -552,6 +552,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_9576] 책 나눠주기(Handing out books) </td>
                        <td> Gold 2 </td>
 	              </tr>
+                <tr align="left">
+                         <td>[BOJ_10610] 30 </td>
+                       <td> Silver 4 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_11399] ATM </td>
                        <td> Silver 4 </td>
