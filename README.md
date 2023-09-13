@@ -666,6 +666,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_1504] 특정한 최단 경로(Specific shortest path) (Dijkstra) </td>
                        <td> Gold 4 </td>
 	              </tr>
+                <tr align="left">
+                         <td>[BOJ_1707] 이분 그래프(Bipartite Graph) </td>
+                       <td> Gold 4 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_1715] 카드 정렬하기(Sorting Card) (Dijkstra) </td>
                        <td> Gold 4 </td>
