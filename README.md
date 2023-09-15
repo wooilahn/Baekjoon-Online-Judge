@@ -512,6 +512,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_1541] 잃어버린 괄호(Lost parenthesis) </td>
                        <td> Silver 2 </td>
 	              </tr>
+                <tr align="left">
+                         <td>[BOJ_1700] 멀티탭 스케줄링(Multitap Scheduling) </td>
+                       <td> Gold 1 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_1789] 수들의 합(Sum of numbers) </td>
                        <td> Silver 5 </td>
