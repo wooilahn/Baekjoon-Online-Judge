@@ -866,6 +866,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 1 </td>
 	              </tr>
                 <tr align="left">
+                         <td>[BOJ_1205] 등수 구하기(Calculating Rank) </td>
+                       <td> Silver 4 </td>
+                  </tr>
+                <tr align="left">
                          <td>[BOJ_1237] 정ㅋ벅ㅋ </td>
                        <td> 0 </td>
                   </tr>
