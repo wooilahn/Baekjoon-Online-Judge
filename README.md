@@ -2770,6 +2770,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_2822] 점수 계산(Calculating Score) </td>
                        <td> Silver 5 </td>
 	              </tr> 
+                <tr align="left">
+                         <td>[BOJ_5052] 전화번호 목록 (The list of telephone number) </td>
+                       <td> Gold 4 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_5576] 콘테스트(Contest) </td>
                        <td> Bronze 2 </td>
