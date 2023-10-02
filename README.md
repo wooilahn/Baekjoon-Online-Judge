@@ -2794,6 +2794,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_10026] 적록색약(Red-green Color Blindness) </td>
                        <td> Gold 5 </td>
                       </tr>
+                <tr align="left">
+                             <td>[BOJ_10431] 줄세우기(Line-up) </td>
+                       <td> Silver 5 </td>
+                      </tr>
               	<tr align="left">
 	                     <td>[BOJ_10814] 나이순 정렬(Sorting by age) </td>
                        <td> Silver 5 </td>
