@@ -2233,6 +2233,10 @@ Baekjoon Online Judge Code
                              <td>[BOJ_25372] 성택이의 은밀한 비밀번호  </td>
                        <td> Bronze 5 </td>
                       </tr>
+                  <tr align="left">
+                             <td>[BOJ_25757] 임스와 함께하는 미니게임  </td>
+                       <td> Silver 5 </td>
+                      </tr>
 	  </table>
     </details>  
 </div>
