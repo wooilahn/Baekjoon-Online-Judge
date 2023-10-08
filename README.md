@@ -1962,6 +1962,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 2 </td>
                       </tr>
                 <tr align="left">
+                             <td>[BOJ_4659] 비밀번호 발음하기 </td>
+                       <td> Silver 5 </td>
+                      </tr>
+                <tr align="left">
                              <td>[BOJ_4806] 줄 세기(Line Count) </td>
                        <td> Bronze 3 </td>
                       </tr>
