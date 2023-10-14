@@ -2226,6 +2226,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 4 </td>
                       </tr>
                   <tr align="left">
+                             <td>[BOJ_20125] 쿠키의 신체 측정 </td>
+                       <td> Silver 4 </td>
+                      </tr>
+                  <tr align="left">
                              <td>[BOJ_22966] 가장 쉬운 문제를 찾는 문제  </td>
                        <td> Bronze 2 </td>
                       </tr>
