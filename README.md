@@ -2230,6 +2230,10 @@ Baekjoon Online Judge Code
                        <td> Silver 4 </td>
                       </tr>
                   <tr align="left">
+                             <td>[BOJ_20920] 영단어 암기는 괴로워 </td>
+                       <td> Silver 3 </td>
+                      </tr>
+                  <tr align="left">
                              <td>[BOJ_22966] 가장 쉬운 문제를 찾는 문제  </td>
                        <td> Bronze 2 </td>
                       </tr>
