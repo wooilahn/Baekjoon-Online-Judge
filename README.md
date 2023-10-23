@@ -1261,6 +1261,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_8958] OX퀴즈(OX Quiz) </td>
                        <td> Bronze 2 </td>
 	              </tr> 
+                <tr align="left">
+                         <td>[BOJ_9017] 크로스 컨트리 </td>
+                       <td> Silver 3 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_9076] 점수 집계(Totaling Score) </td>
                        <td> Bronze 2 </td>
