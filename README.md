@@ -2686,6 +2686,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
                       </tr>
                   <tr align="left">
+                             <td>[BOJ_17266] 어두운 굴다리 </td>
+                       <td> Silver 4 </td>
+                      </tr>
+                  <tr align="left">
                              <td>[BOJ_17869] Simple Collatz Sequence </td>
                        <td> Bronze 3 </td>
                       </tr>
