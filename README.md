@@ -718,6 +718,7 @@ Baekjoon Online Judge Code
 
 <div align="center">
     <details open>
+    [O
     <summary> <h3> Two Pointers </h3> </summary>
      <table align="center">
 	       <th>Title</th>
@@ -734,6 +735,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_1940] 주몽(Jumong) </td>
                        <td> Silver 4 </td>
 	              </tr>
+                <tr align="left">
+                         <td>[BOJ_21921] 블로그 (Blog) </td>
+                       <td> Silver 3 </td>
+                  </tr>
 	  </table>
     </details> 
 </div>
