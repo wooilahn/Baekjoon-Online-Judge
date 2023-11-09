@@ -1835,6 +1835,10 @@ Baekjoon Online Judge Code
                        <td> Silver 5 </td>
 	              </tr> 
                 <tr align="left">
+                         <td>[BOJ_1515] 수 이어 쓰기 </td>
+                       <td> Silver 3 </td>
+                  </tr>
+                <tr align="left">
                          <td>[BOJ_1755] 숫자놀이 </td>
                        <td> Silver 4 </td>
                   </tr>
