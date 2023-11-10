@@ -2243,6 +2243,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 4 </td>
                       </tr>
                   <tr align="left">
+                             <td>[BOJ_19941] 햄버거 분배 </td>
+                       <td> Silver 3 </td>
+                      </tr>
+                  <tr align="left">
                              <td>[BOJ_20125] 쿠키의 신체 측정 </td>
                        <td> Silver 4 </td>
                       </tr>
