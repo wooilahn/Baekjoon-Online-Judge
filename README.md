@@ -293,6 +293,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_17404] RGB거리 2 (RGB Street 2) </td>
                        <td> Gold 4 </td>
 	              </tr> 
+                <tr align="left">
+                         <td>[BOJ_17484] 진우의 달 여행 (Moon trip of Jinwoo) </td>
+                       <td> Silver 3 </td>
+                  </tr>
 	  </table>
     </details> 
 </div>
