@@ -2591,6 +2591,10 @@ Baekjoon Online Judge Code
                        <td> Bronze 3 </td>
                       </tr>
                   <tr align="left">
+                             <td>[BOJ_9613] GCD 합(sum of GCD) </td>
+                       <td> Silver 4 </td>
+                      </tr>
+                  <tr align="left">
                              <td>[BOJ_9659] 돌 게임 5 </td>
                        <td> Silver 3 </td>
                       </tr>
