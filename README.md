@@ -2314,6 +2314,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_1292] 쉽게 푸는 문제(Problem to solve easily) </td>
                        <td> Bronze 1 </td>
 	              </tr>
+                <tr align="left">
+                         <td>[BOJ_1456] 거의 소수 (Probably Prime Number) </td>
+                       <td> Gold 5 </td>
+                  </tr>
               	<tr align="left">
 	                     <td>[BOJ_1476] 날짜 계산(Data Calculation) </td>
                        <td> Silver 5 </td>
