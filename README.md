@@ -2832,6 +2832,10 @@ Baekjoon Online Judge Code
                        <td> Silver 5 </td>
 	              </tr> 
                 <tr align="left">
+                         <td>[BOJ_3758] KCPC </td>
+                       <td> Silver 2 </td>
+                  </tr>
+                <tr align="left">
                          <td>[BOJ_5052] 전화번호 목록 (The list of telephone number) </td>
                        <td> Gold 4 </td>
                   </tr>
