@@ -800,6 +800,10 @@ Baekjoon Online Judge Code
 	                     <td>[BOJ_10816] 숫자 카드 2(Number Card 2) </td>
                        <td> Silver 4 </td>
 	              </tr>
+                <tr align="left">
+                         <td>[BOJ_19637] IF문 좀 대신 써줘  </td>
+                       <td> Silver 3 </td>
+                  </tr>
 	  </table>
     </details> 
 </div>
